@@ -19,11 +19,11 @@ This book will be arranged in two parts,
 ## Thanks
 https://stackedit.io/ for making awesome Markdown Editor and cool syncing features that is getting used to write this book.
 
-## Lic
+## License
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/3.0/us/88x31.png)
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States License](http://creativecommons.org/licenses/by-nc-nd/3.0/us/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA3NjI4NSwxNDgyMTMzNzMwLC0xND
-M5NTYwNDRdfQ==
+eyJoaXN0b3J5IjpbLTEwNzcyMjYyMDAsMTQ4MjEzMzczMCwtMT
+QzOTU2MDQ0XX0=
 -->
