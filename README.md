@@ -4,6 +4,8 @@ This book will be arranged in two parts,
 1. Pre-Hadoop Era
 2. Post-Hadoop Era (Big-Data Era)
 
+Who is the Author?
+Gagandeep Singh is the Author of this unfinished book. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwNzA0ODk2LC0xNDM5NTYwNDRdfQ==
+eyJoaXN0b3J5IjpbMTYzMzU0OTc5LC0xNDM5NTYwNDRdfQ==
 -->
