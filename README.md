@@ -1,5 +1,5 @@
 # Web Architecture Evolution
-Web Architecture Evolution is `in-progress` book to learn Architectures from 0 to Current level of Web architetures.
+Web Architecture Evolution is `in-progress` book to learn Architectures from 0 to Current level of Web architetures be it Kappa Architecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk1NjA0NF19
+eyJoaXN0b3J5IjpbMTY3MTQxMjU4MCwtMTQzOTU2MDQ0XX0=
 -->
