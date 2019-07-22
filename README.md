@@ -22,8 +22,9 @@ https://stackedit.io/ for making awesome Markdown Editor and cool syncing featur
 ## License
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgwMzMzNjYsLTEwNzcyMjYyMDAsMT
+eyJoaXN0b3J5IjpbLTEwMzcxOTY4MDQsLTEwNzcyMjYyMDAsMT
 Q4MjEzMzczMCwtMTQzOTU2MDQ0XX0=
 -->
