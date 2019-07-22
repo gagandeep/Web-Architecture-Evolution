@@ -1,7 +1,7 @@
 # Web Architecture Evolution
 Web Architecture Evolution is `in-progress` book to learn Architectures from 0 to Current level of Web architetures be it Lambda Architecture, Kappa Architecture, Event driven Architecture.
 ## Why this book?
-In past 4-5 years, Web and its development become more complex with different new technologies and cloud providers got into the eco-system. This complexity needs to be documented for new generation to keep it up with the pace. By this book, they will know why different kind
+In past 4-5 years, Web and its development become more complex with different new technologies and cloud providers got into the eco-system. This complexity needs to be documented for new generation to keep it up with the pace. By this book, they will know why different kind of systems/Architectures are present in the market, how they work together and when to choose one over another.
 
 This book will be arranged in two parts,
 1. Pre-Hadoop Era
@@ -11,5 +11,5 @@ This book will be arranged in two parts,
 **Gagandeep Singh** is the Author of this unfinished book. He has more than 10 years of experience in the industry. He has done couple of startups of his own and also served as VP of Technology in Education startup. He is doing Architecting of web based systems for past 7 years. He worked in different domains from Publishing, Media, Auto-industry, Health, Education and Advertising.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzgzMTA3MiwtMTQzOTU2MDQ0XX0=
+eyJoaXN0b3J5IjpbMTE2MTg4OTE1OCwtMTQzOTU2MDQ0XX0=
 -->
