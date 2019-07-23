@@ -47,7 +47,7 @@ We will not go into details of all the pre-20th Century advancements since that 
 ### 7. IoT (Internet of Things) specialized hardware
 
 
-Do you wondering why are we discussing Human Evolution to Hardware Evolution
+Do you wondering why are we discussing Human Evolution to Hardware Evolution? This book is about Web Architectures not about Human or Hardware. 
 
 ## References
 - History of computing hardware: https://en.wikipedia.org/wiki/History_of_computing_hardware
@@ -56,7 +56,7 @@ Do you wondering why are we discussing Human Evolution to Hardware Evolution
 - Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNzYxMzU2OTkwLC0xODE4NTcw
+BnZm1cbiIsImhpc3RvcnkiOlsxODkxODY4OTAzLC0xODE4NTcw
 OTkxLC0xNTM4ODUyOTA2LC0xMTE1MTI1MzAzLC00MzA1ODA3Mj
 YsLTYwMzI2MzgyMSwtMTU2OTc1ODExNCw2OTgwODk4NTUsLTIx
 NDI1NjA2MzMsMjA2NDk4NDg0OSwtMTgyMjgxMjE1NywtNzM4ND
