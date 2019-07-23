@@ -25,7 +25,7 @@ Before looking at these in more details. Let's digress slightly to focus on one 
 
 ### 1. Pre-20th Century
 
-Humans always have fond of computing devices because they eased up records keeping, transactions' calculations, astronomical calculations and navigational calculations. If you look at earlier computing tools like Tally sticks that were used to record number and other information that help in bilateral trades and debts. Value addition that brought by Tally sticks were related to trades/debts. Not mentioning money here as might not be present in that era of human evolution. However, if you look back that in today's perspective that add value in monetory terms. 
+Humans always have fond of computing devices because they eased up records keeping, transactions' calculations, astronomical calculations and navigational calculations. If you look at earlier computing tools like Tally sticks that were used to record number and other information that help in bilateral trades and debts. Value addition that brought by Tally sticks were related to trades/debts ledger. Not mentioning money here as money might not be present in that era of human evolution. However, if you look back that in today's perspective that add value in monetory terms. 
 Abacus was another computing device
  
 ### 2. First General-purpose Computer
@@ -45,10 +45,10 @@ Abacus was another computing device
 History of computing hardware : https://en.wikipedia.org/wiki/History_of_computing_hardware
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls0ODg1OTY2ODUsLTczODQ1MTM0
-MiwtMTI2NjkwNzc1MywtMjQ4MjE0NTYyLDEyNjE4NTEyNTksMT
-Q2ODg3OTgyNywtMzUzNjc3MDIyLDM5MDQwMDYwNyw4Njg3MTM0
-OTYsMTkxNjQyMDgyMSw4NTU1ODM4MzUsLTEyNjg3ODY1MDQsND
-c1MzIzMzU0LC00OTUwODI2MSwtMjg0Mzg1MTg0LC03MjIyMzQ3
-NjgsMTU0OTc2ODM0NV19
+BnZm1cbiIsImhpc3RvcnkiOlstNDAzOTIyMzY0LC03Mzg0NTEz
+NDIsLTEyNjY5MDc3NTMsLTI0ODIxNDU2MiwxMjYxODUxMjU5LD
+E0Njg4Nzk4MjcsLTM1MzY3NzAyMiwzOTA0MDA2MDcsODY4NzEz
+NDk2LDE5MTY0MjA4MjEsODU1NTgzODM1LC0xMjY4Nzg2NTA0LD
+Q3NTMyMzM1NCwtNDk1MDgyNjEsLTI4NDM4NTE4NCwtNzIyMjM0
+NzY4LDE1NDk3NjgzNDVdfQ==
 -->
