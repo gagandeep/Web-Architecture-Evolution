@@ -24,7 +24,9 @@ The different Eras/Stages of Computing hardware gave us some milestones for the 
 Before looking at these in more details. Let's digress slightly to focus on one thing that add more value to the overall book. In this book, we also discuss **value**, either monetary or otherwise, of the solutions. The value of a solution is what derive humans to achieve that success and evolution of humans as society. 
 
 ### 1. Pre-20th Century
-Humans always have fond of computing devices because they eased up records keeping, transactions' calculations, astronomical calculations and navigational calculations. If you look at earlier computing tools like Tally sticks that were used to record number and other information that help in bilateral trades and debts. Value addition that brought by Tally sticks were related to trades/debts. Not mentioning money here as might not be present in that era of human evolution. Hoever, if you look back that in today's perspective that add value in monetory terms.
+
+Humans always have fond of computing devices because they eased up records keeping, transactions' calculations, astronomical calculations and navigational calculations. If you look at earlier computing tools like Tally sticks that were used to record number and other information that help in bilateral trades and debts. Value addition that brought by Tally sticks were related to trades/debts. Not mentioning money here as might not be present in that era of human evolution. However, if you look back that in today's perspective that add value in monetory terms. 
+
  
 ### 2. First General-purpose Computer
 
@@ -43,10 +45,10 @@ Humans always have fond of computing devices because they eased up records keepi
 History of computing hardware : https://en.wikipedia.org/wiki/History_of_computing_hardware
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTY0MTEzNTY5MywtMTI2Njkw
-Nzc1MywtMjQ4MjE0NTYyLDEyNjE4NTEyNTksMTQ2ODg3OTgyNy
-wtMzUzNjc3MDIyLDM5MDQwMDYwNyw4Njg3MTM0OTYsMTkxNjQy
-MDgyMSw4NTU1ODM4MzUsLTEyNjg3ODY1MDQsNDc1MzIzMzU0LC
-00OTUwODI2MSwtMjg0Mzg1MTg0LC03MjIyMzQ3NjgsMTU0OTc2
-ODM0NV19
+BnZm1cbiIsImhpc3RvcnkiOlstNzM4NDUxMzQyLC0xMjY2OTA3
+NzUzLC0yNDgyMTQ1NjIsMTI2MTg1MTI1OSwxNDY4ODc5ODI3LC
+0zNTM2NzcwMjIsMzkwNDAwNjA3LDg2ODcxMzQ5NiwxOTE2NDIw
+ODIxLDg1NTU4MzgzNSwtMTI2ODc4NjUwNCw0NzUzMjMzNTQsLT
+Q5NTA4MjYxLC0yODQzODUxODQsLTcyMjIzNDc2OCwxNTQ5NzY4
+MzQ1XX0=
 -->
