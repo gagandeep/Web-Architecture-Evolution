@@ -20,9 +20,9 @@ The different Eras/Stages of Computing hardware gave us some milestones for next
  6. Mobile Computers
  7. IOT (Internet of Things) specialized hardware
 
-Let look at that in more details.
+Before looking at these in more details. I want to digre
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNzIyMjM0NzY4LDE1NDk3Njgz
-NDVdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxOTg4Njg4MTc1LC03MjIyMzQ3
+NjgsMTU0OTc2ODM0NV19
 -->
