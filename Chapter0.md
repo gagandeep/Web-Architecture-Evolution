@@ -31,7 +31,7 @@ Abacus was another computing device that eases out arithmetic tasks. Value addit
 
 Timekeeping devices were also evolved from *Looking at Sun and Moon* to *Stonehenge* to *Sundials* to *Hourglass* to *Clock towers* to *Wristwatch* to *Electric clock* to *Atomic clock*. All of these involved major computing advancements in different fields over the periods of centuries. The value those enhancements brought in was from better cordination to better farming to better fishing etc. That leads us to Universal Coordinated Time (UTC) and different time-zones and daylight saving times. Time zones to coordinate things locally to region or country. Daylight saving times to better utilize local day light. UTC to coordinate things across the globe e.g International Air travel coordination, Ships coordination, etc. It still looks like mess to many programmers but coordination at that scale leads to some in-efficiencies and managing that is also getting more and more streamlined. 
 
-We will not go into details of all the pre-20th Century advancements since that will be waste of time. In pre-20th Century, two things are worth mentioning *Difference engine* and *Analytical Engine*. Difference engine was marvel of its time. The time of complex mathematics getting solved by machines for specific purposes. Difference engine was automatic polynomial solver of that time. That idea of Difference engine lead *Charles Babbage* to idea of *Analytical Engine* which was the idea of General purpose computer. The Analytical Engine incorporated an Arithmetic logic unit, Control flow in the form of Conditional branching and Loops, and integrated memory, making it the first design for a general-purpose computer that could be described in modern terms as Turing-complete. In other words, the logical structure of the Analytical Engine was essentially the same as that which has dominated computer design in the electronic era.
+We will not go into details of all the pre-20th Century advancements since that will be waste of time. In pre-20th Century, two things are worth mentioning *Difference engine* and *Analytical Engine*. Difference engine was marvel of its time. The time of complex mathematics getting solved by machines for specific purposes. Difference engine was automatic polynomial solver of that time. That idea of Difference engine lead *Charles Babbage* to idea of *Analytical Engine* which was the idea of General purpose computer. Analytical Engine has an Arithmetic logic unit, Control flow with Conditional branching and Loops, and memory, making it the first design for a general-purpose computer that could be described in modern terms as Turing-complete. In other words, the logical structure of the Analytical Engine was essentially the same as that which has dominated computer design in the electronic era.
 
 ### 2. First General-purpose Computer
 
@@ -55,11 +55,11 @@ We will not go into details of all the pre-20th Century advancements since that 
 - Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTQ2MjYyNTA0MywtMTUzODg1
-MjkwNiwtMTExNTEyNTMwMywtNDMwNTgwNzI2LC02MDMyNjM4Mj
-EsLTE1Njk3NTgxMTQsNjk4MDg5ODU1LC0yMTQyNTYwNjMzLDIw
-NjQ5ODQ4NDksLTE4MjI4MTIxNTcsLTczODQ1MTM0MiwtMTI2Nj
-kwNzc1MywtMjQ4MjE0NTYyLDEyNjE4NTEyNTksMTQ2ODg3OTgy
-NywtMzUzNjc3MDIyLDM5MDQwMDYwNyw4Njg3MTM0OTYsMTkxNj
-QyMDgyMSw4NTU1ODM4MzVdfQ==
+BnZm1cbiIsImhpc3RvcnkiOls1OTgyOTIwODIsLTE1Mzg4NTI5
+MDYsLTExMTUxMjUzMDMsLTQzMDU4MDcyNiwtNjAzMjYzODIxLC
+0xNTY5NzU4MTE0LDY5ODA4OTg1NSwtMjE0MjU2MDYzMywyMDY0
+OTg0ODQ5LC0xODIyODEyMTU3LC03Mzg0NTEzNDIsLTEyNjY5MD
+c3NTMsLTI0ODIxNDU2MiwxMjYxODUxMjU5LDE0Njg4Nzk4Mjcs
+LTM1MzY3NzAyMiwzOTA0MDA2MDcsODY4NzEzNDk2LDE5MTY0Mj
+A4MjEsODU1NTgzODM1XX0=
 -->
