@@ -26,8 +26,8 @@ Before looking at these in more details. Let's digress slightly to focus on one 
 ### 1. Pre-20th Century
 
 Humans always have fond of computing devices because they eased up records keeping, transactions' calculations, astronomical calculations and navigational calculations. If you look at earlier computing tools like Tally sticks that were used to record number and other information that help in bilateral trades and debts. Value addition that brought by Tally sticks were related to trades/debts ledger. Not mentioning money here as money might not be present in that era of human evolution. However, if you look back that in today's perspective that add value in monetory terms. 
-Abacus was another computing device that ease out airthmetics tasks. That add value in more ways like counting important things for record keeping, 
- 
+Abacus was another computing device that ease out airthmetics tasks. That add value in more ways like counting important things for record keeping, frequent trades in large numbers, etc.
+
 ### 2. First General-purpose Computer
 
 ### 3. Analog Computers
@@ -41,14 +41,17 @@ Abacus was another computing device that ease out airthmetics tasks. That add va
 ### 7. IoT (Internet of Things) specialized hardware
 
 
+
+
 ## References
-History of computing hardware : https://en.wikipedia.org/wiki/History_of_computing_hardware
+- History of computing hardware : https://en.wikipedia.org/wiki/History_of_computing_hardware
+- The Abacus: A Brief History https://www.ee.ryerson.ca/~elf/abacus/history.html
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTgyMjgxMjE1NywtNzM4NDUx
-MzQyLC0xMjY2OTA3NzUzLC0yNDgyMTQ1NjIsMTI2MTg1MTI1OS
-wxNDY4ODc5ODI3LC0zNTM2NzcwMjIsMzkwNDAwNjA3LDg2ODcx
-MzQ5NiwxOTE2NDIwODIxLDg1NTU4MzgzNSwtMTI2ODc4NjUwNC
-w0NzUzMjMzNTQsLTQ5NTA4MjYxLC0yODQzODUxODQsLTcyMjIz
-NDc2OCwxNTQ5NzY4MzQ1XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsyMDY0OTg0ODQ5LC0xODIyODEy
+MTU3LC03Mzg0NTEzNDIsLTEyNjY5MDc3NTMsLTI0ODIxNDU2Mi
+wxMjYxODUxMjU5LDE0Njg4Nzk4MjcsLTM1MzY3NzAyMiwzOTA0
+MDA2MDcsODY4NzEzNDk2LDE5MTY0MjA4MjEsODU1NTgzODM1LC
+0xMjY4Nzg2NTA0LDQ3NTMyMzM1NCwtNDk1MDgyNjEsLTI4NDM4
+NTE4NCwtNzIyMjM0NzY4LDE1NDk3NjgzNDVdfQ==
 -->
