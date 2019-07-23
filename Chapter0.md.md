@@ -8,8 +8,10 @@ This will explore Web Architecture from ground up to current level of Streaming 
  5. Speech
  6. [Modern humans](https://en.wikipedia.org/wiki/Behavioral_modernity)
 
+Ofcourse, Era of 
+The different Era
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNzY5OTYyNzM5LDE0ODgwMTc2
-MDUsLTIxMjc5NzgzMDIsNzQxNjAzMjgyLC02MjY5ODIxM119
+BnZm1cbiIsImhpc3RvcnkiOls2MzQyMTk4MjAsMTQ4ODAxNzYw
+NSwtMjEyNzk3ODMwMiw3NDE2MDMyODIsLTYyNjk4MjEzXX0=
 -->
