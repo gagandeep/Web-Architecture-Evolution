@@ -1,5 +1,5 @@
 # Introduction
-This book will explore Web Architecture from the ground up to the current level of Streaming Architectures. It means this book will explore how we reached these architectures from the Analytical Engine. There are different eras where a certain set of technologies, we used in current systems, got a major push. Each era gave us advancement in a certain direction to reach where we are right now. Some advancement becomes obsolete and some become core that we now consider as obvious. It is like Human Evolution stages/eras,
+This book will explore Web Architecture from the ground up to the current level of Streaming Architectures and beyond. It means this book will explore how we reached to these architectures from the Analytical Engine. There are different eras where a certain set of technologies, we used in current systems, got a major push. Each era gave us advancement in a certain direction to reach where we are right now. Some advancement becomes obsolete and some become core that we now consider as obvious. It is like Human Evolution stages/eras,
 
  1. [Stone Age](https://en.wikipedia.org/wiki/Stone_Age#Beginning_of_the_Stone_Age)
  2. Fire Usage
@@ -23,5 +23,5 @@ The different Eras/Stages of Computing Harware gave us somethings.
 Let look at that in more details.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls1MDY5Mzg0MjRdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxNTQ5NzY4MzQ1XX0=
 -->
