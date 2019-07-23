@@ -8,7 +8,7 @@ This book will explore Web Architecture from the ground up to the current level 
  5. Speech
  6. [Modern humans](https://en.wikipedia.org/wiki/Behavioral_modernity)
 
-We now don't consider Fire, cooking, clothes, speech, etc as a major achievement. Since that become core of humans. Now, we are concentrating more on Intelligence, where computers are part of eco-system. Of course, the Era of Computers or Computing is the only fraction of Modern humans. However, we now have more documentation to look at things closely and learn fast. If Modern humans Era is an era of Intelligence building than we are into later stages of that Era and now evolving to create Intelligence in machines. 
+We now don't consider Fire, cooking, clothes, speech, etc as a major achievement. Since that become core of humans. Now, we are concentrating more on Intelligence, where computers are part of eco-system. Of course, the Era of Computers or Computing is the only fraction of Modern humans. However, we now have more documentation to look at things closely and then learn fast and then adopt those changes from learning and then documenting those learning and changes along the way. If Modern humans Era is an era of Intelligence building than we are into later stages of that Era and now evolving to create Intelligence in machines. 
 
 The different Eras/Stages of Computing hardware gave us some milestones for next era. 
 
@@ -23,6 +23,6 @@ The different Eras/Stages of Computing hardware gave us some milestones for next
 Let look at that in more details.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMDQ0NzgyNDE4LDE1NDk3Njgz
+BnZm1cbiIsImhpc3RvcnkiOlstNzIyMjM0NzY4LDE1NDk3Njgz
 NDVdfQ==
 -->
