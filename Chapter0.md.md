@@ -10,19 +10,20 @@ This will explore Web Architecture from the ground up to the current level of St
 
 We now don't consider Fire, cooking, clothes, speech, etc as a major achievement. Since that become core of humans. Now, we are concentrating more on Intelligence, where computers are part of eco-system.Of course, the Era of Computers or Computing is the only fraction of Modern humans. However, we now have more documentation to look at things closely and learn fast. If Modern humans Era is an era of Intelligence building than we are into later stages of that Era and now evolving to create Intelligence in machines. 
 
-The different Eras/Stages of Computing gave us somethings. 
+The different Eras/Stages of Computing Harware gave us somethings. 
 
- 1. Pre-general purpose Computer Era
+ 1. Pre-20th century
  2. First General purpose Computer
  3. Analog Computer
  4. Digital Computer 
  5. Modern Computer
- 6. Mobile
+ 6. Mobile Computers
+ 7. IOT (Internet of Things)
 
 Let look at that in more details.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTQwNjMxMzQ5MCwtNjY4NjA2
-NzQ3LC0xMjM4ODAxODEzLDE0ODgwMTc2MDUsLTIxMjc5NzgzMD
-IsNzQxNjAzMjgyLC02MjY5ODIxM119
+BnZm1cbiIsImhpc3RvcnkiOlstNzU4Mzk3MzQ2LC0xNDA2MzEz
+NDkwLC02Njg2MDY3NDcsLTEyMzg4MDE4MTMsMTQ4ODAxNzYwNS
+wtMjEyNzk3ODMwMiw3NDE2MDMyODIsLTYyNjk4MjEzXX0=
 -->
