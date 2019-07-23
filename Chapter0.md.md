@@ -10,10 +10,12 @@ This will explore Web Architecture from the ground up to the current level of St
 
 We now don't consider Fire, cooking, clothes, speech, etc as a major achievement. Since that become core of humans. Now, we are concentrating more on Intelligence, where computers are part of eco-system.Of course, the Era of Computers or Computing is the only fraction of Modern humans. However, we now have more documentation to look at things closely and learn fast. If Modern humans Era is an era of Intelligence building than we are into later stages of that Era and now evolving to create Intelligence in machines. 
 
-The different Eras/Stages of Computing gave us somethings. Let look at that in more details.
+The different Eras/Stages of Computing gave us somethings. 
+
+Let look at that in more details.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls2ODUwODE4NywtMTIzODgwMTgx
-MywxNDg4MDE3NjA1LC0yMTI3OTc4MzAyLDc0MTYwMzI4MiwtNj
-I2OTgyMTNdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMzM5MTgxNzYxLC0xMjM4ODAx
+ODEzLDE0ODgwMTc2MDUsLTIxMjc5NzgzMDIsNzQxNjAzMjgyLC
+02MjY5ODIxM119
 -->
