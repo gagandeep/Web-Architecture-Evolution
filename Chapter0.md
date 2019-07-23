@@ -47,7 +47,7 @@ We will not go into details of all the pre-20th Century advancements since that 
 ### 7. IoT (Internet of Things) specialized hardware
 
 
-
+Do you wondering why 
 
 ## References
 - History of computing hardware: https://en.wikipedia.org/wiki/History_of_computing_hardware
@@ -56,11 +56,11 @@ We will not go into details of all the pre-20th Century advancements since that 
 - Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTgxODU3MDk5MSwtMTUzODg1
-MjkwNiwtMTExNTEyNTMwMywtNDMwNTgwNzI2LC02MDMyNjM4Mj
-EsLTE1Njk3NTgxMTQsNjk4MDg5ODU1LC0yMTQyNTYwNjMzLDIw
-NjQ5ODQ4NDksLTE4MjI4MTIxNTcsLTczODQ1MTM0MiwtMTI2Nj
-kwNzc1MywtMjQ4MjE0NTYyLDEyNjE4NTEyNTksMTQ2ODg3OTgy
-NywtMzUzNjc3MDIyLDM5MDQwMDYwNyw4Njg3MTM0OTYsMTkxNj
-QyMDgyMSw4NTU1ODM4MzVdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTUwMTkyNTg1MiwtMTgxODU3
+MDk5MSwtMTUzODg1MjkwNiwtMTExNTEyNTMwMywtNDMwNTgwNz
+I2LC02MDMyNjM4MjEsLTE1Njk3NTgxMTQsNjk4MDg5ODU1LC0y
+MTQyNTYwNjMzLDIwNjQ5ODQ4NDksLTE4MjI4MTIxNTcsLTczOD
+Q1MTM0MiwtMTI2NjkwNzc1MywtMjQ4MjE0NTYyLDEyNjE4NTEy
+NTksMTQ2ODg3OTgyNywtMzUzNjc3MDIyLDM5MDQwMDYwNyw4Nj
+g3MTM0OTYsMTkxNjQyMDgyMV19
 -->
