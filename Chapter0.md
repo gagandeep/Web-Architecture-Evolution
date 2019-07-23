@@ -51,13 +51,15 @@ We will not go into details of all the pre-20th Century advancements since that 
 ## References
 - History of computing hardware: https://en.wikipedia.org/wiki/History_of_computing_hardware
 - The Abacus: A Brief History https://www.ee.ryerson.ca/~elf/abacus/history.html
+- Difference engine: https://en.wikipedia.org/wiki/Difference_engine
+- Analytical Engine
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTUzODg1MjkwNiwtMTExNTEy
-NTMwMywtNDMwNTgwNzI2LC02MDMyNjM4MjEsLTE1Njk3NTgxMT
-QsNjk4MDg5ODU1LC0yMTQyNTYwNjMzLDIwNjQ5ODQ4NDksLTE4
-MjI4MTIxNTcsLTczODQ1MTM0MiwtMTI2NjkwNzc1MywtMjQ4Mj
-E0NTYyLDEyNjE4NTEyNTksMTQ2ODg3OTgyNywtMzUzNjc3MDIy
-LDM5MDQwMDYwNyw4Njg3MTM0OTYsMTkxNjQyMDgyMSw4NTU1OD
-M4MzUsLTEyNjg3ODY1MDRdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxNTU0OTM2MDE2LC0xNTM4ODUy
+OTA2LC0xMTE1MTI1MzAzLC00MzA1ODA3MjYsLTYwMzI2MzgyMS
+wtMTU2OTc1ODExNCw2OTgwODk4NTUsLTIxNDI1NjA2MzMsMjA2
+NDk4NDg0OSwtMTgyMjgxMjE1NywtNzM4NDUxMzQyLC0xMjY2OT
+A3NzUzLC0yNDgyMTQ1NjIsMTI2MTg1MTI1OSwxNDY4ODc5ODI3
+LC0zNTM2NzcwMjIsMzkwNDAwNjA3LDg2ODcxMzQ5NiwxOTE2ND
+IwODIxLDg1NTU4MzgzNV19
 -->
