@@ -1,4 +1,5 @@
 # Introduction
+
 This book will explore Web Architecture from the ground up to the current level of Streaming Architectures and beyond. It means this book will explore how we reached these architectures from the Analytical Engine. There are different eras where a certain set of technologies, we used in current systems, got a major push. Each era gave us advancement in a certain direction to reach where we are right now. Some advancement becomes obsolete and some become core that we now consider as obvious. It is like Human Evolution stages/eras,
 
  1. [Stone Age](https://en.wikipedia.org/wiki/Stone_Age#Beginning_of_the_Stone_Age)
@@ -23,18 +24,24 @@ The different Eras/Stages of Computing hardware gave us some milestones for the 
 Before looking at these in more details. Let's digress slightly to focus on one thing that add more value to the overall book. In this book, we also discuss **value**, either monetary or otherwise, of the solutions. The value of a solution is what derive humans to achieve that success and evolution of humans as society. 
 
 ### 1. Pre-20th Century
+
 ### 2. First General-purpose Computer
+
 ### 3. Analog Computers
+
 ### 4. Digital Computers
+
 ### 5. Modern Computers
+
 ### 6. Mobile Computers
+
 ### 7. IoT (Internet of Things) specialized hardware
 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTUzOTMxNjAxOCwxOTE2NDIw
-ODIxLDg1NTU4MzgzNSwtMTI2ODc4NjUwNCw0NzUzMjMzNTQsLT
-Q5NTA4MjYxLC0yODQzODUxODQsLTcyMjIzNDc2OCwxNTQ5NzY4
-MzQ1XX0=
+BnZm1cbiIsImhpc3RvcnkiOls4Njg3MTM0OTYsMTkxNjQyMDgy
+MSw4NTU1ODM4MzUsLTEyNjg3ODY1MDQsNDc1MzIzMzU0LC00OT
+UwODI2MSwtMjg0Mzg1MTg0LC03MjIyMzQ3NjgsMTU0OTc2ODM0
+NV19
 -->
