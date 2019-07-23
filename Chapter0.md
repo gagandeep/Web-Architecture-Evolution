@@ -24,7 +24,8 @@ The different Eras/Stages of Computing hardware gave us some milestones for the 
 Before looking at these in more details. Let's digress slightly to focus on one thing that add more value to the overall book. In this book, we also discuss **value**, either monetary or otherwise, of the solutions. The value of a solution is what derive humans to achieve that success and evolution of humans as society. 
 
 ### 1. Pre-20th Century
-Humans always have fond of computing devices because they ease up records keeping and transactions process. 
+Humans always have fond of computing devices because they eased up records keeping and transactions calculations.
+ 
 ### 2. First General-purpose Computer
 
 ### 3. Analog Computers
@@ -40,8 +41,8 @@ Humans always have fond of computing devices because they ease up records keepin
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlszOTA0MDA2MDcsODY4NzEzNDk2
-LDE5MTY0MjA4MjEsODU1NTgzODM1LC0xMjY4Nzg2NTA0LDQ3NT
-MyMzM1NCwtNDk1MDgyNjEsLTI4NDM4NTE4NCwtNzIyMjM0NzY4
-LDE1NDk3NjgzNDVdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMzUzNjc3MDIyLDM5MDQwMDYw
+Nyw4Njg3MTM0OTYsMTkxNjQyMDgyMSw4NTU1ODM4MzUsLTEyNj
+g3ODY1MDQsNDc1MzIzMzU0LC00OTUwODI2MSwtMjg0Mzg1MTg0
+LC03MjIyMzQ3NjgsMTU0OTc2ODM0NV19
 -->
