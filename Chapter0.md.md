@@ -1,5 +1,5 @@
 # Introduction
-This will explore Web Architecture from ground up to current level of Streaming Architectures. It means this book will explore how we reached to these architectures from Analytical Engine. There are different eras where certain set of techonologies, we used in current systems got major push. Each era gave us advancement in certain direction to reach where we are right now. Some advancement become obsolute and some become core that we now consider as obvious. Its like Human Evolution stages/eras,
+This will explore Web Architecture from the ground up to the current level of Streaming Architectures. It means this book will explore how we reached these architectures from the Analytical Engine. There are different eras where a certain set of technologies, we used in current systems, got a major push. Each era gave us advancement in a certain direction to reach where we are right now. Some advancement becomes obsolete and some become core that we now consider as obvious. It is like Human Evolution stages/eras,
 
  1. [Stone Age](https://en.wikipedia.org/wiki/Stone_Age#Beginning_of_the_Stone_Age)
  2. Fire Usage
@@ -8,11 +8,11 @@ This will explore Web Architecture from ground up to current level of Streaming 
  5. Speech
  6. [Modern humans](https://en.wikipedia.org/wiki/Behavioral_modernity)
 
-Ofcourse, Era of Computers or Computing is only fraction of Modern humans. However, we now have more documentation to look at things closely and learn fast. If Modern humans Era is era of Intelligence building than we are into later stages of that Era and now evolving to create Intelligence  
-The different Era
+We now don't consider Fire, cooking, clothes, speech, etc as a major achievement. Since that become core of humans. Now, we are concentrating more on Intelligence, where computers are part of eco-system.Of course, the Era of Computers or Computing is the only fraction of Modern humans. However, we now have more documentation to look at things closely and learn fast. If Modern humans Era is an era of Intelligence building than we are into later stages of that Era and now evolving to create Intelligence in machines. 
+The different Eras/Stages of Computing gave us somethings. Let look at that in more details.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTIzODgwMTgxMywxNDg4MDE3
-NjA1LC0yMTI3OTc4MzAyLDc0MTYwMzI4MiwtNjI2OTgyMTNdfQ
-==
+BnZm1cbiIsImhpc3RvcnkiOlstOTY3NjMzMjM1LC0xMjM4ODAx
+ODEzLDE0ODgwMTc2MDUsLTIxMjc5NzgzMDIsNzQxNjAzMjgyLC
+02MjY5ODIxM119
 -->
