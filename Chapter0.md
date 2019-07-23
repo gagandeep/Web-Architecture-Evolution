@@ -29,7 +29,7 @@ Humans always have fond of computing devices because they eased up records keepi
 
 Abacus was another computing device that eases out arithmetic tasks. Value addition of Abacus was in ways like counting important things for record-keeping, frequent trades in large numbers, etc. Progression from *Abacus* to *Calculators* involved computing advances to ease out calculations.
 
-Timekeeping devices were also evolved from `Looking at Sun and Moon` to `Stonehenge` to `Sundials` to `Hourglass` to `Clock towers` to `Wristwatch` to `Electric clock` to `Atomic clock`. All of these involved major computing advancements in different fields over the periods of centuries. The value those enhancements brought in was from better cordination to better farming to better fishing etc. That leads us to Universal Coordinated Time (UTC) and different time-zones and daylight saving times. 
+Timekeeping devices were also evolved from `Looking at Sun and Moon` to `Stonehenge` to `Sundials` to `Hourglass` to `Clock towers` to `Wristwatch` to `Electric clock` to `Atomic clock`. All of these involved major computing advancements in different fields over the periods of centuries. The value those enhancements brought in was from better cordination to better farming to better fishing etc. That leads us to Universal Coordinated Time (UTC) and different time-zones and daylight saving times. Time zones to coordinate things locally to region or country. UTC to coordinate things across the globe e.g InternationalAir travel, Ships, etc.
 
 
 ### 2. First General-purpose Computer
@@ -52,7 +52,7 @@ Timekeeping devices were also evolved from `Looking at Sun and Moon` to `Stonehe
 - The Abacus: A Brief History https://www.ee.ryerson.ca/~elf/abacus/history.html
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMTAzNzA5MjkwLC0xNTY5NzU4
+BnZm1cbiIsImhpc3RvcnkiOlstOTU2OTgxNTU2LC0xNTY5NzU4
 MTE0LDY5ODA4OTg1NSwtMjE0MjU2MDYzMywyMDY0OTg0ODQ5LC
 0xODIyODEyMTU3LC03Mzg0NTEzNDIsLTEyNjY5MDc3NTMsLTI0
 ODIxNDU2MiwxMjYxODUxMjU5LDE0Njg4Nzk4MjcsLTM1MzY3Nz
