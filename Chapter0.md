@@ -24,7 +24,7 @@ The different Eras/Stages of Computing hardware gave us some milestones for the 
 Before looking at these in more details. Let's digress slightly to focus on one thing that add more value to the overall book. In this book, we also discuss **value**, either monetary or otherwise, of the solutions. The value of a solution is what derive humans to achieve that success and evolution of humans as society. 
 
 ### 1. Pre-20th Century
-Humans always have fond of computing devices because they eased up records keeping, transactions' calculations and astronomical calculations. If you look at earlier computing tools like Abacus
+Humans always have fond of computing devices because they eased up records keeping, transactions' calculations and astronomical calculations. If you look at earlier computing tools like Abacus [1]
  
 ### 2. First General-purpose Computer
 
@@ -38,11 +38,12 @@ Humans always have fond of computing devices because they eased up records keepi
 
 ### 7. IoT (Internet of Things) specialized hardware
 
-[1]: https://en.wikipedia.org/wiki/History_of_computing_hardware
+References
+History of computing hardwarehttps://en.wikipedia.org/wiki/History_of_computing_hardware
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjIzNjM4OCwtMzUzNjc3MDIy
-LDM5MDQwMDYwNyw4Njg3MTM0OTYsMTkxNjQyMDgyMSw4NTU1OD
-M4MzUsLTEyNjg3ODY1MDQsNDc1MzIzMzU0LC00OTUwODI2MSwt
-Mjg0Mzg1MTg0LC03MjIyMzQ3NjgsMTU0OTc2ODM0NV19
+BnZm1cbiIsImhpc3RvcnkiOlstMTM5NTE3MTc5NSwtMzUzNjc3
+MDIyLDM5MDQwMDYwNyw4Njg3MTM0OTYsMTkxNjQyMDgyMSw4NT
+U1ODM4MzUsLTEyNjg3ODY1MDQsNDc1MzIzMzU0LC00OTUwODI2
+MSwtMjg0Mzg1MTg0LC03MjIyMzQ3NjgsMTU0OTc2ODM0NV19
 -->
