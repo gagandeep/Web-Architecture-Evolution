@@ -30,7 +30,7 @@ Humans always have fond of computing devices because they eased up records keepi
 Abacus was another computing device that eases out arithmetic tasks. Value addition of Abacus was in ways like counting important things for record-keeping, frequent trades in large numbers, etc.
 Progression from *Abacus* to *Calculators* involved computing advances.
 
-Timekeeping devices were also evolved from `Looking at Sun and Moon` to `Stonehenge` to `Sundials` to `Hourglass` to `Clock towers` to `Wristwatch` to `Electric clock` to `Atomic clock`. All of these involved major computing advancements in different fields over the pe
+Timekeeping devices were also evolved from `Looking at Sun and Moon` to `Stonehenge` to `Sundials` to `Hourglass` to `Clock towers` to `Wristwatch` to `Electric clock` to `Atomic clock`. All of these involved major computing advancements in different fields over the periods of centuries.
 
 
 ### 2. First General-purpose Computer
@@ -53,11 +53,11 @@ Timekeeping devices were also evolved from `Looking at Sun and Moon` to `Stonehe
 - The Abacus: A Brief History https://www.ee.ryerson.ca/~elf/abacus/history.html
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstODc5ODQxNTQ4LC0xNTY5NzU4
-MTE0LDY5ODA4OTg1NSwtMjE0MjU2MDYzMywyMDY0OTg0ODQ5LC
-0xODIyODEyMTU3LC03Mzg0NTEzNDIsLTEyNjY5MDc3NTMsLTI0
-ODIxNDU2MiwxMjYxODUxMjU5LDE0Njg4Nzk4MjcsLTM1MzY3Nz
-AyMiwzOTA0MDA2MDcsODY4NzEzNDk2LDE5MTY0MjA4MjEsODU1
-NTgzODM1LC0xMjY4Nzg2NTA0LDQ3NTMyMzM1NCwtNDk1MDgyNj
-EsLTI4NDM4NTE4NF19
+BnZm1cbiIsImhpc3RvcnkiOls5MDY4MDcwOCwtMTU2OTc1ODEx
+NCw2OTgwODk4NTUsLTIxNDI1NjA2MzMsMjA2NDk4NDg0OSwtMT
+gyMjgxMjE1NywtNzM4NDUxMzQyLC0xMjY2OTA3NzUzLC0yNDgy
+MTQ1NjIsMTI2MTg1MTI1OSwxNDY4ODc5ODI3LC0zNTM2NzcwMj
+IsMzkwNDAwNjA3LDg2ODcxMzQ5NiwxOTE2NDIwODIxLDg1NTU4
+MzgzNSwtMTI2ODc4NjUwNCw0NzUzMjMzNTQsLTQ5NTA4MjYxLC
+0yODQzODUxODRdfQ==
 -->
