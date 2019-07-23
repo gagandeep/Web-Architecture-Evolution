@@ -24,7 +24,7 @@ The different Eras/Stages of Computing hardware gave us some milestones for the 
 Before looking at these in more details. Let's digress slightly to focus on one thing that add more value to the overall book. In this book, we also discuss **value**, either monetary or otherwise, of the solutions. The value of a solution is what derive humans to achieve that success and evolution of humans as society. 
 
 ### 1. Pre-20th Century
-Humans always have fond of computing devices because they eased up records keeping, transactions' calculations and astronomical calculations. If you look at earlier computing tools like Abacus [1]
+Humans always have fond of computing devices because they eased up records keeping, transactions' calculations and astronomical calculations. If you look at earlier computing tools like Tally stick
  
 ### 2. First General-purpose Computer
 
@@ -43,8 +43,9 @@ Humans always have fond of computing devices because they eased up records keepi
 History of computing hardware : https://en.wikipedia.org/wiki/History_of_computing_hardware
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNDY4ODc5ODI3LC0zNTM2Nzcw
-MjIsMzkwNDAwNjA3LDg2ODcxMzQ5NiwxOTE2NDIwODIxLDg1NT
-U4MzgzNSwtMTI2ODc4NjUwNCw0NzUzMjMzNTQsLTQ5NTA4MjYx
-LC0yODQzODUxODQsLTcyMjIzNDc2OCwxNTQ5NzY4MzQ1XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsxMjYxODUxMjU5LDE0Njg4Nzk4
+MjcsLTM1MzY3NzAyMiwzOTA0MDA2MDcsODY4NzEzNDk2LDE5MT
+Y0MjA4MjEsODU1NTgzODM1LC0xMjY4Nzg2NTA0LDQ3NTMyMzM1
+NCwtNDk1MDgyNjEsLTI4NDM4NTE4NCwtNzIyMjM0NzY4LDE1ND
+k3NjgzNDVdfQ==
 -->
