@@ -31,7 +31,7 @@ Abacus was another computing device that eases out arithmetic tasks. Value addit
 
 Timekeeping devices were also evolved from `Looking at Sun and Moon` to `Stonehenge` to `Sundials` to `Hourglass` to `Clock towers` to `Wristwatch` to `Electric clock` to `Atomic clock`. All of these involved major computing advancements in different fields over the periods of centuries. The value those enhancements brought in was from better cordination to better farming to better fishing etc. That leads us to Universal Coordinated Time (UTC) and different time-zones and daylight saving times. Time zones to coordinate things locally to region or country. Daylight saving times to better utilize local day light. UTC to coordinate things across the globe e.g International Air travel coordination, Ships coordination, etc. It still looks like mess to many programmers but coordination at that scale leads to some in-efficiencies and managing that is also getting more and more streamlined. 
 
-Up until 
+We will not go into Up until 19th century
 
 ### 2. First General-purpose Computer
 
@@ -53,11 +53,11 @@ Up until
 - The Abacus: A Brief History https://www.ee.ryerson.ca/~elf/abacus/history.html
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjA2Mzc1NzY2NywtMTU2OTc1
-ODExNCw2OTgwODk4NTUsLTIxNDI1NjA2MzMsMjA2NDk4NDg0OS
-wtMTgyMjgxMjE1NywtNzM4NDUxMzQyLC0xMjY2OTA3NzUzLC0y
-NDgyMTQ1NjIsMTI2MTg1MTI1OSwxNDY4ODc5ODI3LC0zNTM2Nz
-cwMjIsMzkwNDAwNjA3LDg2ODcxMzQ5NiwxOTE2NDIwODIxLDg1
-NTU4MzgzNSwtMTI2ODc4NjUwNCw0NzUzMjMzNTQsLTQ5NTA4Mj
-YxLC0yODQzODUxODRdfQ==
+BnZm1cbiIsImhpc3RvcnkiOls0NzM5MDkwNTIsLTE1Njk3NTgx
+MTQsNjk4MDg5ODU1LC0yMTQyNTYwNjMzLDIwNjQ5ODQ4NDksLT
+E4MjI4MTIxNTcsLTczODQ1MTM0MiwtMTI2NjkwNzc1MywtMjQ4
+MjE0NTYyLDEyNjE4NTEyNTksMTQ2ODg3OTgyNywtMzUzNjc3MD
+IyLDM5MDQwMDYwNyw4Njg3MTM0OTYsMTkxNjQyMDgyMSw4NTU1
+ODM4MzUsLTEyNjg3ODY1MDQsNDc1MzIzMzU0LC00OTUwODI2MS
+wtMjg0Mzg1MTg0XX0=
 -->
