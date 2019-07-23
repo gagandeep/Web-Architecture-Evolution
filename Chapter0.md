@@ -27,6 +27,7 @@ Before looking at these in more details. Let's digress slightly to focus on one 
 
 Humans always have fond of computing devices because they eased up records keeping, transactions' calculations, astronomical calculations and navigational calculations. If you look at earlier computing tools like Tally sticks that were used to record number and other information that help in bilateral trades and debts. Value addition that brought by Tally sticks were related to trades/debts ledger. Not mentioning money here as money might not be present in that era of human evolution. However, if you look back that in today's perspective that add value in monetory terms. 
 Abacus was another computing device that ease out airthmetics tasks. That add value in more ways like counting important things for record keeping, frequent trades in large numbers, etc.
+Jantar Mantar, architectural astronomical instruments, 
 
 ### 2. First General-purpose Computer
 
@@ -48,10 +49,11 @@ Abacus was another computing device that ease out airthmetics tasks. That add va
 - The Abacus: A Brief History https://www.ee.ryerson.ca/~elf/abacus/history.html
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMDY0OTg0ODQ5LC0xODIyODEy
-MTU3LC03Mzg0NTEzNDIsLTEyNjY5MDc3NTMsLTI0ODIxNDU2Mi
-wxMjYxODUxMjU5LDE0Njg4Nzk4MjcsLTM1MzY3NzAyMiwzOTA0
-MDA2MDcsODY4NzEzNDk2LDE5MTY0MjA4MjEsODU1NTgzODM1LC
-0xMjY4Nzg2NTA0LDQ3NTMyMzM1NCwtNDk1MDgyNjEsLTI4NDM4
-NTE4NCwtNzIyMjM0NzY4LDE1NDk3NjgzNDVdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMjE0MjU2MDYzMywyMDY0OTg0
+ODQ5LC0xODIyODEyMTU3LC03Mzg0NTEzNDIsLTEyNjY5MDc3NT
+MsLTI0ODIxNDU2MiwxMjYxODUxMjU5LDE0Njg4Nzk4MjcsLTM1
+MzY3NzAyMiwzOTA0MDA2MDcsODY4NzEzNDk2LDE5MTY0MjA4Mj
+EsODU1NTgzODM1LC0xMjY4Nzg2NTA0LDQ3NTMyMzM1NCwtNDk1
+MDgyNjEsLTI4NDM4NTE4NCwtNzIyMjM0NzY4LDE1NDk3NjgzND
+VdfQ==
 -->
