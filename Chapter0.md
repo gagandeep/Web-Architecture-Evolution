@@ -23,10 +23,18 @@ The different Eras/Stages of Computing hardware gave us some milestones for the 
 Before looking at these in more details. Let's digress slightly to focus on one thing that add more value to the overall book. In this book, we also discuss **value**, either monetary or otherwise, of the solutions. The value of a solution is what derive humans to achieve that success and evolution of humans as society. 
 
 ### 1. Pre-20th Century
+### 2. First General-purpose Computer
+### 3. Analog Computers
+### 4. Digital Computers
+### 5. Modern Computers
+### 6. Mobile Computers
+### 7. IoT (Internet of Things) specialized hardware
+
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxOTE2NDIwODIxLDg1NTU4Mzgz
-NSwtMTI2ODc4NjUwNCw0NzUzMjMzNTQsLTQ5NTA4MjYxLC0yOD
-QzODUxODQsLTcyMjIzNDc2OCwxNTQ5NzY4MzQ1XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMTUzOTMxNjAxOCwxOTE2NDIw
+ODIxLDg1NTU4MzgzNSwtMTI2ODc4NjUwNCw0NzUzMjMzNTQsLT
+Q5NTA4MjYxLC0yODQzODUxODQsLTcyMjIzNDc2OCwxNTQ5NzY4
+MzQ1XX0=
 -->
