@@ -13,12 +13,13 @@ We now don't consider Fire, cooking, clothes, speech, etc as a major achievement
 The different Eras/Stages of Computing gave us somethings. 
 
  1. Pre-general purpose Computer Era
- 2. 
+ 2. First General purpose Computer
+ 3. 
 
 Let look at that in more details.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTc4NjI5NTYwMSwtMTIzODgw
+BnZm1cbiIsImhpc3RvcnkiOlstMTI2NDc5MjMwOSwtMTIzODgw
 MTgxMywxNDg4MDE3NjA1LC0yMTI3OTc4MzAyLDc0MTYwMzI4Mi
 wtNjI2OTgyMTNdfQ==
 -->
