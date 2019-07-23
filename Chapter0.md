@@ -38,12 +38,13 @@ Humans always have fond of computing devices because they eased up records keepi
 
 ### 7. IoT (Internet of Things) specialized hardware
 
-References
-History of computing hardwarehttps://en.wikipedia.org/wiki/History_of_computing_hardware
+
+## References
+History of computing hardware : https://en.wikipedia.org/wiki/History_of_computing_hardware
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTM5NTE3MTc5NSwtMzUzNjc3
-MDIyLDM5MDQwMDYwNyw4Njg3MTM0OTYsMTkxNjQyMDgyMSw4NT
-U1ODM4MzUsLTEyNjg3ODY1MDQsNDc1MzIzMzU0LC00OTUwODI2
-MSwtMjg0Mzg1MTg0LC03MjIyMzQ3NjgsMTU0OTc2ODM0NV19
+BnZm1cbiIsImhpc3RvcnkiOlsxNDY4ODc5ODI3LC0zNTM2Nzcw
+MjIsMzkwNDAwNjA3LDg2ODcxMzQ5NiwxOTE2NDIwODIxLDg1NT
+U4MzgzNSwtMTI2ODc4NjUwNCw0NzUzMjMzNTQsLTQ5NTA4MjYx
+LC0yODQzODUxODQsLTcyMjIzNDc2OCwxNTQ5NzY4MzQ1XX0=
 -->
