@@ -7,7 +7,7 @@ In past 7-8 years, Web and its development become more and more complex with dif
  - Why different kind of systems/Architectures are present in the market
  - What problems they solve
  - How they work in principal
- - When to choose them and Why.
+ - When to choose them and Why to choose them
 
 This book will be arranged in two parts,
 1. Pre-Hadoop Era
@@ -25,6 +25,6 @@ https://stackedit.io/ for making awesome Markdown Editor and cool syncing featur
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM1Njk3MDAsLTEwMzcxOTY4MDQsLT
-EwNzcyMjYyMDAsMTQ4MjEzMzczMCwtMTQzOTU2MDQ0XX0=
+eyJoaXN0b3J5IjpbMTI2NTMyNTg3MCwtMTAzNzE5NjgwNCwtMT
+A3NzIyNjIwMCwxNDgyMTMzNzMwLC0xNDM5NTYwNDRdfQ==
 -->
