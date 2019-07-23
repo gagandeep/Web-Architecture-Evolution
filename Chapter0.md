@@ -47,7 +47,7 @@ We will not go into details of all the pre-20th Century advancements since that 
 ### 7. IoT (Internet of Things) specialized hardware
 
 
-Do you wondering why are we discussing Human Evolution to Hardware Evolution? This book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is well known thing so you could streamline those thoughts of evolution going forward and then to make those thoughts more relevant to Web Architecure, 
+Do you wondering why are we discussing Human Evolution or Hardware Evolution? This book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is well known thing so you could streamline those thoughts of evolution going forward and then we discussed about Hardware Evolution to make those thoughts more relevant to Web Architecure. 
 
 ## References
 - History of computing hardware: https://en.wikipedia.org/wiki/History_of_computing_hardware
@@ -56,11 +56,11 @@ Do you wondering why are we discussing Human Evolution to Hardware Evolution? Th
 - Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTI2NDYyMzYzMywtMTgxODU3
-MDk5MSwtMTUzODg1MjkwNiwtMTExNTEyNTMwMywtNDMwNTgwNz
-I2LC02MDMyNjM4MjEsLTE1Njk3NTgxMTQsNjk4MDg5ODU1LC0y
-MTQyNTYwNjMzLDIwNjQ5ODQ4NDksLTE4MjI4MTIxNTcsLTczOD
-Q1MTM0MiwtMTI2NjkwNzc1MywtMjQ4MjE0NTYyLDEyNjE4NTEy
-NTksMTQ2ODg3OTgyNywtMzUzNjc3MDIyLDM5MDQwMDYwNyw4Nj
-g3MTM0OTYsMTkxNjQyMDgyMV19
+BnZm1cbiIsImhpc3RvcnkiOlstMTk1Mjk0Nzg2LC0xODE4NTcw
+OTkxLC0xNTM4ODUyOTA2LC0xMTE1MTI1MzAzLC00MzA1ODA3Mj
+YsLTYwMzI2MzgyMSwtMTU2OTc1ODExNCw2OTgwODk4NTUsLTIx
+NDI1NjA2MzMsMjA2NDk4NDg0OSwtMTgyMjgxMjE1NywtNzM4ND
+UxMzQyLC0xMjY2OTA3NzUzLC0yNDgyMTQ1NjIsMTI2MTg1MTI1
+OSwxNDY4ODc5ODI3LC0zNTM2NzcwMjIsMzkwNDAwNjA3LDg2OD
+cxMzQ5NiwxOTE2NDIwODIxXX0=
 -->
