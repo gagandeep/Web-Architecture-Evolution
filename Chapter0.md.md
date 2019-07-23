@@ -18,12 +18,12 @@ The different Eras/Stages of Computing Harware gave us somethings.
  4. Digital Computer 
  5. Modern Computer
  6. Mobile Computers
- 7. IOT (Internet of Things)
+ 7. IOT (Internet of Things) Specialized hardware
 
 Let look at that in more details.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNzU4Mzk3MzQ2LC0xNDA2MzEz
+BnZm1cbiIsImhpc3RvcnkiOlsxOTMwODc5NDQ1LC0xNDA2MzEz
 NDkwLC02Njg2MDY3NDcsLTEyMzg4MDE4MTMsMTQ4ODAxNzYwNS
 wtMjEyNzk3ODMwMiw3NDE2MDMyODIsLTYyNjk4MjEzXX0=
 -->
