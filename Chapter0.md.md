@@ -16,11 +16,13 @@ The different Eras/Stages of Computing gave us somethings.
  2. First General purpose Computer
  3. Analog Computer
  4. Digital Computer 
+ 5. Modern Computer
+ 6. Mobile
 
 Let look at that in more details.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjY4NjA2NzQ3LC0xMjM4ODAx
-ODEzLDE0ODgwMTc2MDUsLTIxMjc5NzgzMDIsNzQxNjAzMjgyLC
-02MjY5ODIxM119
+BnZm1cbiIsImhpc3RvcnkiOlstMTQwNjMxMzQ5MCwtNjY4NjA2
+NzQ3LC0xMjM4ODAxODEzLDE0ODgwMTc2MDUsLTIxMjc5NzgzMD
+IsNzQxNjAzMjgyLC02MjY5ODIxM119
 -->
