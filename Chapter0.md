@@ -29,7 +29,7 @@ Humans always have fond of computing devices because they eased up records keepi
 
 Abacus was another computing device that eases out arithmetic tasks. Value addition of Abacus was in ways like counting important things for record-keeping, frequent trades in large numbers, etc. Progression from *Abacus* to *Calculators* involved computing advances to ease out calculations.
 
-Timekeeping devices were also evolved from `Looking at Sun and Moon` to `Stonehenge` to `Sundials` to `Hourglass` to `Clock towers` to `Wristwatch` to `Electric clock` to `Atomic clock`. All of these involved major computing advancements in different fields over the periods of centuries. The value those enhancements brought in was from better cordination to better farming to better fishing etc. That leads us to Universal Coordinated Time (UTC) and different time-zones and daylight saving times. Time zones to coordinate things locally to region or country. Daylight saving times to better utilize local day light. UTC to coordinate things across the globe e.g International Air travel coordination, Ships coordination, etc. It still looks like mess to many programmers but coordination at that scale leads to some in-efficiencies and managing that is also getting more and more streamlined. 
+Timekeeping devices were also evolved from *Looking at Sun and Moon* to *Stonehenge* to *Sundials* to `Hourglass` to `Clock towers` to `Wristwatch` to `Electric clock` to `Atomic clock`. All of these involved major computing advancements in different fields over the periods of centuries. The value those enhancements brought in was from better cordination to better farming to better fishing etc. That leads us to Universal Coordinated Time (UTC) and different time-zones and daylight saving times. Time zones to coordinate things locally to region or country. Daylight saving times to better utilize local day light. UTC to coordinate things across the globe e.g International Air travel coordination, Ships coordination, etc. It still looks like mess to many programmers but coordination at that scale leads to some in-efficiencies and managing that is also getting more and more streamlined. 
 
 We will not go into details of all the pre-20th Century advancements since that will be waste of time. In pre-20th Century, two things are worth mentioning `Diff`
 
@@ -53,11 +53,11 @@ We will not go into details of all the pre-20th Century advancements since that 
 - The Abacus: A Brief History https://www.ee.ryerson.ca/~elf/abacus/history.html
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNDMwNTgwNzI2LC02MDMyNjM4
-MjEsLTE1Njk3NTgxMTQsNjk4MDg5ODU1LC0yMTQyNTYwNjMzLD
-IwNjQ5ODQ4NDksLTE4MjI4MTIxNTcsLTczODQ1MTM0MiwtMTI2
-NjkwNzc1MywtMjQ4MjE0NTYyLDEyNjE4NTEyNTksMTQ2ODg3OT
-gyNywtMzUzNjc3MDIyLDM5MDQwMDYwNyw4Njg3MTM0OTYsMTkx
-NjQyMDgyMSw4NTU1ODM4MzUsLTEyNjg3ODY1MDQsNDc1MzIzMz
-U0LC00OTUwODI2MV19
+BnZm1cbiIsImhpc3RvcnkiOlstNDM1Nzc3Mzc4LC00MzA1ODA3
+MjYsLTYwMzI2MzgyMSwtMTU2OTc1ODExNCw2OTgwODk4NTUsLT
+IxNDI1NjA2MzMsMjA2NDk4NDg0OSwtMTgyMjgxMjE1NywtNzM4
+NDUxMzQyLC0xMjY2OTA3NzUzLC0yNDgyMTQ1NjIsMTI2MTg1MT
+I1OSwxNDY4ODc5ODI3LC0zNTM2NzcwMjIsMzkwNDAwNjA3LDg2
+ODcxMzQ5NiwxOTE2NDIwODIxLDg1NTU4MzgzNSwtMTI2ODc4Nj
+UwNCw0NzUzMjMzNTRdfQ==
 -->
