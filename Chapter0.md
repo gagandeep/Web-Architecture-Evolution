@@ -20,9 +20,9 @@ The different Eras/Stages of Computing hardware gave us some milestones for the 
  6. Mobile Computers
  7. IoT (Internet of Things) specialized hardware
 
-Before looking at these in more details. Let's digress slightly to focus on one thing that add more value to the overall book. In this book, we also discuss about **value**, either monetory or otherwise, of the solutions. The value of solution is what derive humans.
+Before looking at these in more details. Let's digress slightly to focus on one thing that add more value to the overall book. In this book, we also discuss about **value**, either monetory or otherwise, of the solutions. The value of solution is what derive humans to achieve that success.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMTA5MjA3NTQ4LC00OTUwODI2
-MSwtMjg0Mzg1MTg0LC03MjIyMzQ3NjgsMTU0OTc2ODM0NV19
+BnZm1cbiIsImhpc3RvcnkiOls0NzUzMjMzNTQsLTQ5NTA4MjYx
+LC0yODQzODUxODQsLTcyMjIzNDc2OCwxNTQ5NzY4MzQ1XX0=
 -->
