@@ -8,11 +8,11 @@ This will explore Web Architecture from ground up to current level of Streaming 
  5. Speech
  6. [Modern humans](https://en.wikipedia.org/wiki/Behavioral_modernity)
 
-Ofcourse, Era of Computers or Computing is only fraction of Modern humans. However, we now have more documentation to look at things closely and learn fast. If Modern humans 
+Ofcourse, Era of Computers or Computing is only fraction of Modern humans. However, we now have more documentation to look at things closely and learn fast. If Modern humans Era is era of Intelligence building than we are into later stages of that Era and now evolving to create Intelligence  
 The different Era
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTcyNDUwMzUwMiwxNDg4MDE3
+BnZm1cbiIsImhpc3RvcnkiOlstMTIzODgwMTgxMywxNDg4MDE3
 NjA1LC0yMTI3OTc4MzAyLDc0MTYwMzI4MiwtNjI2OTgyMTNdfQ
 ==
 -->
