@@ -15,11 +15,12 @@ The different Eras/Stages of Computing gave us somethings.
  1. Pre-general purpose Computer Era
  2. First General purpose Computer
  3. Analog Computer
+ 4. Digital Computer 
 
 Let look at that in more details.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstODk2ODk5Mjc2LC0xMjM4ODAx
+BnZm1cbiIsImhpc3RvcnkiOlstNjY4NjA2NzQ3LC0xMjM4ODAx
 ODEzLDE0ODgwMTc2MDUsLTIxMjc5NzgzMDIsNzQxNjAzMjgyLC
 02MjY5ODIxM119
 -->
