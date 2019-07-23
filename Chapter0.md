@@ -20,9 +20,9 @@ The different Eras/Stages of Computing hardware gave us some milestones for the 
  6. Mobile Computers
  7. IoT (Internet of Things) specialized hardware
 
-Before looking at these in more details. I want to digress to fucus on one more thing that 
+Before looking at these in more details. I want to digress to focus on one thing that in my belief add more value to the overall book. 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTM1OTM1MzM5MiwtNzIyMjM0
-NzY4LDE1NDk3NjgzNDVdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMjg0Mzg1MTg0LC03MjIyMzQ3
+NjgsMTU0OTc2ODM0NV19
 -->
