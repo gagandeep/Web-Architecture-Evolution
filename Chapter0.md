@@ -22,10 +22,11 @@ The different Eras/Stages of Computing hardware gave us some milestones for the 
 
 Before looking at these in more details. Let's digress slightly to focus on one thing that add more value to the overall book. In this book, we also discuss **value**, either monetary or otherwise, of the solutions. The value of a solution is what derive humans to achieve that success and evolution of humans as society. 
 
+### 1. Pre-20th Century
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTk4NTE2MzMzNyw4NTU1ODM4
-MzUsLTEyNjg3ODY1MDQsNDc1MzIzMzU0LC00OTUwODI2MSwtMj
-g0Mzg1MTg0LC03MjIyMzQ3NjgsMTU0OTc2ODM0NV19
+BnZm1cbiIsImhpc3RvcnkiOlsxOTE2NDIwODIxLDg1NTU4Mzgz
+NSwtMTI2ODc4NjUwNCw0NzUzMjMzNTQsLTQ5NTA4MjYxLC0yOD
+QzODUxODQsLTcyMjIzNDc2OCwxNTQ5NzY4MzQ1XX0=
 -->
