@@ -28,7 +28,8 @@ Before looking at these in more details. Let's digress slightly to focus on one 
 Humans always have fond of computing devices because they eased up records keeping, transactions' calculations, astronomical calculations and navigational calculations. If you look at earlier computing tools like Tally sticks that were used to record number and other information that help in bilateral trades and debts. Value addition that brought by Tally sticks were related to trades/debts ledger. Not mentioning money here as money might not be present in that era of human evolution. However, if you look back that in today's perspective that add value in monetory terms. 
 
 Abacus was another computing device that ease out airthmetics tasks. That add value in more ways like counting important things for record keeping, frequent trades in large numbers, etc.
-Prograssion from *Abacus* to 
+Progression from *Abacus* to *Calculators* 
+
 Time keeping devices were also evolved from `Looking at Sun and Moon` to `Stonehenge` to `Sundials` to `Hourglass` to `Clock towers` to `Wristwatch` to `Electric clock` to `Atomic clock`. All of these involved major computing advancements in different fields.
 
 
@@ -52,11 +53,11 @@ Time keeping devices were also evolved from `Looking at Sun and Moon` to `Stoneh
 - The Abacus: A Brief History https://www.ee.ryerson.ca/~elf/abacus/history.html
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjk4NTc2OTMsNjk4MDg5ODU1
-LC0yMTQyNTYwNjMzLDIwNjQ5ODQ4NDksLTE4MjI4MTIxNTcsLT
-czODQ1MTM0MiwtMTI2NjkwNzc1MywtMjQ4MjE0NTYyLDEyNjE4
-NTEyNTksMTQ2ODg3OTgyNywtMzUzNjc3MDIyLDM5MDQwMDYwNy
-w4Njg3MTM0OTYsMTkxNjQyMDgyMSw4NTU1ODM4MzUsLTEyNjg3
-ODY1MDQsNDc1MzIzMzU0LC00OTUwODI2MSwtMjg0Mzg1MTg0LC
-03MjIyMzQ3NjhdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxNDQ2OTM2NTkwLDY5ODA4OTg1
+NSwtMjE0MjU2MDYzMywyMDY0OTg0ODQ5LC0xODIyODEyMTU3LC
+03Mzg0NTEzNDIsLTEyNjY5MDc3NTMsLTI0ODIxNDU2MiwxMjYx
+ODUxMjU5LDE0Njg4Nzk4MjcsLTM1MzY3NzAyMiwzOTA0MDA2MD
+csODY4NzEzNDk2LDE5MTY0MjA4MjEsODU1NTgzODM1LC0xMjY4
+Nzg2NTA0LDQ3NTMyMzM1NCwtNDk1MDgyNjEsLTI4NDM4NTE4NC
+wtNzIyMjM0NzY4XX0=
 -->
