@@ -35,7 +35,7 @@ We will not go into details of all the pre-20th Century advancements since that 
 
 ### 2. First General-purpose Computer
 In early 20th Century, Scientist were using different kinds of mechanical devices built for specific tasks. Specific tasks devices keep hardware at minimal. In early 20th century, Hardware was Mechanical devices and those were huge. Mechanical devices needed high precision and highly skilled workers needed for precision forging. Still error rates were high and that in fact one of the reasons for increased costs. Maintainence of those mechanical devices were also high. Also, size of these mechnical devices were enormous.
-E
+Starting of 20th Century was also quite unstable, two World Wars happened in that period and because of these scenarios funding to build 
 To cater these increased cost and maintainence, electromechanical analog devices were build in late 1930's.
 
 ### 3. Analog Computers
@@ -58,7 +58,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxOTMzNzc0NzQ5LC0xMTY2NTAz
+BnZm1cbiIsImhpc3RvcnkiOlsxMzIyMTU4Njg0LC0xMTY2NTAz
 NjA1LDE0NTI5MjgyNjQsMTY5MzA1OTc1MSwtMTk1Mjk0Nzg2LC
 0xODE4NTcwOTkxLC0xNTM4ODUyOTA2LC0xMTE1MTI1MzAzLC00
 MzA1ODA3MjYsLTYwMzI2MzgyMSwtMTU2OTc1ODExNCw2OTgwOD
