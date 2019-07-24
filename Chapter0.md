@@ -14,12 +14,11 @@ We now don't consider Fire, cooking, clothes, speech, etc as a major achievement
 The different Eras/Stages of Computing hardware gave us some milestones for the next era. 
 
  1. Pre-20th century
- 2. First General-purpose Computer
- 3. Analog Computers
- 4. Digital Computers
- 5. Modern Computers
- 6. Mobile Computers
- 7. IoT (Internet of Things) specialized hardware
+ 1. First General-purpose Computer
+ 1. Digital Computers
+ 1. Modern Computers
+ 1. Mobile Computers
+ 1. IoT (Internet of Things) specialized hardware
 
 Before looking at these in more details. Let's digress slightly to focus on one thing that add more value to the overall book. In this book, we also discuss **value**, either monetary or otherwise, of the solutions. The value of a solution is what derive humans to achieve that success and evolution of humans as a society. 
 
@@ -50,13 +49,13 @@ To evolove these designs futhur German engineer Konrad Zuse was able to create Z
 
 That was incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape.
 
-### 4. Digital Computers
+### 3. Digital Computers
 
-### 5. Modern Computers
+### 4. Modern Computers
 
-### 6. Mobile Computers
+### 5. Mobile Computers
 
-### 7. IoT (Internet of Things) specialized hardware
+### 6. IoT (Internet of Things) specialized hardware
 
 
 Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
@@ -68,7 +67,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMDY0MDI4MDA0LDgzNjYxNTM5
+BnZm1cbiIsImhpc3RvcnkiOlsyMDU1NzI4ODIyLDgzNjYxNTM5
 OSwtODgzNjkwMjYxLC0xMTY2NTAzNjA1LDE0NTI5MjgyNjQsMT
 Y5MzA1OTc1MSwtMTk1Mjk0Nzg2LC0xODE4NTcwOTkxLC0xNTM4
 ODUyOTA2LC0xMTE1MTI1MzAzLC00MzA1ODA3MjYsLTYwMzI2Mz
