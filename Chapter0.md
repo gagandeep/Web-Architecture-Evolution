@@ -35,7 +35,6 @@ We will not go into details of all the pre-20th Century advancements since that 
 
 ### 2. First General-purpose Computer
 
-
 ### 3. Analog Computers
 
 ### 4. Digital Computers
@@ -56,11 +55,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNjkzMDU5NzUxLC0xOTUyOTQ3
-ODYsLTE4MTg1NzA5OTEsLTE1Mzg4NTI5MDYsLTExMTUxMjUzMD
-MsLTQzMDU4MDcyNiwtNjAzMjYzODIxLC0xNTY5NzU4MTE0LDY5
-ODA4OTg1NSwtMjE0MjU2MDYzMywyMDY0OTg0ODQ5LC0xODIyOD
-EyMTU3LC03Mzg0NTEzNDIsLTEyNjY5MDc3NTMsLTI0ODIxNDU2
-MiwxMjYxODUxMjU5LDE0Njg4Nzk4MjcsLTM1MzY3NzAyMiwzOT
-A0MDA2MDcsODY4NzEzNDk2XX0=
+BnZm1cbiIsImhpc3RvcnkiOls3NzYxMDUzNjUsMTY5MzA1OTc1
+MSwtMTk1Mjk0Nzg2LC0xODE4NTcwOTkxLC0xNTM4ODUyOTA2LC
+0xMTE1MTI1MzAzLC00MzA1ODA3MjYsLTYwMzI2MzgyMSwtMTU2
+OTc1ODExNCw2OTgwODk4NTUsLTIxNDI1NjA2MzMsMjA2NDk4ND
+g0OSwtMTgyMjgxMjE1NywtNzM4NDUxMzQyLC0xMjY2OTA3NzUz
+LC0yNDgyMTQ1NjIsMTI2MTg1MTI1OSwxNDY4ODc5ODI3LC0zNT
+M2NzcwMjIsMzkwNDAwNjA3XX0=
 -->
