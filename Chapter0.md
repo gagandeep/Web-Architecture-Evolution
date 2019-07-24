@@ -34,7 +34,7 @@ Timekeeping devices were also evolved from *Looking at Sun and Moon* to *Stonehe
 We will not go into details of all the pre-20th Century advancements since that will be a waste of time. In the pre-20th Century, two things are worth mentioning *Difference engine* and *Analytical Engine*. Difference engine was the marvel of its time. The time of complex mathematics getting solved by machines for specific purposes. Difference engine was the automatic polynomial solver of that time. That idea of Difference engine led *Charles Babbage* to the idea of *Analytical Engine* which was the idea of General-purpose computer. Analytical Engine has an Arithmetic logic unit, Control flow with Conditional branching and Loops, and memory, making it the first design for a general-purpose computer that could be described in modern terms as Turing-complete. In other words, the logical structure of the Analytical Engine was essentially the same as that which has dominated computer design in the electronic era.
 
 ### 2. First General-purpose Computer
-In early 20th Century, Scientist were using different kinds of mechanical devices built for specific tasks. Specific tasks devices keep hardware at minimal. In early
+In early 20th Century, Scientist were using different kinds of mechanical devices built for specific tasks. Specific tasks devices keep hardware at minimal. In early 20th century, Hardware was Mechanical devices and those were huge. Mechanical devices needed high precision either 
 
 ### 3. Analog Computers
 
@@ -56,11 +56,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTM5NDY5NDExMCwtMTE2NjUw
-MzYwNSwxNDUyOTI4MjY0LDE2OTMwNTk3NTEsLTE5NTI5NDc4Ni
-wtMTgxODU3MDk5MSwtMTUzODg1MjkwNiwtMTExNTEyNTMwMywt
-NDMwNTgwNzI2LC02MDMyNjM4MjEsLTE1Njk3NTgxMTQsNjk4MD
-g5ODU1LC0yMTQyNTYwNjMzLDIwNjQ5ODQ4NDksLTE4MjI4MTIx
-NTcsLTczODQ1MTM0MiwtMTI2NjkwNzc1MywtMjQ4MjE0NTYyLD
-EyNjE4NTEyNTksMTQ2ODg3OTgyN119
+BnZm1cbiIsImhpc3RvcnkiOls2NDkyMzE4OTMsLTExNjY1MDM2
+MDUsMTQ1MjkyODI2NCwxNjkzMDU5NzUxLC0xOTUyOTQ3ODYsLT
+E4MTg1NzA5OTEsLTE1Mzg4NTI5MDYsLTExMTUxMjUzMDMsLTQz
+MDU4MDcyNiwtNjAzMjYzODIxLC0xNTY5NzU4MTE0LDY5ODA4OT
+g1NSwtMjE0MjU2MDYzMywyMDY0OTg0ODQ5LC0xODIyODEyMTU3
+LC03Mzg0NTEzNDIsLTEyNjY5MDc3NTMsLTI0ODIxNDU2MiwxMj
+YxODUxMjU5LDE0Njg4Nzk4MjddfQ==
 -->
