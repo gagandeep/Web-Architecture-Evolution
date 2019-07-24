@@ -34,7 +34,7 @@ Timekeeping devices were also evolved from *Looking at Sun and Moon* to *Stonehe
 We will not go into details of all the pre-20th Century advancements since that will be a waste of time. In the pre-20th Century, two things are worth mentioning *Difference engine* and *Analytical Engine*. Difference engine was the marvel of its time. The time of complex mathematics getting solved by machines for specific purposes. Difference engine was the automatic polynomial solver of that time. That idea of Difference engine led *Charles Babbage* to the idea of *Analytical Engine* which was the idea of General-purpose computer. Analytical Engine has an Arithmetic logic unit, Control flow with Conditional branching and Loops, and memory, making it the first design for a general-purpose computer that could be described in modern terms as Turing-complete. In other words, the logical structure of the Analytical Engine was essentially the same as that which has dominated computer design in the electronic era.
 
 ### 2. First General-purpose Computer
-In early 20th Century, Scientist were using 
+In early 20th Century, Scientist were using different kinds of mechanical devices built for specific tasks only to keep them low on cost and maintainence.
 
 ### 3. Analog Computers
 
@@ -56,11 +56,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNDUyOTI4MjY0LDE2OTMwNTk3
-NTEsLTE5NTI5NDc4NiwtMTgxODU3MDk5MSwtMTUzODg1MjkwNi
-wtMTExNTEyNTMwMywtNDMwNTgwNzI2LC02MDMyNjM4MjEsLTE1
-Njk3NTgxMTQsNjk4MDg5ODU1LC0yMTQyNTYwNjMzLDIwNjQ5OD
-Q4NDksLTE4MjI4MTIxNTcsLTczODQ1MTM0MiwtMTI2NjkwNzc1
-MywtMjQ4MjE0NTYyLDEyNjE4NTEyNTksMTQ2ODg3OTgyNywtMz
-UzNjc3MDIyLDM5MDQwMDYwN119
+BnZm1cbiIsImhpc3RvcnkiOlstMTE2NjUwMzYwNSwxNDUyOTI4
+MjY0LDE2OTMwNTk3NTEsLTE5NTI5NDc4NiwtMTgxODU3MDk5MS
+wtMTUzODg1MjkwNiwtMTExNTEyNTMwMywtNDMwNTgwNzI2LC02
+MDMyNjM4MjEsLTE1Njk3NTgxMTQsNjk4MDg5ODU1LC0yMTQyNT
+YwNjMzLDIwNjQ5ODQ4NDksLTE4MjI4MTIxNTcsLTczODQ1MTM0
+MiwtMTI2NjkwNzc1MywtMjQ4MjE0NTYyLDEyNjE4NTEyNTksMT
+Q2ODg3OTgyNywtMzUzNjc3MDIyXX0=
 -->
