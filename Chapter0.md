@@ -47,7 +47,7 @@ To evolove these designs futhur German engineer Konrad Zuse was able to create Z
 **Memory**: Mechanical memory from the Z1 and Z2 (64 words, 32 bit)
 **Power consumption**: (about) 4 kW
 
-That was incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape.
+That was incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape. Z3 and Z4 were Turing Complete computers. 
 
 ### 3. Digital Computers
 
@@ -67,7 +67,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMDU1NzI4ODIyLDgzNjYxNTM5
+BnZm1cbiIsImhpc3RvcnkiOlsxNzM1MTE3ODM5LDgzNjYxNTM5
 OSwtODgzNjkwMjYxLC0xMTY2NTAzNjA1LDE0NTI5MjgyNjQsMT
 Y5MzA1OTc1MSwtMTk1Mjk0Nzg2LC0xODE4NTcwOTkxLC0xNTM4
 ODUyOTA2LC0xMTE1MTI1MzAzLC00MzA1ODA3MjYsLTYwMzI2Mz
