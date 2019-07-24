@@ -37,6 +37,16 @@ We will not go into details of all the pre-20th Century advancements since that 
 In early 20th Century, Scientist were using different kinds of mechanical devices built for specific tasks. Specific tasks devices keep hardware at minimal. In early 20th century, Hardware was Mechanical devices and those were huge. These Mechanical devices or Analog Computers needed high precision and highly skilled workers needed for precision forging. Still error rates were high and that in fact one of the reasons for increased costs. Maintainence of those mechanical devices were also high. Also, size of these mechnical devices were enormous.
 Starting of 20th Century was also quite unstable, two World Wars happened in that period and because of these scenarios funding to build smaller and efficient devices were enormous. To cater to these needs with funding available, electromechanical analog devices were build in late 1930's. 
 To evolove these designs futhur German engineer Konrad Zuse was able to create Z3, the world first working digital computer in 1941, General purpose programmable computer.  Konrad Zuse also introduced world's first commercial computer, Z4.
+Specifications of Z4
+Frequency: (about) 40 hertz
+Average calculation speed: 400 ms for an addition, 3 seconds for a multiplication. Approximately 1000 floating point arithmetic operations on average an hour.
+Programming: holes in 35 mm film stock, punched on a programming machine
+Input: Decimal floating point numbers, punch tape
+Output: Decimal floating point numbers, punch tape or Mercedes typewriter
+Word length: 32 bits floating point
+Elements: (about) 2,500 relays, 21 step-wise relays
+Memory: Mechanical memory from the Z1 and Z2[5] (64 words, 32 bit)[22]
+Power consumption: (about) 4 kW
 
 ### 3. Analog Computers
 
@@ -58,11 +68,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls5ODY2ODAxNjMsLTExNjY1MDM2
-MDUsMTQ1MjkyODI2NCwxNjkzMDU5NzUxLC0xOTUyOTQ3ODYsLT
-E4MTg1NzA5OTEsLTE1Mzg4NTI5MDYsLTExMTUxMjUzMDMsLTQz
-MDU4MDcyNiwtNjAzMjYzODIxLC0xNTY5NzU4MTE0LDY5ODA4OT
-g1NSwtMjE0MjU2MDYzMywyMDY0OTg0ODQ5LC0xODIyODEyMTU3
-LC03Mzg0NTEzNDIsLTEyNjY5MDc3NTMsLTI0ODIxNDU2MiwxMj
-YxODUxMjU5LDE0Njg4Nzk4MjddfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTk5NTI1NDQ0LC0xMTY2NTAz
+NjA1LDE0NTI5MjgyNjQsMTY5MzA1OTc1MSwtMTk1Mjk0Nzg2LC
+0xODE4NTcwOTkxLC0xNTM4ODUyOTA2LC0xMTE1MTI1MzAzLC00
+MzA1ODA3MjYsLTYwMzI2MzgyMSwtMTU2OTc1ODExNCw2OTgwOD
+k4NTUsLTIxNDI1NjA2MzMsMjA2NDk4NDg0OSwtMTgyMjgxMjE1
+NywtNzM4NDUxMzQyLC0xMjY2OTA3NzUzLC0yNDgyMTQ1NjIsMT
+I2MTg1MTI1OSwxNDY4ODc5ODI3XX0=
 -->
