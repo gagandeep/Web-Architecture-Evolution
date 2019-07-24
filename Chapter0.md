@@ -62,17 +62,17 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 
 ## References
 - History of computing hardware: https://en.wikipedia.org/wiki/History_of_computing_hardware
-- The Abacus: A Brief History https://www.ee.ryerson.ca/~elf/abacus/history.html
+- The Abacus: A Brief History: https://www.ee.ryerson.ca/~elf/abacus/history.html
 - Difference engine: https://en.wikipedia.org/wiki/Difference_engine
 - Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTg4ODU4MjcyOCw4MzY2MTUz
-OTksLTg4MzY5MDI2MSwtMTE2NjUwMzYwNSwxNDUyOTI4MjY0LD
-E2OTMwNTk3NTEsLTE5NTI5NDc4NiwtMTgxODU3MDk5MSwtMTUz
-ODg1MjkwNiwtMTExNTEyNTMwMywtNDMwNTgwNzI2LC02MDMyNj
-M4MjEsLTE1Njk3NTgxMTQsNjk4MDg5ODU1LC0yMTQyNTYwNjMz
-LDIwNjQ5ODQ4NDksLTE4MjI4MTIxNTcsLTczODQ1MTM0MiwtMT
-I2NjkwNzc1MywtMjQ4MjE0NTYyXX0=
+BnZm1cbiIsImhpc3RvcnkiOlsxNTc4ODg3NzI4LDgzNjYxNTM5
+OSwtODgzNjkwMjYxLC0xMTY2NTAzNjA1LDE0NTI5MjgyNjQsMT
+Y5MzA1OTc1MSwtMTk1Mjk0Nzg2LC0xODE4NTcwOTkxLC0xNTM4
+ODUyOTA2LC0xMTE1MTI1MzAzLC00MzA1ODA3MjYsLTYwMzI2Mz
+gyMSwtMTU2OTc1ODExNCw2OTgwODk4NTUsLTIxNDI1NjA2MzMs
+MjA2NDk4NDg0OSwtMTgyMjgxMjE1NywtNzM4NDUxMzQyLC0xMj
+Y2OTA3NzUzLC0yNDgyMTQ1NjJdfQ==
 -->
