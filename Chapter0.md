@@ -68,7 +68,7 @@ Konrad Zuse also introduced world's first commercial computer, Z4 in 1945.
 
 These were incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape. Z3 and Z4 were Turing Complete machines. 
 
-The value these 
+The value these a
 
 ### 3. Digital Computers
 
@@ -89,11 +89,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlszNDEwMzQyMTYsMTU4NDgxMjcx
-NywzOTk0OTc2NTksLTE5MTAwNzQ3MjksMjMzNzgyNjIwLC0xNT
-cwNjIzOTkwLDE1MjI4OTM5ODksOTQ3MDUyMDM2LDc2MzU1MDA1
-NiwxNTc4ODg3NzI4LDgzNjYxNTM5OSwtODgzNjkwMjYxLC0xMT
-Y2NTAzNjA1LDE0NTI5MjgyNjQsMTY5MzA1OTc1MSwtMTk1Mjk0
-Nzg2LC0xODE4NTcwOTkxLC0xNTM4ODUyOTA2LC0xMTE1MTI1Mz
-AzLC00MzA1ODA3MjZdfQ==
+BnZm1cbiIsImhpc3RvcnkiOls5NzMxOTMzMjEsMzQxMDM0MjE2
+LDE1ODQ4MTI3MTcsMzk5NDk3NjU5LC0xOTEwMDc0NzI5LDIzMz
+c4MjYyMCwtMTU3MDYyMzk5MCwxNTIyODkzOTg5LDk0NzA1MjAz
+Niw3NjM1NTAwNTYsMTU3ODg4NzcyOCw4MzY2MTUzOTksLTg4Mz
+Y5MDI2MSwtMTE2NjUwMzYwNSwxNDUyOTI4MjY0LDE2OTMwNTk3
+NTEsLTE5NTI5NDc4NiwtMTgxODU3MDk5MSwtMTUzODg1MjkwNi
+wtMTExNTEyNTMwM119
 -->
