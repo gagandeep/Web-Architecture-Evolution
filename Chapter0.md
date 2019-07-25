@@ -1,3 +1,4 @@
+
 # Introduction
 
 This book will explore Web Architecture from the ground up to the current level of Streaming Architectures and beyond. It means this book will explore how we reached these architectures from the Analytical Engine. There are different eras where a certain set of technologies, we used in current systems, got a major push. Each era gave us advancement in a certain direction to reach where we are right now. Some advancement becomes obsolete and some become core that we now consider as obvious. It is like Human Evolution stages/eras,
@@ -33,12 +34,12 @@ We will not go into details of all the pre-20th Century advancements since that 
 
 Analytical Engine has an Arithmetic logic unit, Control flow with Conditional branching and Loops, and memory, making it the first design for a general-purpose computer that could be described in modern terms as Turing-complete. In other words, the logical structure of the Analytical Engine was essentially the same as that which has dominated computer design in the electronic era.
 
-Ada Lovelace was the first person to publish an Algorithm intended to be executed by Analytical Engine.
+Ada Lovelace was the first person to publish an algorithm intended to be executed by Analytical Engine.
 
 ### 2. First General-purpose Computer
-In early 20th Century, Scientist were using different kinds of mechanical devices built for specific tasks. Specific tasks devices keep hardware at minimal. In early 20th century, Hardware was Mechanical devices and those were huge. These Mechanical devices or Analog Computers needed high precision and highly skilled workers needed for precision forging. Still error rates were high and that in fact one of the reasons for increased costs. Maintainence of those mechanical devices were also high. Also, size of these mechnical devices were enormous.
+In the early 20th Century, Scientists were using different kinds of mechanical devices built for specific tasks. Specific tasks devices keep the hardware at minimal. In the early 20th century, Hardware was Mechanical devices and those were huge. These Mechanical devices or Analog Computers needed high precision and highly skilled workers needed for precision forging. Still, error rates were high and that one of the reasons for increased costs. Maintenance of those mechanical devices was also high. Also, the size of these mechanical devices was enormous.
 
-Starting of 20th Century was also quite unstable, two World Wars happened in that period and because of these scenarios funding to build smaller and efficient devices were enormous. To cater to these needs with funding available, *Electromechanical Analog devices* were build in late 1930's. *Electromechanical Analog devices* were possible by invention of *Diode* (first Vacuum Tube) in 1904 by John Ambrose Fleming. A vacuum tube consists of two or more Electrode in a vacuum inside an airtight envelope.
+Starting of 20th Century was also quite unstable, two World Wars happened in that period and because of these scenarios funding to build smaller and efficient devices were enormous. To cater to these needs with funding available, *Electromechanical Analog devices* built-in late 1930s. *Electromechanical Analog devices* were possible by the invention of *Diode* (first Vacuum Tube) in 1904 by John Ambrose Fleming. A vacuum tube consists of two or more Electrode in a vacuum inside an airtight envelope.
 
 German engineer Konrad Zuse was able to create Z3, the world first working programmable digital computer in 1941, which was General purpose programmable computer based on vacuum tubes.  
 
@@ -56,7 +57,7 @@ German engineer Konrad Zuse was able to create Z3, the world first working progr
 -   **Power consumption**: Around 4,000 watts
 -   **Weight**: Around 1 tonne (2,200 lb)
 
-Konrad Zuse also introduced world's first commercial computer, Z4 in 1945. 
+Konrad Zuse also introduced the world's first commercial computer, Z4 in 1945. 
 
 #### Specifications of Z4
 
@@ -70,18 +71,18 @@ Konrad Zuse also introduced world's first commercial computer, Z4 in 1945.
  - **Memory**: Mechanical memory from the Z1 and Z2 (64 words, 32 bit)
  - **Power consumption**: (about) 4 kW
 
-These were incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape. Z3 and Z4 were Turing Complete machines. 
+These were the incredible machine of its time. The memory of Z4 was mechanical i.e. punch tape. Z3 and Z4 were Turing Complete machines. 
 
-These advancement happened in the era of uncertainity and wars. These early computers either used for encryption/decryption of sensity information, accurate attacks to moving targets, scientific calculations by scientist for weapon of mass destruction including Nuclear to defense mechanism, etc. 
+These advancements happened in the era of uncertainty and wars. These early computers either used for encryption/decryption of sensitive information, accurate attacks to moving targets, scientific calculations by scientists for the weapon of mass destruction including Nuclear to defense mechanism, etc. 
 
 ### 3. Digital Computers
-The *Manchester Baby* was the world's first Stored-program computer. It was degined to use *Williams tube* as digital storage device. Manchester Baby was small and primitive from that era standards also. Design of Machester baby led to design of more usable computer Manchester Mark 1. Grace Hopper was the first person to develop a Compiler for programming language.
-In 1947, Transistor was invented. It took 7-8 years for transistors to start replacing Vacuum Tubes. Compared to vacuum tubes, transistors have many advantages: they are smaller, and require less power than vacuum tubes, so give off less heat. This era is called "second generation" of computers.
-The Third Generation of Computers were made possible by Itegrated Circuits. The first practical ICs were invented by Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor. This led to explosion in the usage of Commercial and Personal Computers. 
-The Forth Generation of Computers were made though Microprocessors that we are using till date. Microprocessors incorporates the functions of a central processing unit on a single Integrated circuit (IC). After the introduction of Microprocessors, they more and more powerful every 2 year. **Moore's law** is the observation that the number of transistors in a dense Integrated circuit doubles about every two years. 
+The *Manchester Baby* was the world's first Stored-program computer. It was designed to use *Williams tube* as a digital storage device. Manchester Baby was small and primitive from that era standards also. Design of Machester baby led to the design of more usable computer Manchester Mark 1. Grace Hopper was the first person to develop a compiler for programming language.
+In 1947, Transistor was invented. It took 7-8 years for transistors to start replacing Vacuum Tubes. Compared to vacuum tubes, transistors have many advantages: they are smaller and require less power than vacuum tubes, so give off less heat. This era is called "second generation" of computers.
+The Third Generation of Computers were made possible by Integrated Circuits. The first practical ICs were invented by Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor. This led to an explosion in the usage of Commercial and Personal Computers. 
+The Fourth Generation of Computers were made though Microprocessors that we are using till date. Microprocessors incorporate the functions of a central processing unit on a single Integrated circuit (IC). After the introduction of Microprocessors, they more and more powerful every 2 years. **Moore's law** is the observation that the number of transistors in a dense Integrated circuit, doubles about every two years. 
 
 ### 4. Mobile Computers
-With Moore's law, heat and power utilization also increased significately.  
+With Moore's law, heat and power utilization also increased significantly.  
 
 ### 5. IoT (Internet of Things) specialized hardware
 
@@ -96,11 +97,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTMwODcwODc3MiwtNTE3MDg0
-NjgsMTg5OTUwMzk3MCwzMjE3MjI1MDYsLTY5MjU2ODU5NiwxNT
-U5NjY5OTcyLDkxMzk3NTk3NywtMjM0MjI3MDM0LC0xNDExMDIx
-NDE0LDE2OTAzOTc0MDcsLTE2NDAyMDI2MCwzNDEwMzQyMTYsMT
-U4NDgxMjcxNywzOTk0OTc2NTksLTE5MTAwNzQ3MjksMjMzNzgy
-NjIwLC0xNTcwNjIzOTkwLDE1MjI4OTM5ODksOTQ3MDUyMDM2LD
-c2MzU1MDA1Nl19
+BnZm1cbiIsImhpc3RvcnkiOlszNzU0ODEyMTMsLTEzMDg3MDg3
+NzIsLTUxNzA4NDY4LDE4OTk1MDM5NzAsMzIxNzIyNTA2LC02OT
+I1Njg1OTYsMTU1OTY2OTk3Miw5MTM5NzU5NzcsLTIzNDIyNzAz
+NCwtMTQxMTAyMTQxNCwxNjkwMzk3NDA3LC0xNjQwMjAyNjAsMz
+QxMDM0MjE2LDE1ODQ4MTI3MTcsMzk5NDk3NjU5LC0xOTEwMDc0
+NzI5LDIzMzc4MjYyMCwtMTU3MDYyMzk5MCwxNTIyODkzOTg5LD
+k0NzA1MjAzNl19
 -->
