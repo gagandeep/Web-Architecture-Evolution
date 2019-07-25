@@ -75,7 +75,7 @@ These were incredible machine of its time. The memory of Z4 was mechinical in na
 These advancement happened in the era of uncertainity and wars. These early computers either used for encryption/decryption of sensity information, accurate attacks to moving targets, scientific calculations by scientist for weapon of mass destruction including Nuclear to defense mechanism, etc. 
 
 ### 3. Digital Computers
-The *Manchester Baby* was the world's first Stored-program computer. It was degined to use *Williams tube* as digital storage device. Manchester Baby was small and primitive from that era standards also. Design of Machester baby led to design of more usable computer Manchester Mark 1, Grace Hopper was the first person to develop a Compiler for programming language.
+The *Manchester Baby* was the world's first Stored-program computer. It was degined to use *Williams tube* as digital storage device. Manchester Baby was small and primitive from that era standards also. Design of Machester baby led to design of more usable computer Manchester Mark 1. Grace Hopper was the first person to develop a Compiler for programming language.
 
 ### 5. Mobile Computers
 
@@ -92,11 +92,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjkyNTY4NTk2LDE1NTk2Njk5
-NzIsOTEzOTc1OTc3LC0yMzQyMjcwMzQsLTE0MTEwMjE0MTQsMT
-Y5MDM5NzQwNywtMTY0MDIwMjYwLDM0MTAzNDIxNiwxNTg0ODEy
-NzE3LDM5OTQ5NzY1OSwtMTkxMDA3NDcyOSwyMzM3ODI2MjAsLT
-E1NzA2MjM5OTAsMTUyMjg5Mzk4OSw5NDcwNTIwMzYsNzYzNTUw
-MDU2LDE1Nzg4ODc3MjgsODM2NjE1Mzk5LC04ODM2OTAyNjEsLT
-ExNjY1MDM2MDVdfQ==
+BnZm1cbiIsImhpc3RvcnkiOls2Njg2OTc4OTgsLTY5MjU2ODU5
+NiwxNTU5NjY5OTcyLDkxMzk3NTk3NywtMjM0MjI3MDM0LC0xND
+ExMDIxNDE0LDE2OTAzOTc0MDcsLTE2NDAyMDI2MCwzNDEwMzQy
+MTYsMTU4NDgxMjcxNywzOTk0OTc2NTksLTE5MTAwNzQ3MjksMj
+MzNzgyNjIwLC0xNTcwNjIzOTkwLDE1MjI4OTM5ODksOTQ3MDUy
+MDM2LDc2MzU1MDA1NiwxNTc4ODg3NzI4LDgzNjYxNTM5OSwtOD
+gzNjkwMjYxXX0=
 -->
