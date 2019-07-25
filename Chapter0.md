@@ -40,10 +40,10 @@ German engineer Konrad Zuse was able to create Z3, the world first working digit
 
 #### Specifications of Z4
 
-**Frequency**: (about) 40 hertz
-**Average calculation speed**: 400 ms for an addition, 3 seconds for a multiplication. Approximately 1000 floating point arithmetic operations on average an hour.
-**Programming**: holes in 35 mm film stock, punched on a programming machine
-**Input**: Decimal floating point numbers, punch tape
+ - **Frequency**: (about) 40 hertz
+ - **Average calculation speed**: 400 ms for an addition, 3 seconds for a multiplication. Approximately 1000 floating point arithmetic operations on average an hour.
+ - **Programming**: holes in 35 mm film stock, punched on a programming machine
+ - **Input**: Decimal floating point numbers, punch tape
 **Output**: Decimal floating point numbers, punch tape or Mercedes typewriter
 **Word length**: 32 bits floating point
 **Elements**: (about) 2,500 relays, 21 step-wise relays
@@ -71,11 +71,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMzM3ODI2MjAsLTE1NzA2MjM5
-OTAsMTUyMjg5Mzk4OSw5NDcwNTIwMzYsNzYzNTUwMDU2LDE1Nz
-g4ODc3MjgsODM2NjE1Mzk5LC04ODM2OTAyNjEsLTExNjY1MDM2
-MDUsMTQ1MjkyODI2NCwxNjkzMDU5NzUxLC0xOTUyOTQ3ODYsLT
-E4MTg1NzA5OTEsLTE1Mzg4NTI5MDYsLTExMTUxMjUzMDMsLTQz
-MDU4MDcyNiwtNjAzMjYzODIxLC0xNTY5NzU4MTE0LDY5ODA4OT
-g1NSwtMjE0MjU2MDYzM119
+BnZm1cbiIsImhpc3RvcnkiOlstMjYyODYwMDQsMjMzNzgyNjIw
+LC0xNTcwNjIzOTkwLDE1MjI4OTM5ODksOTQ3MDUyMDM2LDc2Mz
+U1MDA1NiwxNTc4ODg3NzI4LDgzNjYxNTM5OSwtODgzNjkwMjYx
+LC0xMTY2NTAzNjA1LDE0NTI5MjgyNjQsMTY5MzA1OTc1MSwtMT
+k1Mjk0Nzg2LC0xODE4NTcwOTkxLC0xNTM4ODUyOTA2LC0xMTE1
+MTI1MzAzLC00MzA1ODA3MjYsLTYwMzI2MzgyMSwtMTU2OTc1OD
+ExNCw2OTgwODk4NTVdfQ==
 -->
