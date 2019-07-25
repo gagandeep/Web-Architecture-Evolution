@@ -82,7 +82,7 @@ The Third Generation of Computers were made possible by Integrated Circuits. The
 The Fourth Generation of Computers were made though Microprocessors that we are using till date. Microprocessors incorporate the functions of a central processing unit on a single Integrated circuit (IC). After the introduction of Microprocessors, they more and more powerful every 2 years. **Moore's law** is the observation that the number of transistors in a dense Integrated circuit, doubles about every two years. Intel led this generation of Computers through its processors along with AMD.
 
 ### 4. Mobile Computers
-With Moore's law, heat and power utilization was also increased significantly. To make it portable 
+With Moore's law, heat and power utilization was also increased significantly. To make whole computer portable heat and power needs to be minimal since Mobile is what user carry around. 
 
 ### 5. IoT (Internet of Things) specialized hardware
 
@@ -97,7 +97,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls5NDE2MjU0NzgsMzc1NDgxMjEz
+BnZm1cbiIsImhpc3RvcnkiOls4NDE5NTMyMTIsMzc1NDgxMjEz
 LC0xMzA4NzA4NzcyLC01MTcwODQ2OCwxODk5NTAzOTcwLDMyMT
 cyMjUwNiwtNjkyNTY4NTk2LDE1NTk2Njk5NzIsOTEzOTc1OTc3
 LC0yMzQyMjcwMzQsLTE0MTEwMjE0MTQsMTY5MDM5NzQwNywtMT
