@@ -79,10 +79,10 @@ These advancements happened in the era of uncertainty and wars. These early comp
 The *Manchester Baby* was the world's first Stored-program computer. It was designed to use *Williams tube* as a digital storage device. Manchester Baby was small and primitive from that era standards also. Design of Machester baby led to the design of more usable computer Manchester Mark 1. Grace Hopper was the first person to develop a compiler for programming language.
 In 1947, Transistor was invented. It took 7-8 years for transistors to start replacing Vacuum Tubes. Compared to vacuum tubes, transistors have many advantages: they are smaller and require less power than vacuum tubes, so give off less heat. This era is called "second generation" of computers.
 The Third Generation of Computers were made possible by Integrated Circuits. The first practical ICs were invented by Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor. This led to an explosion in the usage of Commercial and Personal Computers. 
-The Fourth Generation of Computers were made though Microprocessors that we are using till date. Microprocessors incorporate the functions of a central processing unit on a single Integrated circuit (IC). After the introduction of Microprocessors, they more and more powerful every 2 years. **Moore's law** is the observation that the number of transistors in a dense Integrated circuit, doubles about every two years. 
+The Fourth Generation of Computers were made though Microprocessors that we are using till date. Microprocessors incorporate the functions of a central processing unit on a single Integrated circuit (IC). After the introduction of Microprocessors, they more and more powerful every 2 years. **Moore's law** is the observation that the number of transistors in a dense Integrated circuit, doubles about every two years. Intel led this generation of Computers through its processors along with AMD.
 
 ### 4. Mobile Computers
-With Moore's law, heat and power utilization also increased significantly.  
+With Moore's law, heat and power utilization was also increased significantly. To make it portable 
 
 ### 5. IoT (Internet of Things) specialized hardware
 
@@ -97,11 +97,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlszNzU0ODEyMTMsLTEzMDg3MDg3
-NzIsLTUxNzA4NDY4LDE4OTk1MDM5NzAsMzIxNzIyNTA2LC02OT
-I1Njg1OTYsMTU1OTY2OTk3Miw5MTM5NzU5NzcsLTIzNDIyNzAz
-NCwtMTQxMTAyMTQxNCwxNjkwMzk3NDA3LC0xNjQwMjAyNjAsMz
-QxMDM0MjE2LDE1ODQ4MTI3MTcsMzk5NDk3NjU5LC0xOTEwMDc0
-NzI5LDIzMzc4MjYyMCwtMTU3MDYyMzk5MCwxNTIyODkzOTg5LD
-k0NzA1MjAzNl19
+BnZm1cbiIsImhpc3RvcnkiOls5NDE2MjU0NzgsMzc1NDgxMjEz
+LC0xMzA4NzA4NzcyLC01MTcwODQ2OCwxODk5NTAzOTcwLDMyMT
+cyMjUwNiwtNjkyNTY4NTk2LDE1NTk2Njk5NzIsOTEzOTc1OTc3
+LC0yMzQyMjcwMzQsLTE0MTEwMjE0MTQsMTY5MDM5NzQwNywtMT
+Y0MDIwMjYwLDM0MTAzNDIxNiwxNTg0ODEyNzE3LDM5OTQ5NzY1
+OSwtMTkxMDA3NDcyOSwyMzM3ODI2MjAsLTE1NzA2MjM5OTAsMT
+UyMjg5Mzk4OV19
 -->
