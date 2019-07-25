@@ -52,7 +52,7 @@ German engineer Konrad Zuse was able to create Z3, the world first working digit
 -   **Power consumption**: Around 4,000 watts
 -   **Weight**: Around 1 tonne (2,200 lb)
 
-Konrad Zuse also introduced world's first commercial computer, Z4 in 1945.
+Konrad Zuse also introduced world's first commercial computer, Z4 in 1945. 
 
 #### Specifications of Z4
 
@@ -67,6 +67,8 @@ Konrad Zuse also introduced world's first commercial computer, Z4 in 1945.
  - **Power consumption**: (about) 4 kW
 
 These were incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape. Z3 and Z4 were Turing Complete machines. 
+
+The value these 
 
 ### 3. Digital Computers
 
@@ -87,11 +89,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNTg0ODEyNzE3LDM5OTQ5NzY1
-OSwtMTkxMDA3NDcyOSwyMzM3ODI2MjAsLTE1NzA2MjM5OTAsMT
-UyMjg5Mzk4OSw5NDcwNTIwMzYsNzYzNTUwMDU2LDE1Nzg4ODc3
-MjgsODM2NjE1Mzk5LC04ODM2OTAyNjEsLTExNjY1MDM2MDUsMT
-Q1MjkyODI2NCwxNjkzMDU5NzUxLC0xOTUyOTQ3ODYsLTE4MTg1
-NzA5OTEsLTE1Mzg4NTI5MDYsLTExMTUxMjUzMDMsLTQzMDU4MD
-cyNiwtNjAzMjYzODIxXX0=
+BnZm1cbiIsImhpc3RvcnkiOlszNDEwMzQyMTYsMTU4NDgxMjcx
+NywzOTk0OTc2NTksLTE5MTAwNzQ3MjksMjMzNzgyNjIwLC0xNT
+cwNjIzOTkwLDE1MjI4OTM5ODksOTQ3MDUyMDM2LDc2MzU1MDA1
+NiwxNTc4ODg3NzI4LDgzNjYxNTM5OSwtODgzNjkwMjYxLC0xMT
+Y2NTAzNjA1LDE0NTI5MjgyNjQsMTY5MzA1OTc1MSwtMTk1Mjk0
+Nzg2LC0xODE4NTcwOTkxLC0xNTM4ODUyOTA2LC0xMTE1MTI1Mz
+AzLC00MzA1ODA3MjZdfQ==
 -->
