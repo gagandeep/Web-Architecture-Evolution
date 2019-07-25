@@ -36,7 +36,7 @@ We will not go into details of all the pre-20th Century advancements since that 
 In early 20th Century, Scientist were using different kinds of mechanical devices built for specific tasks. Specific tasks devices keep hardware at minimal. In early 20th century, Hardware was Mechanical devices and those were huge. These Mechanical devices or Analog Computers needed high precision and highly skilled workers needed for precision forging. Still error rates were high and that in fact one of the reasons for increased costs. Maintainence of those mechanical devices were also high. Also, size of these mechnical devices were enormous.
 Starting of 20th Century was also quite unstable, two World Wars happened in that period and because of these scenarios funding to build smaller and efficient devices were enormous. To cater to these needs with funding available, *Electromechanical Analog devices* were build in late 1930's. *Electromechanical Analog devices* were possible by invention of *Diode* (first Vacuum Tube) in 1904 by John Ambrose Fleming. A vacuum tube consists of two or more Electrode in a vacuum inside an airtight envelope.
 
-German engineer Konrad Zuse was able to create Z3, the world first working digital computer in 1941, which was General purpose programmable computer based on vacuum tubes.  
+German engineer Konrad Zuse was able to create Z3, the world first working programmable digital computer in 1941, which was General purpose programmable computer based on vacuum tubes.  
 
 #### Specifications of Z3
 
@@ -68,7 +68,7 @@ Konrad Zuse also introduced world's first commercial computer, Z4 in 1945.
 
 These were incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape. Z3 and Z4 were Turing Complete machines. 
 
-These advancement happened in the era of uncertainity and wars. These early computers either used for encryption/decryption of sensity information, accurate attacks to moving targets, scientific calculations by scientist for weapon of mass destruction including Nuclear, etc. 
+These advancement happened in the era of uncertainity and wars. These early computers either used for encryption/decryption of sensity information, accurate attacks to moving targets, scientific calculations by scientist for weapon of mass destruction including Nuclear to defense mechanism, etc. 
 
 ### 3. Digital Computers
 
@@ -89,11 +89,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTY0MDIwMjYwLDM0MTAzNDIx
-NiwxNTg0ODEyNzE3LDM5OTQ5NzY1OSwtMTkxMDA3NDcyOSwyMz
-M3ODI2MjAsLTE1NzA2MjM5OTAsMTUyMjg5Mzk4OSw5NDcwNTIw
-MzYsNzYzNTUwMDU2LDE1Nzg4ODc3MjgsODM2NjE1Mzk5LC04OD
-M2OTAyNjEsLTExNjY1MDM2MDUsMTQ1MjkyODI2NCwxNjkzMDU5
-NzUxLC0xOTUyOTQ3ODYsLTE4MTg1NzA5OTEsLTE1Mzg4NTI5MD
-YsLTExMTUxMjUzMDNdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxNjkwMzk3NDA3LC0xNjQwMjAy
+NjAsMzQxMDM0MjE2LDE1ODQ4MTI3MTcsMzk5NDk3NjU5LC0xOT
+EwMDc0NzI5LDIzMzc4MjYyMCwtMTU3MDYyMzk5MCwxNTIyODkz
+OTg5LDk0NzA1MjAzNiw3NjM1NTAwNTYsMTU3ODg4NzcyOCw4Mz
+Y2MTUzOTksLTg4MzY5MDI2MSwtMTE2NjUwMzYwNSwxNDUyOTI4
+MjY0LDE2OTMwNTk3NTEsLTE5NTI5NDc4NiwtMTgxODU3MDk5MS
+wtMTUzODg1MjkwNl19
 -->
