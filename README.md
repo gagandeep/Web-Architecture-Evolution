@@ -9,9 +9,9 @@ In past 7-8 years, Web and its development become more and more complex with dif
  - How they work in principal
  - When to choose them and Why to choose them
 
-This book will be arranged in two parts,
-1. Pre-Hadoop Era
-2. Post-Hadoop Era (Big-Data Era)
+This book will be arranged in following Chapters,
+1. [Chapter 0](Chapter0.md) - Introduction
+1. [Chapter 1](Chapter1.md) - Protocols
 
 ## Who is the Author?
 **Gagandeep Singh** is the Author of this unfinished book. He has more than 10 years of experience in the industry. He has done couple of startups of his own and also served as VP of Technology in Education startup. He is doing Architecting of web based systems for past 7 years. He worked in different domains from Publishing, Media, Auto-industry, Health, Education and Advertising.
@@ -25,6 +25,7 @@ https://stackedit.io/ for making awesome Markdown Editor and cool syncing featur
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTMyNTg3MCwtMTAzNzE5NjgwNCwtMT
-A3NzIyNjIwMCwxNDgyMTMzNzMwLC0xNDM5NTYwNDRdfQ==
+eyJoaXN0b3J5IjpbLTE0MjQ4MzUyODAsMTI2NTMyNTg3MCwtMT
+AzNzE5NjgwNCwtMTA3NzIyNjIwMCwxNDgyMTMzNzMwLC0xNDM5
+NTYwNDRdfQ==
 -->
