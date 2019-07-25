@@ -75,7 +75,7 @@ These were incredible machine of its time. The memory of Z4 was mechinical in na
 These advancement happened in the era of uncertainity and wars. These early computers either used for encryption/decryption of sensity information, accurate attacks to moving targets, scientific calculations by scientist for weapon of mass destruction including Nuclear to defense mechanism, etc. 
 
 ### 3. Digital Computers
-The *Manchester Baby* was the world's first Stored-program computer. It was degined to use *Williams tube* as digital storage device. Manchester Baby was small and primitive from that era standards also. 
+The *Manchester Baby* was the world's first Stored-program computer. It was degined to use *Williams tube* as digital storage device. Manchester Baby was small and primitive from that era standards also. Design of Machester baby led to design of more usable computer Manchester Mark 
 
 ### 5. Mobile Computers
 
@@ -92,7 +92,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMDI3MDA1MTU5LDkxMzk3NTk3
+BnZm1cbiIsImhpc3RvcnkiOlsxNTU5NjY5OTcyLDkxMzk3NTk3
 NywtMjM0MjI3MDM0LC0xNDExMDIxNDE0LDE2OTAzOTc0MDcsLT
 E2NDAyMDI2MCwzNDEwMzQyMTYsMTU4NDgxMjcxNywzOTk0OTc2
 NTksLTE5MTAwNzQ3MjksMjMzNzgyNjIwLC0xNTcwNjIzOTkwLD
