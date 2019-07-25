@@ -39,6 +39,7 @@ Starting of 20th Century was also quite unstable, two World Wars happened in tha
 German engineer Konrad Zuse was able to create Z3, the world first working digital computer in 1941, which was General purpose programmable computer based on vacuum tubes.  Konrad Zuse also introduced world's first commercial computer, Z4.
 
 #### Specifications of Z4
+
 **Frequency**: (about) 40 hertz
 **Average calculation speed**: 400 ms for an addition, 3 seconds for a multiplication. Approximately 1000 floating point arithmetic operations on average an hour.
 **Programming**: holes in 35 mm film stock, punched on a programming machine
@@ -70,11 +71,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTU3MDYyMzk5MCwxNTIyODkz
-OTg5LDk0NzA1MjAzNiw3NjM1NTAwNTYsMTU3ODg4NzcyOCw4Mz
-Y2MTUzOTksLTg4MzY5MDI2MSwtMTE2NjUwMzYwNSwxNDUyOTI4
-MjY0LDE2OTMwNTk3NTEsLTE5NTI5NDc4NiwtMTgxODU3MDk5MS
-wtMTUzODg1MjkwNiwtMTExNTEyNTMwMywtNDMwNTgwNzI2LC02
-MDMyNjM4MjEsLTE1Njk3NTgxMTQsNjk4MDg5ODU1LC0yMTQyNT
-YwNjMzLDIwNjQ5ODQ4NDldfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsyMzM3ODI2MjAsLTE1NzA2MjM5
+OTAsMTUyMjg5Mzk4OSw5NDcwNTIwMzYsNzYzNTUwMDU2LDE1Nz
+g4ODc3MjgsODM2NjE1Mzk5LC04ODM2OTAyNjEsLTExNjY1MDM2
+MDUsMTQ1MjkyODI2NCwxNjkzMDU5NzUxLC0xOTUyOTQ3ODYsLT
+E4MTg1NzA5OTEsLTE1Mzg4NTI5MDYsLTExMTUxMjUzMDMsLTQz
+MDU4MDcyNiwtNjAzMjYzODIxLC0xNTY5NzU4MTE0LDY5ODA4OT
+g1NSwtMjE0MjU2MDYzM119
 -->
