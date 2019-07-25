@@ -38,6 +38,8 @@ Starting of 20th Century was also quite unstable, two World Wars happened in tha
 
 German engineer Konrad Zuse was able to create Z3, the world first working digital computer in 1941, which was General purpose programmable computer based on vacuum tubes.  
 
+#### Specifications of Z3
+
 -   **Average calculation speed**: addition – 0.8 seconds, multiplication – 3 seconds
 -   **Arithmetic unit**: Binary Floating-point, 22-bit, add, subtract, multiply, divide, square root
 -   **Data memory**: 64 words with a length of 22 bits
@@ -85,11 +87,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTkxMDA3NDcyOSwyMzM3ODI2
-MjAsLTE1NzA2MjM5OTAsMTUyMjg5Mzk4OSw5NDcwNTIwMzYsNz
-YzNTUwMDU2LDE1Nzg4ODc3MjgsODM2NjE1Mzk5LC04ODM2OTAy
-NjEsLTExNjY1MDM2MDUsMTQ1MjkyODI2NCwxNjkzMDU5NzUxLC
-0xOTUyOTQ3ODYsLTE4MTg1NzA5OTEsLTE1Mzg4NTI5MDYsLTEx
-MTUxMjUzMDMsLTQzMDU4MDcyNiwtNjAzMjYzODIxLC0xNTY5Nz
-U4MTE0LDY5ODA4OTg1NV19
+BnZm1cbiIsImhpc3RvcnkiOlszOTk0OTc2NTksLTE5MTAwNzQ3
+MjksMjMzNzgyNjIwLC0xNTcwNjIzOTkwLDE1MjI4OTM5ODksOT
+Q3MDUyMDM2LDc2MzU1MDA1NiwxNTc4ODg3NzI4LDgzNjYxNTM5
+OSwtODgzNjkwMjYxLC0xMTY2NTAzNjA1LDE0NTI5MjgyNjQsMT
+Y5MzA1OTc1MSwtMTk1Mjk0Nzg2LC0xODE4NTcwOTkxLC0xNTM4
+ODUyOTA2LC0xMTE1MTI1MzAzLC00MzA1ODA3MjYsLTYwMzI2Mz
+gyMSwtMTU2OTc1ODExNF19
 -->
