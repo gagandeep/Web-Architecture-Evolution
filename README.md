@@ -9,8 +9,8 @@ In past 7-8 years, Web and its development become more and more complex with dif
  - How they work in principal
  - When to choose them and Why to choose them
 
-This book will be arranged in two parts,
-1. Pre-Hadoop Era
+This book will be arranged in following Chapters,
+1. Chapter 0 - Introduction
 2. Post-Hadoop Era (Big-Data Era)
 
 ## Who is the Author?
@@ -25,6 +25,7 @@ https://stackedit.io/ for making awesome Markdown Editor and cool syncing featur
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTMyNTg3MCwtMTAzNzE5NjgwNCwtMT
-A3NzIyNjIwMCwxNDgyMTMzNzMwLC0xNDM5NTYwNDRdfQ==
+eyJoaXN0b3J5IjpbLTIxMTkzOTUxMzQsMTI2NTMyNTg3MCwtMT
+AzNzE5NjgwNCwtMTA3NzIyNjIwMCwxNDgyMTMzNzMwLC0xNDM5
+NTYwNDRdfQ==
 -->
