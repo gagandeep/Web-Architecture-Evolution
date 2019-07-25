@@ -34,7 +34,8 @@ We will not go into details of all the pre-20th Century advancements since that 
 
 ### 2. First General-purpose Computer
 In early 20th Century, Scientist were using different kinds of mechanical devices built for specific tasks. Specific tasks devices keep hardware at minimal. In early 20th century, Hardware was Mechanical devices and those were huge. These Mechanical devices or Analog Computers needed high precision and highly skilled workers needed for precision forging. Still error rates were high and that in fact one of the reasons for increased costs. Maintainence of those mechanical devices were also high. Also, size of these mechnical devices were enormous.
-Starting of 20th Century was also quite unstable, two World Wars happened in that period and because of these scenarios funding to build smaller and efficient devices were enormous. To cater to these needs with funding available, *electromechanical analog devices* were build in late 1930's. 
+Starting of 20th Century was also quite unstable, two World Wars happened in that period and because of these scenarios funding to build smaller and efficient devices were enormous. To cater to these needs with funding available, *Electromechanical Analog devices* were build in late 1930's. *Electromechanical Analog devices* were possible by invention of 
+
 To evolove these designs futhur German engineer Konrad Zuse was able to create Z3, the world first working digital computer in 1941, General purpose programmable computer.  Konrad Zuse also introduced world's first commercial computer, Z4.
 #### Specifications of Z4
 **Frequency**: (about) 40 hertz
@@ -68,11 +69,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls5NDcwNTIwMzYsNzYzNTUwMDU2
-LDE1Nzg4ODc3MjgsODM2NjE1Mzk5LC04ODM2OTAyNjEsLTExNj
-Y1MDM2MDUsMTQ1MjkyODI2NCwxNjkzMDU5NzUxLC0xOTUyOTQ3
-ODYsLTE4MTg1NzA5OTEsLTE1Mzg4NTI5MDYsLTExMTUxMjUzMD
-MsLTQzMDU4MDcyNiwtNjAzMjYzODIxLC0xNTY5NzU4MTE0LDY5
-ODA4OTg1NSwtMjE0MjU2MDYzMywyMDY0OTg0ODQ5LC0xODIyOD
-EyMTU3LC03Mzg0NTEzNDJdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstNDM4Nzc4Njk2LDk0NzA1MjAz
+Niw3NjM1NTAwNTYsMTU3ODg4NzcyOCw4MzY2MTUzOTksLTg4Mz
+Y5MDI2MSwtMTE2NjUwMzYwNSwxNDUyOTI4MjY0LDE2OTMwNTk3
+NTEsLTE5NTI5NDc4NiwtMTgxODU3MDk5MSwtMTUzODg1MjkwNi
+wtMTExNTEyNTMwMywtNDMwNTgwNzI2LC02MDMyNjM4MjEsLTE1
+Njk3NTgxMTQsNjk4MDg5ODU1LC0yMTQyNTYwNjMzLDIwNjQ5OD
+Q4NDksLTE4MjI4MTIxNTddfQ==
 -->
