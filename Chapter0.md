@@ -34,8 +34,7 @@ We will not go into details of all the pre-20th Century advancements since that 
 
 ### 2. First General-purpose Computer
 In early 20th Century, Scientist were using different kinds of mechanical devices built for specific tasks. Specific tasks devices keep hardware at minimal. In early 20th century, Hardware was Mechanical devices and those were huge. These Mechanical devices or Analog Computers needed high precision and highly skilled workers needed for precision forging. Still error rates were high and that in fact one of the reasons for increased costs. Maintainence of those mechanical devices were also high. Also, size of these mechnical devices were enormous.
-Starting of 20th Century was also quite unstable, two World Wars happened in that period and because of these scenarios funding to build smaller and efficient devices were enormous. To cater to these needs with funding available, *Electromechanical Analog devices* were build in late 1930's. *Electromechanical Analog devices* were possible by invention of 
-
+Starting of 20th Century was also quite unstable, two World Wars happened in that period and because of these scenarios funding to build smaller and efficient devices were enormous. To cater to these needs with funding available, *Electromechanical Analog devices* were build in late 1930's. *Electromechanical Analog devices* were possible by invention of *Diode* (first Vacuum Tube) in 1904 by John Ambrose Fleming.
 To evolove these designs futhur German engineer Konrad Zuse was able to create Z3, the world first working digital computer in 1941, General purpose programmable computer.  Konrad Zuse also introduced world's first commercial computer, Z4.
 #### Specifications of Z4
 **Frequency**: (about) 40 hertz
@@ -69,7 +68,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNDM4Nzc4Njk2LDk0NzA1MjAz
+BnZm1cbiIsImhpc3RvcnkiOlsxNTIyODkzOTg5LDk0NzA1MjAz
 Niw3NjM1NTAwNTYsMTU3ODg4NzcyOCw4MzY2MTUzOTksLTg4Mz
 Y5MDI2MSwtMTE2NjUwMzYwNSwxNDUyOTI4MjY0LDE2OTMwNTk3
 NTEsLTE5NTI5NDc4NiwtMTgxODU3MDk5MSwtMTUzODg1MjkwNi
