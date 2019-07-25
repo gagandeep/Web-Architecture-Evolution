@@ -78,7 +78,7 @@ These advancement happened in the era of uncertainity and wars. These early comp
 The *Manchester Baby* was the world's first Stored-program computer. It was degined to use *Williams tube* as digital storage device. Manchester Baby was small and primitive from that era standards also. Design of Machester baby led to design of more usable computer Manchester Mark 1. Grace Hopper was the first person to develop a Compiler for programming language.
 In 1947, Transistor was invented. It took 7-8 years for transistors to start replacing Vacuum Tubes. Compared to vacuum tubes, transistors have many advantages: they are smaller, and require less power than vacuum tubes, so give off less heat. This era is called "second generation" of computers.
 The Third Generation of Computers were made possible by Itegrated Circuits. The first practical ICs were invented by Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor. This led to explosion in the usage of Commercial and Personal Computers. 
-The Forth Generation of Computers were made though Microprocessors that we are using till date. incorporates the functions of a central processing unit on a single [integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit "Integrated circuit") (IC)
+The Forth Generation of Computers were made though Microprocessors that we are using till date. Microprocessors incorporates the functions of a central processing unit on a single Integrated circuit (IC)
 
 ### 4. Mobile Computers
 
@@ -95,7 +95,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNzI4MDUyNzY2LC01MTcwODQ2
+BnZm1cbiIsImhpc3RvcnkiOlstMTAxMTU1ODQyLC01MTcwODQ2
 OCwxODk5NTAzOTcwLDMyMTcyMjUwNiwtNjkyNTY4NTk2LDE1NT
 k2Njk5NzIsOTEzOTc1OTc3LC0yMzQyMjcwMzQsLTE0MTEwMjE0
 MTQsMTY5MDM5NzQwNywtMTY0MDIwMjYwLDM0MTAzNDIxNiwxNT
