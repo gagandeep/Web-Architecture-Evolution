@@ -76,7 +76,7 @@ These advancement happened in the era of uncertainity and wars. These early comp
 
 ### 3. Digital Computers
 The *Manchester Baby* was the world's first Stored-program computer. It was degined to use *Williams tube* as digital storage device. Manchester Baby was small and primitive from that era standards also. Design of Machester baby led to design of more usable computer Manchester Mark 1. Grace Hopper was the first person to develop a Compiler for programming language.
-In 1947, Transistors were invented.
+In 1947, Transistor was invented. It took 7-8 years for transistors to start replacing Vacuum Tubes. 
 
 ### 4. Mobile Computers
 
@@ -93,7 +93,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNTM3MzU0MDI2LDMyMTcyMjUw
+BnZm1cbiIsImhpc3RvcnkiOlsyMDUwMzQwNTM2LDMyMTcyMjUw
 NiwtNjkyNTY4NTk2LDE1NTk2Njk5NzIsOTEzOTc1OTc3LC0yMz
 QyMjcwMzQsLTE0MTEwMjE0MTQsMTY5MDM5NzQwNywtMTY0MDIw
 MjYwLDM0MTAzNDIxNiwxNTg0ODEyNzE3LDM5OTQ5NzY1OSwtMT
