@@ -68,7 +68,7 @@ Konrad Zuse also introduced world's first commercial computer, Z4 in 1945.
 
 These were incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape. Z3 and Z4 were Turing Complete machines. 
 
-These advancement happened in the era of uncertainity and wars. These early computers either used for encryption/decryption of sensity information, accurate attacks to moving targets, scientific calculations for weapon of mass destruction including Nuclear, etc. T 
+These advancement happened in the era of uncertainity and wars. These early computers either used for encryption/decryption of sensity information, accurate attacks to moving targets, scientific calculations by scientist for weapon of mass destruction including Nuclear, etc. 
 
 ### 3. Digital Computers
 
@@ -89,7 +89,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMDExMzMzMjA5LDM0MTAzNDIx
+BnZm1cbiIsImhpc3RvcnkiOlstMTY0MDIwMjYwLDM0MTAzNDIx
 NiwxNTg0ODEyNzE3LDM5OTQ5NzY1OSwtMTkxMDA3NDcyOSwyMz
 M3ODI2MjAsLTE1NzA2MjM5OTAsMTUyMjg5Mzk4OSw5NDcwNTIw
 MzYsNzYzNTUwMDU2LDE1Nzg4ODc3MjgsODM2NjE1Mzk5LC04OD
