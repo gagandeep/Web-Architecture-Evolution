@@ -44,11 +44,11 @@ German engineer Konrad Zuse was able to create Z3, the world first working digit
  - **Average calculation speed**: 400 ms for an addition, 3 seconds for a multiplication. Approximately 1000 floating point arithmetic operations on average an hour.
  - **Programming**: holes in 35 mm film stock, punched on a programming machine
  - **Input**: Decimal floating point numbers, punch tape
-**Output**: Decimal floating point numbers, punch tape or Mercedes typewriter
-**Word length**: 32 bits floating point
-**Elements**: (about) 2,500 relays, 21 step-wise relays
-**Memory**: Mechanical memory from the Z1 and Z2 (64 words, 32 bit)
-**Power consumption**: (about) 4 kW
+ - **Output**: Decimal floating point numbers, punch tape or Mercedes typewriter
+ - **Word length**: 32 bits floating point
+ - **Elements**: (about) 2,500 relays, 21 step-wise relays
+ - **Memory**: Mechanical memory from the Z1 and Z2 (64 words, 32 bit)
+ - **Power consumption**: (about) 4 kW
 
 That was incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape. Z3 and Z4 were Turing Complete machines. 
 
@@ -71,11 +71,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjYyODYwMDQsMjMzNzgyNjIw
-LC0xNTcwNjIzOTkwLDE1MjI4OTM5ODksOTQ3MDUyMDM2LDc2Mz
-U1MDA1NiwxNTc4ODg3NzI4LDgzNjYxNTM5OSwtODgzNjkwMjYx
-LC0xMTY2NTAzNjA1LDE0NTI5MjgyNjQsMTY5MzA1OTc1MSwtMT
-k1Mjk0Nzg2LC0xODE4NTcwOTkxLC0xNTM4ODUyOTA2LC0xMTE1
-MTI1MzAzLC00MzA1ODA3MjYsLTYwMzI2MzgyMSwtMTU2OTc1OD
-ExNCw2OTgwODk4NTVdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxMzAzNjYwNjA3LDIzMzc4MjYy
+MCwtMTU3MDYyMzk5MCwxNTIyODkzOTg5LDk0NzA1MjAzNiw3Nj
+M1NTAwNTYsMTU3ODg4NzcyOCw4MzY2MTUzOTksLTg4MzY5MDI2
+MSwtMTE2NjUwMzYwNSwxNDUyOTI4MjY0LDE2OTMwNTk3NTEsLT
+E5NTI5NDc4NiwtMTgxODU3MDk5MSwtMTUzODg1MjkwNiwtMTEx
+NTEyNTMwMywtNDMwNTgwNzI2LC02MDMyNjM4MjEsLTE1Njk3NT
+gxMTQsNjk4MDg5ODU1XX0=
 -->
