@@ -30,6 +30,7 @@ Abacus was another computing device that eases out arithmetic tasks. Value addit
 Timekeeping devices were also evolved from *Looking at Sun and Moon* to *Stonehenge* to *Sundials* to *Hourglass* to *Clock towers* to *Wristwatch* to *Electric clock* to *Atomic clock*. All of these involved major computing advancements in different fields over the periods of centuries. The value those enhancements brought in was from better coordination to better farming to better fishing etc. That leads us to Universal Coordinated Time (UTC) and different time-zones and daylight saving times. Time zones to coordinate things locally to region or country. Daylight saving times to better utilize local daylight. UTC to coordinate things across the globe e.g International Air travel coordination, Ships coordination, etc. It still looks like a mess to many programmers but coordination at that scale leads to some in-efficiencies and managing that is also getting more and more streamlined. 
 
 We will not go into details of all the pre-20th Century advancements since that will be a waste of time. In the pre-20th Century, two things are worth mentioning *Difference engine* and *Analytical Engine*. Difference engine was the marvel of its time. The time of complex mathematics getting solved by machines for specific purposes. Difference engine was the automatic polynomial solver of that time. That idea of Difference engine led *Charles Babbage* to the idea of *Analytical Engine* which was the idea of General-purpose computer. Analytical Engine has an Arithmetic logic unit, Control flow with Conditional branching and Loops, and memory, making it the first design for a general-purpose computer that could be described in modern terms as Turing-complete. In other words, the logical structure of the Analytical Engine was essentially the same as that which has dominated computer design in the electronic era.
+Ada Lovelace was the first person to publish an Algorithm intended to be executed by Analytical Engine.
 
 ### 2. First General-purpose Computer
 In early 20th Century, Scientist were using different kinds of mechanical devices built for specific tasks. Specific tasks devices keep hardware at minimal. In early 20th century, Hardware was Mechanical devices and those were huge. These Mechanical devices or Analog Computers needed high precision and highly skilled workers needed for precision forging. Still error rates were high and that in fact one of the reasons for increased costs. Maintainence of those mechanical devices were also high. Also, size of these mechnical devices were enormous.
@@ -87,11 +88,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjM0MjI3MDM0LC0xNDExMDIx
-NDE0LDE2OTAzOTc0MDcsLTE2NDAyMDI2MCwzNDEwMzQyMTYsMT
-U4NDgxMjcxNywzOTk0OTc2NTksLTE5MTAwNzQ3MjksMjMzNzgy
-NjIwLC0xNTcwNjIzOTkwLDE1MjI4OTM5ODksOTQ3MDUyMDM2LD
-c2MzU1MDA1NiwxNTc4ODg3NzI4LDgzNjYxNTM5OSwtODgzNjkw
-MjYxLC0xMTY2NTAzNjA1LDE0NTI5MjgyNjQsMTY5MzA1OTc1MS
-wtMTk1Mjk0Nzg2XX0=
+BnZm1cbiIsImhpc3RvcnkiOls5MjMxNDkzLC0yMzQyMjcwMzQs
+LTE0MTEwMjE0MTQsMTY5MDM5NzQwNywtMTY0MDIwMjYwLDM0MT
+AzNDIxNiwxNTg0ODEyNzE3LDM5OTQ5NzY1OSwtMTkxMDA3NDcy
+OSwyMzM3ODI2MjAsLTE1NzA2MjM5OTAsMTUyMjg5Mzk4OSw5ND
+cwNTIwMzYsNzYzNTUwMDU2LDE1Nzg4ODc3MjgsODM2NjE1Mzk5
+LC04ODM2OTAyNjEsLTExNjY1MDM2MDUsMTQ1MjkyODI2NCwxNj
+kzMDU5NzUxXX0=
 -->
