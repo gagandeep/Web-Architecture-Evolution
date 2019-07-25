@@ -11,7 +11,7 @@ In past 7-8 years, Web and its development become more and more complex with dif
 
 This book will be arranged in following Chapters,
 1. Chapter 0 - Introduction
-2. Post-Hadoop Era (Big-Data Era)
+1. Chapter 1 - Protocols
 
 ## Who is the Author?
 **Gagandeep Singh** is the Author of this unfinished book. He has more than 10 years of experience in the industry. He has done couple of startups of his own and also served as VP of Technology in Education startup. He is doing Architecting of web based systems for past 7 years. He worked in different domains from Publishing, Media, Auto-industry, Health, Education and Advertising.
@@ -25,7 +25,7 @@ https://stackedit.io/ for making awesome Markdown Editor and cool syncing featur
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTkzOTUxMzQsMTI2NTMyNTg3MCwtMT
-AzNzE5NjgwNCwtMTA3NzIyNjIwMCwxNDgyMTMzNzMwLC0xNDM5
-NTYwNDRdfQ==
+eyJoaXN0b3J5IjpbNzM5NzkyNzM1LDEyNjUzMjU4NzAsLTEwMz
+cxOTY4MDQsLTEwNzcyMjYyMDAsMTQ4MjEzMzczMCwtMTQzOTU2
+MDQ0XX0=
 -->
