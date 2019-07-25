@@ -47,7 +47,7 @@ To evolove these designs futhur German engineer Konrad Zuse was able to create Z
 **Memory**: Mechanical memory from the Z1 and Z2 (64 words, 32 bit)
 **Power consumption**: (about) 4 kW
 
-That was incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape. Z3 and Z4 were Turing Complete computers. 
+That was incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape. Z3 and Z4 were Turing Complete machines. 
 
 ### 3. Digital Computers
 
@@ -68,11 +68,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNTc4ODg3NzI4LDgzNjYxNTM5
-OSwtODgzNjkwMjYxLC0xMTY2NTAzNjA1LDE0NTI5MjgyNjQsMT
-Y5MzA1OTc1MSwtMTk1Mjk0Nzg2LC0xODE4NTcwOTkxLC0xNTM4
-ODUyOTA2LC0xMTE1MTI1MzAzLC00MzA1ODA3MjYsLTYwMzI2Mz
-gyMSwtMTU2OTc1ODExNCw2OTgwODk4NTUsLTIxNDI1NjA2MzMs
-MjA2NDk4NDg0OSwtMTgyMjgxMjE1NywtNzM4NDUxMzQyLC0xMj
-Y2OTA3NzUzLC0yNDgyMTQ1NjJdfQ==
+BnZm1cbiIsImhpc3RvcnkiOls3NjM1NTAwNTYsMTU3ODg4Nzcy
+OCw4MzY2MTUzOTksLTg4MzY5MDI2MSwtMTE2NjUwMzYwNSwxND
+UyOTI4MjY0LDE2OTMwNTk3NTEsLTE5NTI5NDc4NiwtMTgxODU3
+MDk5MSwtMTUzODg1MjkwNiwtMTExNTEyNTMwMywtNDMwNTgwNz
+I2LC02MDMyNjM4MjEsLTE1Njk3NTgxMTQsNjk4MDg5ODU1LC0y
+MTQyNTYwNjMzLDIwNjQ5ODQ4NDksLTE4MjI4MTIxNTcsLTczOD
+Q1MTM0MiwtMTI2NjkwNzc1M119
 -->
