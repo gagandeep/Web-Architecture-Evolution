@@ -16,7 +16,6 @@ The different Eras/Stages of Computing hardware gave us some milestones for the 
  1. Pre-20th century
  1. First General-purpose Computer
  1. Digital Computers
- 1. Modern Computers
  1. Mobile Computers
  1. IoT (Internet of Things) specialized hardware
 
@@ -73,8 +72,6 @@ These advancement happened in the era of uncertainity and wars. These early comp
 ### 3. Digital Computers
 The *Manchester Baby* was the world's first Stored-program computer. It was degined to use *Williams tube* as digital storage device. 
 
-### 4. Modern Computers
-
 ### 5. Mobile Computers
 
 ### 6. IoT (Internet of Things) specialized hardware
@@ -90,11 +87,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTQxMTAyMTQxNCwxNjkwMzk3
-NDA3LC0xNjQwMjAyNjAsMzQxMDM0MjE2LDE1ODQ4MTI3MTcsMz
-k5NDk3NjU5LC0xOTEwMDc0NzI5LDIzMzc4MjYyMCwtMTU3MDYy
-Mzk5MCwxNTIyODkzOTg5LDk0NzA1MjAzNiw3NjM1NTAwNTYsMT
-U3ODg4NzcyOCw4MzY2MTUzOTksLTg4MzY5MDI2MSwtMTE2NjUw
-MzYwNSwxNDUyOTI4MjY0LDE2OTMwNTk3NTEsLTE5NTI5NDc4Ni
-wtMTgxODU3MDk5MV19
+BnZm1cbiIsImhpc3RvcnkiOlstMjM0MjI3MDM0LC0xNDExMDIx
+NDE0LDE2OTAzOTc0MDcsLTE2NDAyMDI2MCwzNDEwMzQyMTYsMT
+U4NDgxMjcxNywzOTk0OTc2NTksLTE5MTAwNzQ3MjksMjMzNzgy
+NjIwLC0xNTcwNjIzOTkwLDE1MjI4OTM5ODksOTQ3MDUyMDM2LD
+c2MzU1MDA1NiwxNTc4ODg3NzI4LDgzNjYxNTM5OSwtODgzNjkw
+MjYxLC0xMTY2NTAzNjA1LDE0NTI5MjgyNjQsMTY5MzA1OTc1MS
+wtMTk1Mjk0Nzg2XX0=
 -->
