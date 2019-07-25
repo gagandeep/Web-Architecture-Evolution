@@ -77,8 +77,8 @@ These advancement happened in the era of uncertainity and wars. These early comp
 ### 3. Digital Computers
 The *Manchester Baby* was the world's first Stored-program computer. It was degined to use *Williams tube* as digital storage device. Manchester Baby was small and primitive from that era standards also. Design of Machester baby led to design of more usable computer Manchester Mark 1. Grace Hopper was the first person to develop a Compiler for programming language.
 In 1947, Transistor was invented. It took 7-8 years for transistors to start replacing Vacuum Tubes. Compared to vacuum tubes, transistors have many advantages: they are smaller, and require less power than vacuum tubes, so give off less heat. This era is called "second generation" of computers.
-The Third generation of computers were made possible by Itegrated Circuits. The first practical ICs were invented by Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor. This led to explosion in the usage of Commercial and Personal Computers. 
-
+The Third Generation of Computers were made possible by Itegrated Circuits. The first practical ICs were invented by Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor. This led to explosion in the usage of Commercial and Personal Computers. 
+The Forth Generation of Computers were made though Microprocessors that we are using till date.
 
 ### 4. Mobile Computers
 
@@ -95,11 +95,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNTE3MDg0NjgsMTg5OTUwMzk3
-MCwzMjE3MjI1MDYsLTY5MjU2ODU5NiwxNTU5NjY5OTcyLDkxMz
-k3NTk3NywtMjM0MjI3MDM0LC0xNDExMDIxNDE0LDE2OTAzOTc0
-MDcsLTE2NDAyMDI2MCwzNDEwMzQyMTYsMTU4NDgxMjcxNywzOT
-k0OTc2NTksLTE5MTAwNzQ3MjksMjMzNzgyNjIwLC0xNTcwNjIz
-OTkwLDE1MjI4OTM5ODksOTQ3MDUyMDM2LDc2MzU1MDA1NiwxNT
-c4ODg3NzI4XX0=
+BnZm1cbiIsImhpc3RvcnkiOls4NDMwNjQ5MTcsLTUxNzA4NDY4
+LDE4OTk1MDM5NzAsMzIxNzIyNTA2LC02OTI1Njg1OTYsMTU1OT
+Y2OTk3Miw5MTM5NzU5NzcsLTIzNDIyNzAzNCwtMTQxMTAyMTQx
+NCwxNjkwMzk3NDA3LC0xNjQwMjAyNjAsMzQxMDM0MjE2LDE1OD
+Q4MTI3MTcsMzk5NDk3NjU5LC0xOTEwMDc0NzI5LDIzMzc4MjYy
+MCwtMTU3MDYyMzk5MCwxNTIyODkzOTg5LDk0NzA1MjAzNiw3Nj
+M1NTAwNTZdfQ==
 -->
