@@ -1,13 +1,13 @@
 # Web Architecture Evolution
-Web Architecture Evolution is `in-progress` book to learn Architectures from 0 to Current level of Web architetures be it Lambda Architecture, Kappa Architecture, Event driven Architecture.
+Web Architecture Evolution is `in-progress` book to learn Architectures from 0 to Current level of Web architetures be it Lambda Architecture, Kappa Architecture, Event driven Architecture, etc.
 
 ## Why this book?
-In past 4-5 years, Web and its development become more complex with different new technologies and cloud providers got into the eco-system. This complexity needs to be documented for new generation to keep it up with the pace. By this book, they will know 
+In past 7-8 years, Web and its development become more and more complex with different new technologies and cloud providers got into the eco-system. This complexity needs to be documented for new generation to keep it up with the pace of industry. By this book, you will know 
 
  - Why different kind of systems/Architectures are present in the market
  - What problems they solve
  - How they work in principal
- - When to choose them and Why.
+ - When to choose them and Why to choose them
 
 This book will be arranged in two parts,
 1. Pre-Hadoop Era
@@ -25,6 +25,6 @@ https://stackedit.io/ for making awesome Markdown Editor and cool syncing featur
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzcxOTY4MDQsLTEwNzcyMjYyMDAsMT
-Q4MjEzMzczMCwtMTQzOTU2MDQ0XX0=
+eyJoaXN0b3J5IjpbMTI2NTMyNTg3MCwtMTAzNzE5NjgwNCwtMT
+A3NzIyNjIwMCwxNDgyMTMzNzMwLC0xNDM5NTYwNDRdfQ==
 -->
