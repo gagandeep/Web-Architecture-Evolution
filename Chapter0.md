@@ -37,6 +37,7 @@ In early 20th Century, Scientist were using different kinds of mechanical device
 Starting of 20th Century was also quite unstable, two World Wars happened in that period and because of these scenarios funding to build smaller and efficient devices were enormous. To cater to these needs with funding available, *Electromechanical Analog devices* were build in late 1930's. *Electromechanical Analog devices* were possible by invention of *Diode* (first Vacuum Tube) in 1904 by John Ambrose Fleming. A vacuum tube consists of two or more Electrode in a vacuum inside an airtight envelope.
 
 German engineer Konrad Zuse was able to create Z3, the world first working digital computer in 1941, which was General purpose programmable computer based on vacuum tubes.  
+
 -   **Average calculation speed**: addition – 0.8 seconds, multiplication – 3 seconds
 -   **Arithmetic unit**: Binary Floating-point, 22-bit, add, subtract, multiply, divide, square root
 -   **Data memory**: 64 words with a length of 22 bits
@@ -44,10 +45,10 @@ German engineer Konrad Zuse was able to create Z3, the world first working digit
 -   **Input**: Decimal floating-point numbers
 -   **Output**: Decimal floating-point numbers
 -   Input and Output was facilitated by a terminal, with a special keyboard for input and a row of lamps to show results
--   Elements: Around 2,000 relays (1,400 for the memory)
--   Frequency: 5.3 hertz
--   Power consumption: Around 4,000 watts
--   Weight: Around 1 tonne (2,200 lb)
+-   **Elements**: Around 2,000 relays (1,400 for the memory)
+-   **Frequency**: 5.3 hertz
+-   **Power consumption**: Around 4,000 watts
+-   **Weight**: Around 1 tonne (2,200 lb)
 
 Konrad Zuse also introduced world's first commercial computer, Z4 in 1945.
 
@@ -84,11 +85,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls3MTg0MzM0MTMsMjMzNzgyNjIw
-LC0xNTcwNjIzOTkwLDE1MjI4OTM5ODksOTQ3MDUyMDM2LDc2Mz
-U1MDA1NiwxNTc4ODg3NzI4LDgzNjYxNTM5OSwtODgzNjkwMjYx
-LC0xMTY2NTAzNjA1LDE0NTI5MjgyNjQsMTY5MzA1OTc1MSwtMT
-k1Mjk0Nzg2LC0xODE4NTcwOTkxLC0xNTM4ODUyOTA2LC0xMTE1
-MTI1MzAzLC00MzA1ODA3MjYsLTYwMzI2MzgyMSwtMTU2OTc1OD
-ExNCw2OTgwODk4NTVdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTkxMDA3NDcyOSwyMzM3ODI2
+MjAsLTE1NzA2MjM5OTAsMTUyMjg5Mzk4OSw5NDcwNTIwMzYsNz
+YzNTUwMDU2LDE1Nzg4ODc3MjgsODM2NjE1Mzk5LC04ODM2OTAy
+NjEsLTExNjY1MDM2MDUsMTQ1MjkyODI2NCwxNjkzMDU5NzUxLC
+0xOTUyOTQ3ODYsLTE4MTg1NzA5OTEsLTE1Mzg4NTI5MDYsLTEx
+MTUxMjUzMDMsLTQzMDU4MDcyNiwtNjAzMjYzODIxLC0xNTY5Nz
+U4MTE0LDY5ODA4OTg1NV19
 -->
