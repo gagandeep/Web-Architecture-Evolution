@@ -79,6 +79,7 @@ The *Manchester Baby* was the world's first Stored-program computer. It was degi
 In 1947, Transistor was invented. It took 7-8 years for transistors to start replacing Vacuum Tubes. Compared to vacuum tubes, transistors have many advantages: they are smaller, and require less power than vacuum tubes, so give off less heat. This era is called "second generation" of computers.
 The Third generation of computers were made possible by Itegrated Circuits. The first practical ICs were invented by Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor. This led to explosion in the usage of Commercial and Personal Computers. 
 
+
 ### 4. Mobile Computers
 
 ### 5. IoT (Internet of Things) specialized hardware
@@ -94,11 +95,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls1MTc3NTAwNiwxODk5NTAzOTcw
-LDMyMTcyMjUwNiwtNjkyNTY4NTk2LDE1NTk2Njk5NzIsOTEzOT
-c1OTc3LC0yMzQyMjcwMzQsLTE0MTEwMjE0MTQsMTY5MDM5NzQw
-NywtMTY0MDIwMjYwLDM0MTAzNDIxNiwxNTg0ODEyNzE3LDM5OT
-Q5NzY1OSwtMTkxMDA3NDcyOSwyMzM3ODI2MjAsLTE1NzA2MjM5
-OTAsMTUyMjg5Mzk4OSw5NDcwNTIwMzYsNzYzNTUwMDU2LDE1Nz
-g4ODc3MjhdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstNTE3MDg0NjgsMTg5OTUwMzk3
+MCwzMjE3MjI1MDYsLTY5MjU2ODU5NiwxNTU5NjY5OTcyLDkxMz
+k3NTk3NywtMjM0MjI3MDM0LC0xNDExMDIxNDE0LDE2OTAzOTc0
+MDcsLTE2NDAyMDI2MCwzNDEwMzQyMTYsMTU4NDgxMjcxNywzOT
+k0OTc2NTksLTE5MTAwNzQ3MjksMjMzNzgyNjIwLC0xNTcwNjIz
+OTkwLDE1MjI4OTM5ODksOTQ3MDUyMDM2LDc2MzU1MDA1NiwxNT
+c4ODg3NzI4XX0=
 -->
