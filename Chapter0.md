@@ -66,7 +66,7 @@ Konrad Zuse also introduced world's first commercial computer, Z4 in 1945.
  - **Memory**: Mechanical memory from the Z1 and Z2 (64 words, 32 bit)
  - **Power consumption**: (about) 4 kW
 
-That was incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape. Z3 and Z4 were Turing Complete machines. 
+These were incredible machine of its time. The memory of Z4 was mechinical in nature i.e. punch tape. Z3 and Z4 were Turing Complete machines. 
 
 ### 3. Digital Computers
 
@@ -87,11 +87,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlszOTk0OTc2NTksLTE5MTAwNzQ3
-MjksMjMzNzgyNjIwLC0xNTcwNjIzOTkwLDE1MjI4OTM5ODksOT
-Q3MDUyMDM2LDc2MzU1MDA1NiwxNTc4ODg3NzI4LDgzNjYxNTM5
-OSwtODgzNjkwMjYxLC0xMTY2NTAzNjA1LDE0NTI5MjgyNjQsMT
-Y5MzA1OTc1MSwtMTk1Mjk0Nzg2LC0xODE4NTcwOTkxLC0xNTM4
-ODUyOTA2LC0xMTE1MTI1MzAzLC00MzA1ODA3MjYsLTYwMzI2Mz
-gyMSwtMTU2OTc1ODExNF19
+BnZm1cbiIsImhpc3RvcnkiOlsxNTg0ODEyNzE3LDM5OTQ5NzY1
+OSwtMTkxMDA3NDcyOSwyMzM3ODI2MjAsLTE1NzA2MjM5OTAsMT
+UyMjg5Mzk4OSw5NDcwNTIwMzYsNzYzNTUwMDU2LDE1Nzg4ODc3
+MjgsODM2NjE1Mzk5LC04ODM2OTAyNjEsLTExNjY1MDM2MDUsMT
+Q1MjkyODI2NCwxNjkzMDU5NzUxLC0xOTUyOTQ3ODYsLTE4MTg1
+NzA5OTEsLTE1Mzg4NTI5MDYsLTExMTUxMjUzMDMsLTQzMDU4MD
+cyNiwtNjAzMjYzODIxXX0=
 -->
