@@ -81,7 +81,7 @@ The Third Generation of Computers were made possible by Itegrated Circuits. The 
 The Forth Generation of Computers were made though Microprocessors that we are using till date. Microprocessors incorporates the functions of a central processing unit on a single Integrated circuit (IC). After the introduction of Microprocessors, they more and more powerful every 2 year. **Moore's law** is the observation that the number of transistors in a dense Integrated circuit doubles about every two years. 
 
 ### 4. Mobile Computers
-
+With Moore's law, heat and power utilization also increased significately.  
 
 ### 5. IoT (Internet of Things) specialized hardware
 
@@ -96,11 +96,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNDQ3OTA2ODA0LC01MTcwODQ2
-OCwxODk5NTAzOTcwLDMyMTcyMjUwNiwtNjkyNTY4NTk2LDE1NT
-k2Njk5NzIsOTEzOTc1OTc3LC0yMzQyMjcwMzQsLTE0MTEwMjE0
-MTQsMTY5MDM5NzQwNywtMTY0MDIwMjYwLDM0MTAzNDIxNiwxNT
-g0ODEyNzE3LDM5OTQ5NzY1OSwtMTkxMDA3NDcyOSwyMzM3ODI2
-MjAsLTE1NzA2MjM5OTAsMTUyMjg5Mzk4OSw5NDcwNTIwMzYsNz
-YzNTUwMDU2XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMTMwODcwODc3MiwtNTE3MDg0
+NjgsMTg5OTUwMzk3MCwzMjE3MjI1MDYsLTY5MjU2ODU5NiwxNT
+U5NjY5OTcyLDkxMzk3NTk3NywtMjM0MjI3MDM0LC0xNDExMDIx
+NDE0LDE2OTAzOTc0MDcsLTE2NDAyMDI2MCwzNDEwMzQyMTYsMT
+U4NDgxMjcxNywzOTk0OTc2NTksLTE5MTAwNzQ3MjksMjMzNzgy
+NjIwLC0xNTcwNjIzOTkwLDE1MjI4OTM5ODksOTQ3MDUyMDM2LD
+c2MzU1MDA1Nl19
 -->
