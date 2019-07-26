@@ -89,7 +89,7 @@ With Moore's law, heat and power utilization was also increased significantly. T
 Nokia with Symbian OS was first major commercial success. iPhone was another milestone in  commercial success of Mobile computers with touchscreen and Apps ecosystem. 
 
 ### 5. IoT (Internet of Things) specialized hardware
-With advancement of computing power and ubiquity of Mobiles, next step for advancement in computing hardware is Internet of Things or IoT 
+With advancement of computing power and ubiquity of Mobiles, next step for advancement in computing hardware is **Internet of Things or IoT**. If you observe closely computing hardware always there for assisting humans to do intelligence work
 
 Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
 
@@ -102,11 +102,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Computer: [https://en.wikipedia.org/wiki/Computer](https://en.wikipedia.org/wiki/Computer)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjA3ODMxMzE0OCwtMTgzNjE0
-NTU5NywtODAwOTI2Mjg3LC0xOTQxOTUxNzEwLDg0MTk1MzIxMi
-wzNzU0ODEyMTMsLTEzMDg3MDg3NzIsLTUxNzA4NDY4LDE4OTk1
-MDM5NzAsMzIxNzIyNTA2LC02OTI1Njg1OTYsMTU1OTY2OTk3Mi
-w5MTM5NzU5NzcsLTIzNDIyNzAzNCwtMTQxMTAyMTQxNCwxNjkw
-Mzk3NDA3LC0xNjQwMjAyNjAsMzQxMDM0MjE2LDE1ODQ4MTI3MT
-csMzk5NDk3NjU5XX0=
+BnZm1cbiIsImhpc3RvcnkiOls1MzI5NjUyMTIsLTE4MzYxNDU1
+OTcsLTgwMDkyNjI4NywtMTk0MTk1MTcxMCw4NDE5NTMyMTIsMz
+c1NDgxMjEzLC0xMzA4NzA4NzcyLC01MTcwODQ2OCwxODk5NTAz
+OTcwLDMyMTcyMjUwNiwtNjkyNTY4NTk2LDE1NTk2Njk5NzIsOT
+EzOTc1OTc3LC0yMzQyMjcwMzQsLTE0MTEwMjE0MTQsMTY5MDM5
+NzQwNywtMTY0MDIwMjYwLDM0MTAzNDIxNiwxNTg0ODEyNzE3LD
+M5OTQ5NzY1OV19
 -->
