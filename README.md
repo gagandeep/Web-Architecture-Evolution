@@ -10,15 +10,15 @@ In past 7-8 years, Web and its development become more and more complex with dif
  - When to choose them and Why to choose them
 
 This book will be arranged in following Chapters,
-1. [Chapter 0](Chapter0.md) - Introduction
-2. [Chapter 1](Chapter1.md) - Protocols
-3. Chapter 3 - Web
-4. Chapter 4 - PRISM of Evolution
-5. Chapter 5 - Database Evolution
-6. Chapter 6 - Cache Evolution
-7. Chapter 7 - Message Queue Evolution
-8. Chapter 8 - 
-9. Chapter -  
+1. [Introduction](Chapter0.md)
+2. [Protocols](Chapter1.md)
+3. Web
+4. PRISM of Evolution
+5. Database Evolution
+6. Cache Evolution
+7. Message Queue Evolution
+8.  
+9.   
 10. 
 11. 
 12. 
@@ -46,14 +46,14 @@ https://stackedit.io/ for making awesome Markdown Editor and cool syncing featur
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIwNW9XenM5T3dSQ1hMU0poIjp7In
-N0YXJ0Ijo4MzIsImVuZCI6ODUwLCJ0ZXh0IjoiMy4gQ2hhcHRl
+N0YXJ0Ijo4MDgsImVuZCI6ODE0LCJ0ZXh0IjoiMy4gQ2hhcHRl
 ciAzIC0gV2ViIn19LCJjb21tZW50cyI6eyJ3WXRSSmNEUzcxMX
 l0dGpFIjp7ImRpc2N1c3Npb25JZCI6IjA1b1d6czlPd1JDWExT
 SmgiLCJzdWIiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiVGhpcyB3aW
 xsIGluY2x1ZGUgd2ViIHNlcnZlciBldm9sdXRpb24gYWxvbmcg
 d2l0aCBIVE1MLCBDU1MgYW5kIEphdmFzY3JpcHQiLCJjcmVhdG
-VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOlstMjY4NTM2
-NTg3LDcyODcyNzI3OCwtMTQyNDgzNTI4MCwxMjY1MzI1ODcwLC
-0xMDM3MTk2ODA0LC0xMDc3MjI2MjAwLDE0ODIxMzM3MzAsLTE0
-Mzk1NjA0NF19
+VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOlstMTUzMzYz
+NzEzMCw3Mjg3MjcyNzgsLTE0MjQ4MzUyODAsMTI2NTMyNTg3MC
+wtMTAzNzE5NjgwNCwtMTA3NzIyNjIwMCwxNDgyMTMzNzMwLC0x
+NDM5NTYwNDRdfQ==
 -->
