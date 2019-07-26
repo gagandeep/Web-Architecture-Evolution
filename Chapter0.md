@@ -90,18 +90,19 @@ With Moore's law, heat and power utilization was also increased significantly. T
 Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
 
 ## References
-- History of computing hardware: https://en.wikipedia.org/wiki/History_of_computing_hardware
-- The Abacus: A Brief History: https://www.ee.ryerson.ca/~elf/abacus/history.html
-- Difference engine: https://en.wikipedia.org/wiki/Difference_engine
-- Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
-- Turing Completeness: https://en.wikipedia.org/wiki/Turing_completeness
+- History of computing hardware: [https://en.wikipedia.org/wiki/History_of_computing_hardware](https://en.wikipedia.org/wiki/History_of_computing_hardware)
+- The Abacus: A Brief History: [https://www.ee.ryerson.ca/~elf/abacus/history.html](https://www.ee.ryerson.ca/~elf/abacus/history.html)
+- Difference engine: [https://en.wikipedia.org/wiki/Difference_engine](https://en.wikipedia.org/wiki/Difference_engine)
+- Analytical Engine: [https://en.wikipedia.org/wiki/Analytical_Engine](https://en.wikipedia.org/wiki/Analytical_Engine)
+- Turing Completeness: [https://en.wikipedia.org/wiki/Turing_completeness](https://en.wikipedia.org/wiki/Turing_completeness)
+- Computer: [https://en.wikipedia.org/wiki/Computer](https://en.wikipedia.org/wiki/Computer)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTk0MTk1MTcxMCw4NDE5NTMy
-MTIsMzc1NDgxMjEzLC0xMzA4NzA4NzcyLC01MTcwODQ2OCwxOD
-k5NTAzOTcwLDMyMTcyMjUwNiwtNjkyNTY4NTk2LDE1NTk2Njk5
-NzIsOTEzOTc1OTc3LC0yMzQyMjcwMzQsLTE0MTEwMjE0MTQsMT
-Y5MDM5NzQwNywtMTY0MDIwMjYwLDM0MTAzNDIxNiwxNTg0ODEy
-NzE3LDM5OTQ5NzY1OSwtMTkxMDA3NDcyOSwyMzM3ODI2MjAsLT
-E1NzA2MjM5OTBdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxMzAxNjYzNTU3LC0xOTQxOTUx
+NzEwLDg0MTk1MzIxMiwzNzU0ODEyMTMsLTEzMDg3MDg3NzIsLT
+UxNzA4NDY4LDE4OTk1MDM5NzAsMzIxNzIyNTA2LC02OTI1Njg1
+OTYsMTU1OTY2OTk3Miw5MTM5NzU5NzcsLTIzNDIyNzAzNCwtMT
+QxMTAyMTQxNCwxNjkwMzk3NDA3LC0xNjQwMjAyNjAsMzQxMDM0
+MjE2LDE1ODQ4MTI3MTcsMzk5NDk3NjU5LC0xOTEwMDc0NzI5LD
+IzMzc4MjYyMF19
 -->
