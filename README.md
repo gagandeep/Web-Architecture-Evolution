@@ -19,11 +19,11 @@ This book will be arranged in following Chapters,
 7. Chapter 7 - Message Queue Evolution
 8. Chapter 8 - 
 9. Chapter -  
-10. Chapter -  
-11. Chapter -  
-12. Chapter -  
-13. Chapter -  
-14. Chapter - Uprising of Docker & Containerization
+10. 
+11. 
+12. 
+13. 
+14. Uprising of Docker & Containerization
 15. Kubernetes, Mesos & Docker Swarm
 16. Cloud Computing    
        - IAAS
@@ -52,8 +52,8 @@ l0dGpFIjp7ImRpc2N1c3Npb25JZCI6IjA1b1d6czlPd1JDWExT
 SmgiLCJzdWIiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiVGhpcyB3aW
 xsIGluY2x1ZGUgd2ViIHNlcnZlciBldm9sdXRpb24gYWxvbmcg
 d2l0aCBIVE1MLCBDU1MgYW5kIEphdmFzY3JpcHQiLCJjcmVhdG
-VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOlstMTAyNTgy
-NTUyOSw3Mjg3MjcyNzgsLTE0MjQ4MzUyODAsMTI2NTMyNTg3MC
-wtMTAzNzE5NjgwNCwtMTA3NzIyNjIwMCwxNDgyMTMzNzMwLC0x
-NDM5NTYwNDRdfQ==
+VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOlstMjY4NTM2
+NTg3LDcyODcyNzI3OCwtMTQyNDgzNTI4MCwxMjY1MzI1ODcwLC
+0xMDM3MTk2ODA0LC0xMDc3MjI2MjAwLDE0ODIxMzM3MzAsLTE0
+Mzk1NjA0NF19
 -->
