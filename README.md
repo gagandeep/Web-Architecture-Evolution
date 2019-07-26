@@ -24,7 +24,7 @@ This book will be arranged in following Chapters,
 12. 
 13. 
 14. 
-15. 
+15. Developer Tools Evolution
 16. Uprising of Docker & Containerization
 17. Kubernetes, Mesos & Docker Swarm
 18. Cloud Computing    
@@ -54,8 +54,8 @@ l0dGpFIjp7ImRpc2N1c3Npb25JZCI6IjA1b1d6czlPd1JDWExT
 SmgiLCJzdWIiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiVGhpcyB3aW
 xsIGluY2x1ZGUgd2ViIHNlcnZlciBldm9sdXRpb24gYWxvbmcg
 d2l0aCBIVE1MLCBDU1MgYW5kIEphdmFzY3JpcHQiLCJjcmVhdG
-VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOls3NDg4MjU2
-NDcsLTE1MzM2MzcxMzAsNzI4NzI3Mjc4LC0xNDI0ODM1MjgwLD
-EyNjUzMjU4NzAsLTEwMzcxOTY4MDQsLTEwNzcyMjYyMDAsMTQ4
-MjEzMzczMCwtMTQzOTU2MDQ0XX0=
+VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOlsxNzkzNDg5
+NDMxLDc0ODgyNTY0NywtMTUzMzYzNzEzMCw3Mjg3MjcyNzgsLT
+E0MjQ4MzUyODAsMTI2NTMyNTg3MCwtMTAzNzE5NjgwNCwtMTA3
+NzIyNjIwMCwxNDgyMTMzNzMwLC0xNDM5NTYwNDRdfQ==
 -->
