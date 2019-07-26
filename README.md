@@ -19,9 +19,9 @@ This book will be arranged in following Chapters,
 7. Database Evolution
 8. Cache Evolution
 9. Message Queue Evolution
-10. 
-11. 
-12. 
+10. Aggregation/ETL
+11. Analytics
+12. Machine Learning
 13. 
 14. 
 15. Developer Tools Evolution
@@ -54,8 +54,8 @@ l0dGpFIjp7ImRpc2N1c3Npb25JZCI6IjA1b1d6czlPd1JDWExT
 SmgiLCJzdWIiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiVGhpcyB3aW
 xsIGluY2x1ZGUgd2ViIHNlcnZlciBldm9sdXRpb24gYWxvbmcg
 d2l0aCBIVE1MLCBDU1MgYW5kIEphdmFzY3JpcHQiLCJjcmVhdG
-VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOlsxNzkzNDg5
-NDMxLDc0ODgyNTY0NywtMTUzMzYzNzEzMCw3Mjg3MjcyNzgsLT
-E0MjQ4MzUyODAsMTI2NTMyNTg3MCwtMTAzNzE5NjgwNCwtMTA3
-NzIyNjIwMCwxNDgyMTMzNzMwLC0xNDM5NTYwNDRdfQ==
+VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOlstMTQzMDk4
+MzE4Miw3NDg4MjU2NDcsLTE1MzM2MzcxMzAsNzI4NzI3Mjc4LC
+0xNDI0ODM1MjgwLDEyNjUzMjU4NzAsLTEwMzcxOTY4MDQsLTEw
+NzcyMjYyMDAsMTQ4MjEzMzczMCwtMTQzOTU2MDQ0XX0=
 -->
