@@ -89,7 +89,7 @@ With Moore's law, heat and power utilization was also increased significantly. T
 Nokia with Symbian OS was first major commercial success. iPhone was another milestone in  commercial success of Mobile computers with touchscreen and Apps ecosystem. 
 
 ### 5. IoT (Internet of Things) specialized hardware
-With advancement of computing power and ubiquity of Mobiles, next step for advancement in computing hardware is **Internet of Things or IoT**. If you observe closely computing hardware always there for assisting humans to do intelligence work whether its Abacus or Calculators or Computers or Mobile.
+With advancement of computing power and ubiquity of Mobiles, next step for advancement in computing hardware is **Internet of Things or IoT**. If you observe closely computing hardware always there for assisting humans to do intelligence work whether its Abacus or Early Calculators or Computers or Mobile. The only thing that changes over time is their adoptibility by masses. Mobile was 
 
 Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
 
@@ -102,11 +102,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Computer: [https://en.wikipedia.org/wiki/Computer](https://en.wikipedia.org/wiki/Computer)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTQ0MDkzMzgyNCw1MzI5NjUy
-MTIsLTE4MzYxNDU1OTcsLTgwMDkyNjI4NywtMTk0MTk1MTcxMC
-w4NDE5NTMyMTIsMzc1NDgxMjEzLC0xMzA4NzA4NzcyLC01MTcw
-ODQ2OCwxODk5NTAzOTcwLDMyMTcyMjUwNiwtNjkyNTY4NTk2LD
-E1NTk2Njk5NzIsOTEzOTc1OTc3LC0yMzQyMjcwMzQsLTE0MTEw
-MjE0MTQsMTY5MDM5NzQwNywtMTY0MDIwMjYwLDM0MTAzNDIxNi
-wxNTg0ODEyNzE3XX0=
+BnZm1cbiIsImhpc3RvcnkiOls2ODc1MDczOTksNTMyOTY1MjEy
+LC0xODM2MTQ1NTk3LC04MDA5MjYyODcsLTE5NDE5NTE3MTAsOD
+QxOTUzMjEyLDM3NTQ4MTIxMywtMTMwODcwODc3MiwtNTE3MDg0
+NjgsMTg5OTUwMzk3MCwzMjE3MjI1MDYsLTY5MjU2ODU5NiwxNT
+U5NjY5OTcyLDkxMzk3NTk3NywtMjM0MjI3MDM0LC0xNDExMDIx
+NDE0LDE2OTAzOTc0MDcsLTE2NDAyMDI2MCwzNDEwMzQyMTYsMT
+U4NDgxMjcxN119
 -->
