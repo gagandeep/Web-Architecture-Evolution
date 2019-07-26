@@ -79,14 +79,17 @@ These advancements happened in the era of uncertainty and wars. These early comp
 The *Manchester Baby* was the world's first Stored-program computer. It was designed to use *Williams tube* as a digital storage device. Manchester Baby was small and primitive from that era standards also. Design of Machester baby led to the design of more usable computer Manchester Mark 1. Grace Hopper was the first person to develop a compiler for programming language.
 In 1947, Transistor was invented. It took 7-8 years for transistors to start replacing Vacuum Tubes. Compared to vacuum tubes, transistors have many advantages: they are smaller and require less power than vacuum tubes, so give off less heat. This era is called "second generation" of computers.
 The Third Generation of Computers were made possible by Integrated Circuits. The first practical ICs were invented by Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor. This led to an explosion in the usage of Commercial and Personal Computers. 
-The Fourth Generation of Computers were made though Microprocessors that we are using till date. Microprocessors incorporate the functions of a central processing unit on a single Integrated circuit (IC). After the introduction of Microprocessors, they more and more powerful every 2 years. **Moore's law** is the observation that the number of transistors in a dense Integrated circuit, doubles about every two years. Intel led this generation of Computers through its processors along with AMD.
+The Fourth Generation of Computers were made though Microprocessors that we are using till date. Microprocessors incorporate the functions of a central processing unit on a single Integrated circuit (IC). 
+
+After the introduction of Microprocessors, they more and more powerful every 2 years. **Moore's law** is the observation that the number of transistors in a dense Integrated circuit, doubles about every two years. Intel led this generation of Computers through its processors along with AMD.
 
 ### 4. Mobile Computers
 With Moore's law, heat and power utilization was also increased significantly. To make whole computer portable heat and power needs to be minimal since Mobile is what user carry around. ARM architecture was the solution to these problems and ARM holdings has Intellactual Property ownership of ARM architecture. 
+
 Nokia with Symbian OS was first major commercial success. iPhone was another milestone in  commercial success of Mobile computers with touchscreen and Apps ecosystem. 
 
 ### 5. IoT (Internet of Things) specialized hardware
-With Advancement of computing power 
+With advancement of computing power and ubiquity of Mobiles. Next step for 
 
 Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
 
@@ -99,7 +102,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Computer: [https://en.wikipedia.org/wiki/Computer](https://en.wikipedia.org/wiki/Computer)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTQ0NDI0MDQ4NiwtMTgzNjE0
+BnZm1cbiIsImhpc3RvcnkiOlstMjA3MjY5MTI1NywtMTgzNjE0
 NTU5NywtODAwOTI2Mjg3LC0xOTQxOTUxNzEwLDg0MTk1MzIxMi
 wzNzU0ODEyMTMsLTEzMDg3MDg3NzIsLTUxNzA4NDY4LDE4OTk1
 MDM5NzAsMzIxNzIyNTA2LC02OTI1Njg1OTYsMTU1OTY2OTk3Mi
