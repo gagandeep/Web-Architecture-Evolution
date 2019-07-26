@@ -82,7 +82,7 @@ The Third Generation of Computers were made possible by Integrated Circuits. The
 The Fourth Generation of Computers were made though Microprocessors that we are using till date. Microprocessors incorporate the functions of a central processing unit on a single Integrated circuit (IC). After the introduction of Microprocessors, they more and more powerful every 2 years. **Moore's law** is the observation that the number of transistors in a dense Integrated circuit, doubles about every two years. Intel led this generation of Computers through its processors along with AMD.
 
 ### 4. Mobile Computers
-With Moore's law, heat and power utilization was also increased significantly. To make whole computer portable heat and power needs to be minimal since Mobile is what user carry around. ARM architecture was the solution to these problems and ARM holdings has Intellactual Property ownership of ARM architecture. Nokia with Symbian OS was first major success of iPhone was first major commercial success of Mobile computers. 
+With Moore's law, heat and power utilization was also increased significantly. To make whole computer portable heat and power needs to be minimal since Mobile is what user carry around. ARM architecture was the solution to these problems and ARM holdings has Intellactual Property ownership of ARM architecture. Nokia with Symbian OS was first major commercial success. iPhone was another milestone in  commercial success of Mobile computers with touchscreen and full desktop OS. 
 
 ### 5. IoT (Internet of Things) specialized hardware
 
@@ -98,7 +98,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Computer: [https://en.wikipedia.org/wiki/Computer](https://en.wikipedia.org/wiki/Computer)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstOTA4NjM3NDg2LC0xOTQxOTUx
+BnZm1cbiIsImhpc3RvcnkiOlsyMDk4MTg3NzkzLC0xOTQxOTUx
 NzEwLDg0MTk1MzIxMiwzNzU0ODEyMTMsLTEzMDg3MDg3NzIsLT
 UxNzA4NDY4LDE4OTk1MDM5NzAsMzIxNzIyNTA2LC02OTI1Njg1
 OTYsMTU1OTY2OTk3Miw5MTM5NzU5NzcsLTIzNDIyNzAzNCwtMT
