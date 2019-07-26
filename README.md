@@ -15,12 +15,12 @@ This book will be arranged in following Chapters,
 3. Web
 4. PRISM of Evolution
 5. Compute
-6. 
+6. Storage
 7. Database Evolution
 8. Cache Evolution
 9. Message Queue Evolution
 10. 
-11.   
+11. 
 12. 
 13. 
 14. 
@@ -54,8 +54,8 @@ l0dGpFIjp7ImRpc2N1c3Npb25JZCI6IjA1b1d6czlPd1JDWExT
 SmgiLCJzdWIiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiVGhpcyB3aW
 xsIGluY2x1ZGUgd2ViIHNlcnZlciBldm9sdXRpb24gYWxvbmcg
 d2l0aCBIVE1MLCBDU1MgYW5kIEphdmFzY3JpcHQiLCJjcmVhdG
-VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOlstNDgzMDg0
-NzQ2LC0xNTMzNjM3MTMwLDcyODcyNzI3OCwtMTQyNDgzNTI4MC
-wxMjY1MzI1ODcwLC0xMDM3MTk2ODA0LC0xMDc3MjI2MjAwLDE0
-ODIxMzM3MzAsLTE0Mzk1NjA0NF19
+VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOls3NDg4MjU2
+NDcsLTE1MzM2MzcxMzAsNzI4NzI3Mjc4LC0xNDI0ODM1MjgwLD
+EyNjUzMjU4NzAsLTEwMzcxOTY4MDQsLTEwNzcyMjYyMDAsMTQ4
+MjEzMzczMCwtMTQzOTU2MDQ0XX0=
 -->
