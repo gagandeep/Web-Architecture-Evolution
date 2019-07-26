@@ -83,10 +83,10 @@ The Fourth Generation of Computers were made though Microprocessors that we are 
 
 ### 4. Mobile Computers
 With Moore's law, heat and power utilization was also increased significantly. To make whole computer portable heat and power needs to be minimal since Mobile is what user carry around. ARM architecture was the solution to these problems and ARM holdings has Intellactual Property ownership of ARM architecture. 
-Nokia with Symbian OS was first major commercial success. iPhone was another milestone in  commercial success of Mobile computers with touchscreen and Apps eco-system. 
+Nokia with Symbian OS was first major commercial success. iPhone was another milestone in  commercial success of Mobile computers with touchscreen and Apps ecosystem. 
 
 ### 5. IoT (Internet of Things) specialized hardware
-
+With Advancement of computing power 
 
 Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
 
@@ -99,11 +99,11 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - Computer: [https://en.wikipedia.org/wiki/Computer](https://en.wikipedia.org/wiki/Computer)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTgzNjE0NTU5NywtODAwOTI2
-Mjg3LC0xOTQxOTUxNzEwLDg0MTk1MzIxMiwzNzU0ODEyMTMsLT
-EzMDg3MDg3NzIsLTUxNzA4NDY4LDE4OTk1MDM5NzAsMzIxNzIy
-NTA2LC02OTI1Njg1OTYsMTU1OTY2OTk3Miw5MTM5NzU5NzcsLT
-IzNDIyNzAzNCwtMTQxMTAyMTQxNCwxNjkwMzk3NDA3LC0xNjQw
-MjAyNjAsMzQxMDM0MjE2LDE1ODQ4MTI3MTcsMzk5NDk3NjU5LC
-0xOTEwMDc0NzI5XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMTQ0NDI0MDQ4NiwtMTgzNjE0
+NTU5NywtODAwOTI2Mjg3LC0xOTQxOTUxNzEwLDg0MTk1MzIxMi
+wzNzU0ODEyMTMsLTEzMDg3MDg3NzIsLTUxNzA4NDY4LDE4OTk1
+MDM5NzAsMzIxNzIyNTA2LC02OTI1Njg1OTYsMTU1OTY2OTk3Mi
+w5MTM5NzU5NzcsLTIzNDIyNzAzNCwtMTQxMTAyMTQxNCwxNjkw
+Mzk3NDA3LC0xNjQwMjAyNjAsMzQxMDM0MjE2LDE1ODQ4MTI3MT
+csMzk5NDk3NjU5XX0=
 -->
