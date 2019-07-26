@@ -14,24 +14,26 @@ This book will be arranged in following Chapters,
 2. [Protocols](Chapter1.md)
 3. Web
 4. PRISM of Evolution
-5. Database Evolution
-6. Cache Evolution
-7. Message Queue Evolution
-8.  
-9.   
+5. Compute
+6. 
+7. Database Evolution
+8. Cache Evolution
+9. Message Queue Evolution
 10. 
-11. 
+11.   
 12. 
 13. 
-14. Uprising of Docker & Containerization
-15. Kubernetes, Mesos & Docker Swarm
-16. Cloud Computing    
+14. 
+15. 
+16. Uprising of Docker & Containerization
+17. Kubernetes, Mesos & Docker Swarm
+18. Cloud Computing    
        - IAAS
        - PAAS
        - SAAS
-17.  NodeJs & Era of frontend
-18.  The Future
-19.  Web Architecture Catalog
+19.  NodeJs & Era of frontend
+20.  The Future
+21.  Web Architecture Catalog
 
 ## Who is the Author?
 **Gagandeep Singh** is the Author of this unfinished book. He has more than 10 years of experience in the industry. He has done couple of startups of his own and also served as VP of Technology in Education startup. He is doing Architecting of web based systems for past 7 years. He worked in different domains from Publishing, Media, Auto-industry, Health, Education and Advertising.
@@ -52,8 +54,8 @@ l0dGpFIjp7ImRpc2N1c3Npb25JZCI6IjA1b1d6czlPd1JDWExT
 SmgiLCJzdWIiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiVGhpcyB3aW
 xsIGluY2x1ZGUgd2ViIHNlcnZlciBldm9sdXRpb24gYWxvbmcg
 d2l0aCBIVE1MLCBDU1MgYW5kIEphdmFzY3JpcHQiLCJjcmVhdG
-VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOlstMTUzMzYz
-NzEzMCw3Mjg3MjcyNzgsLTE0MjQ4MzUyODAsMTI2NTMyNTg3MC
-wtMTAzNzE5NjgwNCwtMTA3NzIyNjIwMCwxNDgyMTMzNzMwLC0x
-NDM5NTYwNDRdfQ==
+VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOlstNDgzMDg0
+NzQ2LC0xNTMzNjM3MTMwLDcyODcyNzI3OCwtMTQyNDgzNTI4MC
+wxMjY1MzI1ODcwLC0xMDM3MTk2ODA0LC0xMDc3MjI2MjAwLDE0
+ODIxMzM3MzAsLTE0Mzk1NjA0NF19
 -->
