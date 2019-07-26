@@ -14,7 +14,7 @@ This book will be arranged in following Chapters,
 2. [Protocols](Chapter1.md)
 3. Web
 4. PRISM of Evolution
-5. Compute
+5. Computation
 6. Storage
 7. Database Evolution
 8. Cache Evolution
@@ -54,8 +54,14 @@ l0dGpFIjp7ImRpc2N1c3Npb25JZCI6IjA1b1d6czlPd1JDWExT
 SmgiLCJzdWIiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiVGhpcyB3aW
 xsIGluY2x1ZGUgd2ViIHNlcnZlciBldm9sdXRpb24gYWxvbmcg
 d2l0aCBIVE1MLCBDU1MgYW5kIEphdmFzY3JpcHQiLCJjcmVhdG
-VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOlstMTQzMDk4
-MzE4Miw3NDg4MjU2NDcsLTE1MzM2MzcxMzAsNzI4NzI3Mjc4LC
+VkIjoxNTY0MTIxNjEwMzA1fSwiZldQY2dQRFZhbjFWNlNENSI6
+eyJkaXNjdXNzaW9uSWQiOiIwNW9XenM5T3dSQ1hMU0poIiwic3
+ViIjoiZ2g6MTczMTM3IiwidGV4dCI6Ikl0IGFsc28gZ2l2ZSB3
+aG9sZSB3ZWIgZXZvbHV0aW9uIGlkZWEgaW4gZ2lzdCwgYWxsIH
+RoZSBlbGVtZW50cyBvZiByZW1haW5pbmcgY2hhcHRlcnMuIFRo
+YXQgd2lsbCBiZSBleHBsYWluZWQgYnkgUFJJU00uIiwiY3JlYX
+RlZCI6MTU2NDE2NzU2MDcxNX19LCJoaXN0b3J5IjpbLTE2MDM2
+NzU1Nyw3NDg4MjU2NDcsLTE1MzM2MzcxMzAsNzI4NzI3Mjc4LC
 0xNDI0ODM1MjgwLDEyNjUzMjU4NzAsLTEwMzcxOTY4MDQsLTEw
 NzcyMjYyMDAsMTQ4MjEzMzczMCwtMTQzOTU2MDQ0XX0=
 -->
