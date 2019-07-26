@@ -19,28 +19,23 @@ This book will be arranged in following Chapters,
 7. Chapter 7 - Message Queue Evolution
 8. Chapter 8 - 
 9. Chapter -  
-9. Chapter -  
-9. Chapter -  
-9. Chapter -  
-9. Chapter -  
-9. Chapter - Uprising of Docker & Containerization
-   Kubernetes, Mesos & Docker Swarm
-    
-3.  Cloud Computing
-    
-
-1.  IAAS
-    
-2.  PAAS
-    
-3.  SAAS
+10. Chapter -  
+11. Chapter -  
+12. Chapter -  
+13. Chapter -  
+14. Chapter - Uprising of Docker & Containerization
+15. Kubernetes, Mesos & Docker Swarm
+16. Cloud Computing    
+        - IAAS
+        - PAAS
+       - SAAS
     
 
-5.  NodeJs & Era of frontend
+18.  NodeJs & Era of frontend
     
-6.  The Future
+19.  The Future
     
-7.  Web Architecture Catalog
+20.  Web Architecture Catalog
 
 ## Who is the Author?
 **Gagandeep Singh** is the Author of this unfinished book. He has more than 10 years of experience in the industry. He has done couple of startups of his own and also served as VP of Technology in Education startup. He is doing Architecting of web based systems for past 7 years. He worked in different domains from Publishing, Media, Auto-industry, Health, Education and Advertising.
@@ -61,8 +56,8 @@ l0dGpFIjp7ImRpc2N1c3Npb25JZCI6IjA1b1d6czlPd1JDWExT
 SmgiLCJzdWIiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiVGhpcyB3aW
 xsIGluY2x1ZGUgd2ViIHNlcnZlciBldm9sdXRpb24gYWxvbmcg
 d2l0aCBIVE1MLCBDU1MgYW5kIEphdmFzY3JpcHQiLCJjcmVhdG
-VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOlsyMDUwNDQ5
-MTkxLDcyODcyNzI3OCwtMTQyNDgzNTI4MCwxMjY1MzI1ODcwLC
-0xMDM3MTk2ODA0LC0xMDc3MjI2MjAwLDE0ODIxMzM3MzAsLTE0
-Mzk1NjA0NF19
+VkIjoxNTY0MTIxNjEwMzA1fX0sImhpc3RvcnkiOls0MTMyMjA1
+MjMsNzI4NzI3Mjc4LC0xNDI0ODM1MjgwLDEyNjUzMjU4NzAsLT
+EwMzcxOTY4MDQsLTEwNzcyMjYyMDAsMTQ4MjEzMzczMCwtMTQz
+OTU2MDQ0XX0=
 -->
