@@ -31,10 +31,10 @@ This book will be arranged in following Chapters,
        - IAAS
        - PAAS
        - SAAS
-19.  Developer Tools Evolution
+19. Developer Tools Evolution
 20. NodeJs & Era of frontend
-21.  The Future
-22.  Web Architecture Catalog
+21. The Future
+22. Web Architecture Catalog
 
 ## Who is the Author?
 **Gagandeep Singh** is the Author of this unfinished book. He has more than 10 years of experience in the industry. He has done couple of startups of his own and also served as VP of Technology in Education startup. He is doing Architecting of web based systems for past 7 years. He worked in different domains from Publishing, Media, Auto-industry, Health, Education and Advertising.
@@ -61,9 +61,9 @@ ViIjoiZ2g6MTczMTM3IiwidGV4dCI6Ikl0IGFsc28gZ2l2ZSB3
 aG9sZSB3ZWIgZXZvbHV0aW9uIGlkZWEgaW4gZ2lzdCwgYWxsIH
 RoZSBlbGVtZW50cyBvZiByZW1haW5pbmcgY2hhcHRlcnMuIFRo
 YXQgd2lsbCBiZSBleHBsYWluZWQgYnkgUFJJU00uIiwiY3JlYX
-RlZCI6MTU2NDE2NzU2MDcxNX19LCJoaXN0b3J5IjpbLTE4MDk0
-NzY1MDEsLTE2MDM2NzU1Nyw3NDg4MjU2NDcsLTE1MzM2MzcxMz
-AsNzI4NzI3Mjc4LC0xNDI0ODM1MjgwLDEyNjUzMjU4NzAsLTEw
-MzcxOTY4MDQsLTEwNzcyMjYyMDAsMTQ4MjEzMzczMCwtMTQzOT
-U2MDQ0XX0=
+RlZCI6MTU2NDE2NzU2MDcxNX19LCJoaXN0b3J5IjpbLTM2MDM5
+MDcyNywtMTgwOTQ3NjUwMSwtMTYwMzY3NTU3LDc0ODgyNTY0Ny
+wtMTUzMzYzNzEzMCw3Mjg3MjcyNzgsLTE0MjQ4MzUyODAsMTI2
+NTMyNTg3MCwtMTAzNzE5NjgwNCwtMTA3NzIyNjIwMCwxNDgyMT
+MzNzMwLC0xNDM5NTYwNDRdfQ==
 -->
