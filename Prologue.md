@@ -129,10 +129,9 @@ We discussed Hardware Evolution to make thoughts of evolution more relevant to W
 Web Architecture Evolution is small part of software evolution. Software evolution is small part of Harware evolution. Hardware evolution is small part of Human Evolution. Human Evolution is small part of Evolution that Darwin's theory of evolution by natural selection covers. Theory of evolution is small part of our Solar system Evolution.  Solar system Evolution is small part of Galaxy Evolution. Galaxy Evolution is small part of Universe Evolution. Universe Evolution started with Big Bang, which might have its own evolution story.
 
 
-
 ### What this book brings to the table?
 
-As you already see you need to ask *Why of everything* to get to *What of everything*.
+As you already see you need to ask *Why of everything* to get to *What of everything*. We are trying to solve very tiny piece of puzzle that is created by Universe for us.
 
 Why web become so popular in such a short period of time? 
 
@@ -147,9 +146,9 @@ Why web become so popular in such a short period of time?
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlszOTY5MzU1ODEsMTQ5NjczOTA5
-NiwtOTk3NTgxMzAyLC01MDM5OTgyOSw1OTUwNjg4MzYsLTE1Nz
-czMzc2NzYsMjk0NDM3MTM5LC0xNzAxODIyMzA2LC0xMTI2NTQz
-NzMwLDExMzg1MTk3NTMsMTQ2MjcyMzY3MSwtMTMxMTk5MTY4MS
-wtMTU0OTU2ODk2MV19
+BnZm1cbiIsImhpc3RvcnkiOlstMTYzMzU4NDc4MywxNDk2NzM5
+MDk2LC05OTc1ODEzMDIsLTUwMzk5ODI5LDU5NTA2ODgzNiwtMT
+U3NzMzNzY3NiwyOTQ0MzcxMzksLTE3MDE4MjIzMDYsLTExMjY1
+NDM3MzAsMTEzODUxOTc1MywxNDYyNzIzNjcxLC0xMzExOTkxNj
+gxLC0xNTQ5NTY4OTYxXX0=
 -->
