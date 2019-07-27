@@ -126,12 +126,12 @@ This will help to streamline thoughts of evolution going forward in this book. Y
 
 We discussed Hardware Evolution to make thoughts of evolution more relevant to Web Architecture. Hardware and Software are related, Software become more relavant when hardware could do many things and can be controlled. That's why Software become popular as soon as General-purpose computers came. 
 
-Why web become so popular in such a short period of time? 
-
 
 ### What this book brings to the table?
 
 As you already see you need to ask *Why of everything* to get to *What of everything*.
+
+Why web become so popular in such a short period of time? 
 
 
 ## References
@@ -144,9 +144,9 @@ As you already see you need to ask *Why of everything* to get to *What of everyt
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNDk2NzM5MDk2LC05OTc1ODEz
-MDIsLTUwMzk5ODI5LDU5NTA2ODgzNiwtMTU3NzMzNzY3NiwyOT
-Q0MzcxMzksLTE3MDE4MjIzMDYsLTExMjY1NDM3MzAsMTEzODUx
-OTc1MywxNDYyNzIzNjcxLC0xMzExOTkxNjgxLC0xNTQ5NTY4OT
-YxXX0=
+BnZm1cbiIsImhpc3RvcnkiOlszODc3ODk4NDIsMTQ5NjczOTA5
+NiwtOTk3NTgxMzAyLC01MDM5OTgyOSw1OTUwNjg4MzYsLTE1Nz
+czMzc2NzYsMjk0NDM3MTM5LC0xNzAxODIyMzA2LC0xMTI2NTQz
+NzMwLDExMzg1MTk3NTMsMTQ2MjcyMzY3MSwtMTMxMTk5MTY4MS
+wtMTU0OTU2ODk2MV19
 -->
