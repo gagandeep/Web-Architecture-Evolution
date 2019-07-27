@@ -140,6 +140,7 @@ This book will try to cover evolution of individual technologies that are involv
 
 This book will try to cover Web Architecture as well as perspective to how we reached to that Architecture itself. This book will help you to develop your own Web Architectures or components in Web Architectures rather than using pre-defined Web Architectures. This book will also help you to know short-comings of your architectures and where they excel at. 
 
+
 ## Why not this book?
 
 If you like gist of the things but not whole story of why those things then this book is not for you. If you don't ask question about why am I doing this or Why am I suppose to do thing in certain way then this is not the book for you. There might be other authors or bloggers or other content creators that might suits you best. 
@@ -155,7 +156,7 @@ If you like gist of the things but not whole story of why those things then this
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbmF1dGhvcjogR2FnYW5kZWVwIFNpbmdoXG4iLCJoaXN0
-b3J5IjpbLTcwNjA2MTc3NSwtMzMyMjk0NzU4LDc1NTgwNjI1NC
+b3J5IjpbLTQ0NTUwMTY5MywtMzMyMjk0NzU4LDc1NTgwNjI1NC
 wtMTQxMDM4ODE5MCwxNDk2NzM5MDk2LC05OTc1ODEzMDIsLTUw
 Mzk5ODI5LDU5NTA2ODgzNiwtMTU3NzMzNzY3NiwyOTQ0MzcxMz
 ksLTE3MDE4MjIzMDYsLTExMjY1NDM3MzAsMTEzODUxOTc1Mywx
