@@ -118,11 +118,11 @@ Do you wonder, why are we discussing Human Evolution or Hardware Evolution? Sinc
 
 Human Evolution is a well-known thing. And, Darwin's theory of evolution by natural selection is tought at school level by many countries. So, possiblity is you already know the concept of Human Evolution. 
 
-This will help to streamline those thoughts of evolution going forward in this book. You need to understand what value Stones, Fire, Cooking, Clothes, Speech and Intelligence brings to Evolution. And, these all are progressive in nature. You can't have intelligence of masses without Speech and Speech before social stability by Stones, Fire, Cooking and Clothes. 
+This will help to streamline thoughts of evolution going forward in this book. You need to understand what value Stones, Fire, Cooking, Clothes, Speech and Intelligence brings to Evolution. And, these all are progressive in nature. You can't have intelligence of masses without Speech and you con't have Speech without social stability provided by Stones, Fire, Cooking and Clothes. 
 
 ### Why we learned about Hardware Evolution?
 
-We discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
+We discussed Hardware Evolution to make thoughts of evolution more relevant to Web Architecture. 
 
 ### What this book brings to the table?
 
@@ -139,7 +139,7 @@ As you already see you need to ask *Why of everything* to get to *What of everyt
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjEwMTA3MTQxLC05OTc1ODEz
+BnZm1cbiIsImhpc3RvcnkiOlsxMzI1MTg5OTU5LC05OTc1ODEz
 MDIsLTUwMzk5ODI5LDU5NTA2ODgzNiwtMTU3NzMzNzY3NiwyOT
 Q0MzcxMzksLTE3MDE4MjIzMDYsLTExMjY1NDM3MzAsMTEzODUx
 OTc1MywxNDYyNzIzNjcxLC0xMzExOTkxNjgxLC0xNTQ5NTY4OT
