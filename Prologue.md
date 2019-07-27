@@ -124,6 +124,10 @@ This will help to streamline those thoughts of evolution going forward in this b
 
 We discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
 
+### What this book brings to the table?
+
+As you already see you need to ask Why of everything to get to What of everything.
+
 
 ## References
 - History of computing hardware: [https://en.wikipedia.org/wiki/History_of_computing_hardware](https://en.wikipedia.org/wiki/History_of_computing_hardware)
@@ -135,8 +139,8 @@ We discussed Hardware Evolution to make those thoughts more relevant to Web Arch
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjMzOTAxMDU2LC01MDM5OTgy
-OSw1OTUwNjg4MzYsLTE1NzczMzc2NzYsMjk0NDM3MTM5LC0xNz
-AxODIyMzA2LC0xMTI2NTQzNzMwLDExMzg1MTk3NTMsMTQ2Mjcy
-MzY3MSwtMTMxMTk5MTY4MSwtMTU0OTU2ODk2MV19
+BnZm1cbiIsImhpc3RvcnkiOlstMTA5MTgzMDE1MSwtNTAzOTk4
+MjksNTk1MDY4ODM2LC0xNTc3MzM3Njc2LDI5NDQzNzEzOSwtMT
+cwMTgyMjMwNiwtMTEyNjU0MzczMCwxMTM4NTE5NzUzLDE0NjI3
+MjM2NzEsLTEzMTE5OTE2ODEsLTE1NDk1Njg5NjFdfQ==
 -->
