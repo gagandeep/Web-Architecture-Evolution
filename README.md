@@ -11,7 +11,7 @@ In past 7-8 years, Web and its development become more and more complex with dif
 
 This book will be arranged in following Chapters,
 1. [Prologue](Prologue.md)
-2. [Protocols](Protocols.md)
+2. [Internet Protocols](Internet-Protocols.md)
 3. Web
 4. PRISM of Evolution
 5. Computation 
@@ -49,13 +49,13 @@ https://stackedit.io/ for making awesome Markdown Editor and cool Github syncing
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIwNW9XenM5T3dSQ1hMU0poIjp7In
-N0YXJ0Ijo4MjEsImVuZCI6ODI3LCJ0ZXh0IjoiMy4gQ2hhcHRl
+N0YXJ0Ijo4MzksImVuZCI6ODQ1LCJ0ZXh0IjoiMy4gQ2hhcHRl
 ciAzIC0gV2ViIn0sImVkbENJN3JaWlNpSEphM1MiOnsic3Rhcn
-QiOjEyMjYsImVuZCI6MTIzNCwidGV4dCI6IkVwaWxvZ3VlIn0s
-ImR5eDl3MnZ3YkF0djJEaWQiOnsic3RhcnQiOjExOTcsImVuZC
-I6MTIyMSwidGV4dCI6IldlYiBBcmNoaXRlY3R1cmUgQ2F0YWxv
-ZyJ9LCJKWnpoZWtyYktGZlViZWZKIjp7InN0YXJ0IjoxMTY4LC
-JlbmQiOjExOTIsInRleHQiOiJOb2RlSnMgJiBFcmEgb2YgZnJv
+QiOjEyNDQsImVuZCI6MTI1MiwidGV4dCI6IkVwaWxvZ3VlIn0s
+ImR5eDl3MnZ3YkF0djJEaWQiOnsic3RhcnQiOjEyMTUsImVuZC
+I6MTIzOSwidGV4dCI6IldlYiBBcmNoaXRlY3R1cmUgQ2F0YWxv
+ZyJ9LCJKWnpoZWtyYktGZlViZWZKIjp7InN0YXJ0IjoxMTg2LC
+JlbmQiOjEyMTAsInRleHQiOiJOb2RlSnMgJiBFcmEgb2YgZnJv
 bnRlbmQifX0sImNvbW1lbnRzIjp7IndZdFJKY0RTNzExeXR0ak
 UiOnsiZGlzY3Vzc2lvbklkIjoiMDVvV3pzOU93UkNYTFNKaCIs
 InN1YiI6ImdoOjE3MzEzNyIsInRleHQiOiJUaGlzIHdpbGwgaW
@@ -87,10 +87,10 @@ IiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiV2h5IHdlYiBiZWNvbWUg
 c28gcG9wdWxhciBpbiBzdWNoIGEgc2hvcnQgcGVyaW9kIG9mIH
 RpbWU/IFxuQ29tbXVuaWNhdGlvbiBtZWRpdW0gZm9yIEh1bWFu
 IEludGVsbGlnZW5jZSIsImNyZWF0ZWQiOjE1NjQyMzEwOTc2Mj
-J9fSwiaGlzdG9yeSI6Wy0xMTc0MDg2MzM4LC04OTQ0ODEzNTUs
-MTI4NTMyOTY3OCwtMTYyODQwNzg3Myw4OTQwNzM2NTIsLTM2MD
-M5MDcyNywtMTgwOTQ3NjUwMSwtMTYwMzY3NTU3LDc0ODgyNTY0
-NywtMTUzMzYzNzEzMCw3Mjg3MjcyNzgsLTE0MjQ4MzUyODAsMT
-I2NTMyNTg3MCwtMTAzNzE5NjgwNCwtMTA3NzIyNjIwMCwxNDgy
-MTMzNzMwLC0xNDM5NTYwNDRdfQ==
+J9fSwiaGlzdG9yeSI6WzI4NzYzOTg1NywtMTE3NDA4NjMzOCwt
+ODk0NDgxMzU1LDEyODUzMjk2NzgsLTE2Mjg0MDc4NzMsODk0MD
+czNjUyLC0zNjAzOTA3MjcsLTE4MDk0NzY1MDEsLTE2MDM2NzU1
+Nyw3NDg4MjU2NDcsLTE1MzM2MzcxMzAsNzI4NzI3Mjc4LC0xND
+I0ODM1MjgwLDEyNjUzMjU4NzAsLTEwMzcxOTY4MDQsLTEwNzcy
+MjYyMDAsMTQ4MjEzMzczMCwtMTQzOTU2MDQ0XX0=
 -->
