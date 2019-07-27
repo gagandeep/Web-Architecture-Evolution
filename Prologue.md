@@ -1,8 +1,8 @@
-
-
 # Introduction
 
-This book will explore Web Architecture from the ground up to the current level of Streaming Architectures and beyond. It means this book will explore how we reached these architectures from the Analytical Engine. There are different eras where a certain set of technologies, we used in current systems, got a major push. Each era gave us advancement in a certain direction to reach where we are right now. Some advancement becomes obsolete and some become core that we now consider as obvious. It is like Human Evolution stages/eras,
+This book will explore Web Architecture from the ground up to the current level of Streaming Architectures and beyond. It means this book will explore how we reached these architectures from the Analytical Engine. 
+
+There are different eras where a certain set of technologies, we used in current systems, got a major push. Each era gave us advancement in a certain direction to reach where we are right now. Some advancement becomes obsolete and some become core that we now consider as obvious. It is like Human Evolution stages/eras,
 
  1. [Stone Age](https://en.wikipedia.org/wiki/Stone_Age#Beginning_of_the_Stone_Age)
  2. Fire Usage
@@ -11,7 +11,9 @@ This book will explore Web Architecture from the ground up to the current level 
  5. Speech
  6. [Modern humans](https://en.wikipedia.org/wiki/Behavioral_modernity)
 
-We now don't consider Fire, cooking, clothes, speech, etc as a major achievement. Since that become core of humans. Now, we are concentrating more on Intelligence, where computers are part of eco-system. Of course, the Era of Computers or Computing is the only fraction of Modern humans. However, we now have more documentation to look at things closely and then learn fast and then adopt those changes from learning and then documenting those learning and changes along the way. If Modern humans Era is an era of Intelligence building than we are into later stages of that Era and now evolving to create Intelligence in machines. 
+We now don't consider Fire, cooking, clothes, speech, etc as a major achievement. Since that become core of humans. Now, we are concentrating more on Intelligence, where computers are part of eco-system. Of course, the Era of Computers or Computing is the only fraction of Modern humans. 
+
+However, we now have more documentation to look at things closely and then learn fast and then adopt those changes from learning and then documenting those learning and changes along the way. If Modern humans Era is an era of Intelligence building than we are into later stages of that Era and now evolving to create Intelligence in machines. 
 
 The different Eras/Stages of Computing hardware gave us some milestones for the next era. 
 
@@ -22,6 +24,7 @@ The different Eras/Stages of Computing hardware gave us some milestones for the 
  1. IoT (Internet of Things) specialized hardware
 
 Before looking at these in more details. Let's digress slightly to focus on one thing that add more value to the overall book. In this book, we also discuss **value**, either monetary or otherwise, of the solutions. The value of a solution is what derive humans to achieve that success and evolution of humans as a society. 
+
 
 ### 1. Pre-20th Century
 
@@ -37,7 +40,9 @@ Analytical Engine has an Arithmetic logic unit, Control flow with Conditional br
 
 Ada Lovelace was the first person to publish an algorithm intended to be executed by Analytical Engine.
 
+
 ### 2. First General-purpose Computer
+
 In the early 20th Century, Scientists were using different kinds of mechanical devices built for specific tasks. Specific tasks devices keep the hardware at minimal. In the early 20th century, Hardware was Mechanical devices and those were huge. These Mechanical devices or Analog Computers needed high precision and highly skilled workers needed for precision forging. Still, error rates were high and that one of the reasons for increased costs. Maintenance of those mechanical devices was also high. Also, the size of these mechanical devices was enormous.
 
 Starting of 20th Century was also quite unstable, two World Wars happened in that period and because of these scenarios funding to build smaller and efficient devices were enormous. To cater to these needs with funding available, *Electromechanical Analog devices* built-in late 1930s. *Electromechanical Analog devices* were possible by the invention of *Diode* (first Vacuum Tube) in 1904 by John Ambrose Fleming. A vacuum tube consists of two or more Electrode in a vacuum inside an airtight envelope.
@@ -76,9 +81,13 @@ These were the incredible machine of its time. The memory of Z4 was mechanical i
 
 These advancements happened in the era of uncertainty and wars. These early computers either used for encryption/decryption of sensitive information, accurate attacks to moving targets, scientific calculations by scientists for the weapon of mass destruction including Nuclear to defense mechanism, etc. 
 
+
 ### 3. Digital Computers
+
 The *Manchester Baby* was the world's first Stored-program computer. It was designed to use *Williams tube* as a digital storage device. Manchester Baby was small and primitive from that era standards also. Design of Machester baby led to the design of more usable computer Manchester Mark 1. Grace Hopper was the first person to develop a compiler for programming language.
+
 In 1947, Transistor was invented. It took 7-8 years for transistors to start replacing Vacuum Tubes. Compared to vacuum tubes, transistors have many advantages: they are smaller and require less power than vacuum tubes, so give off less heat. This era is called "second generation" of computers.
+
 The Third Generation of Computers were made possible by Integrated Circuits. The first practical ICs were invented by Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor. This led to an explosion in the usage of Commercial and Personal Computers. 
 The Fourth Generation of Computers were made though Microprocessors that we are using till date. Microprocessors incorporate the functions of a central processing unit on a single Integrated circuit (IC). 
 
@@ -112,7 +121,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlszMjY0NTE0OSwtMTcwMTgyMjMw
-NiwtMTEyNjU0MzczMCwxMTM4NTE5NzUzLDE0NjI3MjM2NzEsLT
-EzMTE5OTE2ODEsLTE1NDk1Njg5NjFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsyOTQ0MzcxMzksLTE3MDE4MjIz
+MDYsLTExMjY1NDM3MzAsMTEzODUxOTc1MywxNDYyNzIzNjcxLC
+0xMzExOTkxNjgxLC0xNTQ5NTY4OTYxXX0=
 -->
