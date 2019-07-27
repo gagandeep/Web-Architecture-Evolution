@@ -18,10 +18,10 @@ However, we now have more documentation to look at things closely and then learn
 The different Eras/Stages of Computing hardware gave us some milestones for the next era. 
 
  1. Pre-20th century
- 1. First General-purpose Computer
- 1. Digital Computers
- 1. Mobile Computers
- 1. IoT (Internet of Things) specialized hardware
+ 2. First General-purpose Computer
+ 3. Digital Computers
+ 4. Mobile Computers
+ 5. IoT (Internet of Things) specialized hardware
 
 Before looking at these in more details. Let's digress slightly to focus on one thing that add more value to the overall book. In this book, we also discuss **value**, either monetary or otherwise, of the solutions. The value of a solution is what derive humans to achieve that success and evolution of humans as a society. 
 
@@ -107,9 +107,9 @@ With the advancement of computing power and ubiquity of Mobiles, next step for a
  
 How computing devices/hardware will get increased? The answer is Smart devices or IoT (Internet of Things). Most of these devices don't have full microprocessor as Mobile phones. These devices contain specialized hardware for few things that device suppose to do. This approach brings down cost, complexity, power consumption, and size that is always required for smart devices like smartwatches, smart thermostats, smart lights, smart refrigerators, etc.
 
-This will increase overall computing devices adoption by general public to around 80%. Then what will be the next? For answer to this question read till end of the book. 
+By assumption, This will increase overall computing devices adoption by general public to around 80%. Then what will be the next? For answer to this question read till end of the book. 
 
-##
+###
 Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
 
 ## References
@@ -122,8 +122,8 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjE4ODA2NTQ2LDU5NTA2ODgz
-NiwtMTU3NzMzNzY3NiwyOTQ0MzcxMzksLTE3MDE4MjIzMDYsLT
-ExMjY1NDM3MzAsMTEzODUxOTc1MywxNDYyNzIzNjcxLC0xMzEx
-OTkxNjgxLC0xNTQ5NTY4OTYxXX0=
+BnZm1cbiIsImhpc3RvcnkiOls1NjU1MzgzNTUsNTk1MDY4ODM2
+LC0xNTc3MzM3Njc2LDI5NDQzNzEzOSwtMTcwMTgyMjMwNiwtMT
+EyNjU0MzczMCwxMTM4NTE5NzUzLDE0NjI3MjM2NzEsLTEzMTE5
+OTE2ODEsLTE1NDk1Njg5NjFdfQ==
 -->
