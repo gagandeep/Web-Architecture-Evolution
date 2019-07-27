@@ -126,7 +126,7 @@ This will help to streamline thoughts of evolution going forward in this book. Y
 
 We discussed Hardware Evolution to make thoughts of evolution more relevant to Web Architecture. Hardware and Software are related, Software become more relavant when hardware could do many things and can be controlled. That's why Software become popular as soon as General-purpose computers came. 
 
-Web Architecture Evolution is small part of software evolution. Software evolution is small part of Harware evolution. Hardware evolution is small part of Human Evolution. Human Evolution is small part of Evolution. Evolution  
+Web Architecture Evolution is small part of software evolution. Software evolution is small part of Harware evolution. Hardware evolution is small part of Human Evolution. Human Evolution is small part of Evolution that Darwin's . Evolution  
 
 
 ### What this book brings to the table?
@@ -146,9 +146,9 @@ Why web become so popular in such a short period of time?
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls4Nzg1MjE0MCwxNDk2NzM5MDk2
-LC05OTc1ODEzMDIsLTUwMzk5ODI5LDU5NTA2ODgzNiwtMTU3Nz
-MzNzY3NiwyOTQ0MzcxMzksLTE3MDE4MjIzMDYsLTExMjY1NDM3
-MzAsMTEzODUxOTc1MywxNDYyNzIzNjcxLC0xMzExOTkxNjgxLC
-0xNTQ5NTY4OTYxXX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMTQ4MjA2OTk1MCwxNDk2NzM5
+MDk2LC05OTc1ODEzMDIsLTUwMzk5ODI5LDU5NTA2ODgzNiwtMT
+U3NzMzNzY3NiwyOTQ0MzcxMzksLTE3MDE4MjIzMDYsLTExMjY1
+NDM3MzAsMTEzODUxOTc1MywxNDYyNzIzNjcxLC0xMzExOTkxNj
+gxLC0xNTQ5NTY4OTYxXX0=
 -->
