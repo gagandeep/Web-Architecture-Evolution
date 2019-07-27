@@ -114,15 +114,18 @@ By assumption, This will increase overall computing devices adoption by general 
 
 Do you wonder, why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architecture Evolution not about Human Evolution or Hardware Evolution. If you are not wondering about this then think before reading further.
 
+
 ### Why starting with Human Evolution matter?
 
 Human Evolution is a well-known thing. And, Darwin's theory of evolution by natural selection is tought at school level by many countries. So, possiblity is you already know the concept of Human Evolution. 
 
-This will help to streamline thoughts of evolution going forward in this book. You need to understand what value Stones, Fire, Cooking, Clothes, Speech and Intelligence brings to Evolution. And, these all are progressive in nature. You can't have intelligence of masses without Speech and you con't have Speech without social stability provided by Stones, Fire, Cooking and Clothes. 
+This will help to streamline thoughts of evolution going forward in this book. You need to understand what value Stones, Fire, Cooking, Clothes, Speech and Intelligence brings to Evolution. And, these all are progressive in nature. You can't have intelligence of masses without Speech and you con't have Speech without social stability provided by Stones, Fire, Cooking and Clothes. Everything is connected when you look in the reverse direction.
+
 
 ### Why we learned about Hardware Evolution?
 
 We discussed Hardware Evolution to make thoughts of evolution more relevant to Web Architecture. Hardware and Software are related, Software become more relavant when hardware could do many things and can be controlled. That's why Software become popular as soon as General-purpose computers came. 
+
 
 ### What this book brings to the table?
 
@@ -139,7 +142,7 @@ As you already see you need to ask *Why of everything* to get to *What of everyt
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls4OTg3NDQyNjYsLTk5NzU4MTMw
+BnZm1cbiIsImhpc3RvcnkiOlszMjQyMzE1NTcsLTk5NzU4MTMw
 MiwtNTAzOTk4MjksNTk1MDY4ODM2LC0xNTc3MzM3Njc2LDI5ND
 QzNzEzOSwtMTcwMTgyMjMwNiwtMTEyNjU0MzczMCwxMTM4NTE5
 NzUzLDE0NjI3MjM2NzEsLTEzMTE5OTE2ODEsLTE1NDk1Njg5Nj
