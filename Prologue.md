@@ -109,7 +109,9 @@ How computing devices/hardware will get increased? The answer is Smart devices o
 
 By assumption, This will increase overall computing devices adoption by general public to around 80% in next 3-5 years. Then what will be the next big change? For answer to this question read till end of the book. 
 
-###
+
+## Why this book?
+
 Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
 
 ## References
@@ -122,8 +124,8 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTIzOTczNDEwOCw1OTUwNjg4
-MzYsLTE1NzczMzc2NzYsMjk0NDM3MTM5LC0xNzAxODIyMzA2LC
-0xMTI2NTQzNzMwLDExMzg1MTk3NTMsMTQ2MjcyMzY3MSwtMTMx
-MTk5MTY4MSwtMTU0OTU2ODk2MV19
+BnZm1cbiIsImhpc3RvcnkiOlstODE0MzczNjgzLDU5NTA2ODgz
+NiwtMTU3NzMzNzY3NiwyOTQ0MzcxMzksLTE3MDE4MjIzMDYsLT
+ExMjY1NDM3MzAsMTEzODUxOTc1MywxNDYyNzIzNjcxLC0xMzEx
+OTkxNjgxLC0xNTQ5NTY4OTYxXX0=
 -->
