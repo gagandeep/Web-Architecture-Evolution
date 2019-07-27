@@ -143,7 +143,7 @@ This book will try to cover Web Architecture as well as perspective to how we re
 
 ## Why not this book?
 
-If you like gist of the things but not whole story of why those things then this book is not for you. If you don't ask question about why am I doing this or Why am I suppose to do thing in certain way then this is not the book for you. There might be other authors or bloggers or other content creators that might suits you best. 
+If you like gist of the things but not whole story of why those things then this book is not for you. If you don't ask question about why am I doing this or Why am I suppose to do thing in certain way then this is not the book for you.
 
 
 ## References
@@ -156,9 +156,9 @@ If you like gist of the things but not whole story of why those things then this
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbmF1dGhvcjogR2FnYW5kZWVwIFNpbmdoXG4iLCJoaXN0
-b3J5IjpbLTQ0NTUwMTY5MywtMzMyMjk0NzU4LDc1NTgwNjI1NC
-wtMTQxMDM4ODE5MCwxNDk2NzM5MDk2LC05OTc1ODEzMDIsLTUw
-Mzk5ODI5LDU5NTA2ODgzNiwtMTU3NzMzNzY3NiwyOTQ0MzcxMz
-ksLTE3MDE4MjIzMDYsLTExMjY1NDM3MzAsMTEzODUxOTc1Mywx
-NDYyNzIzNjcxLC0xMzExOTkxNjgxLC0xNTQ5NTY4OTYxXX0=
+b3J5IjpbLTgyNzA4NTA5LC0zMzIyOTQ3NTgsNzU1ODA2MjU0LC
+0xNDEwMzg4MTkwLDE0OTY3MzkwOTYsLTk5NzU4MTMwMiwtNTAz
+OTk4MjksNTk1MDY4ODM2LC0xNTc3MzM3Njc2LDI5NDQzNzEzOS
+wtMTcwMTgyMjMwNiwtMTEyNjU0MzczMCwxMTM4NTE5NzUzLDE0
+NjI3MjM2NzEsLTEzMTE5OTE2ODEsLTE1NDk1Njg5NjFdfQ==
 -->
