@@ -2,7 +2,7 @@
 Web Architecture Evolution is `in-progress` book to learn Architectures from 0 to Current level of Web architetures be it Lambda Architecture, Kappa Architecture, Event driven Architecture, etc.
 
 ## Why this book?
-In past 7-8 years, Web and its development become more and more complex with different new technologies and cloud providers got into the eco-system. This complexity needs to be documented for new generation to keep it up with the pace of industry. By this book, you will know 
+In past 7-8 years, Web and its development become more and more complex with different new technologies and cloud providers got into the eco-system. This complexity needs to be documented for new and current generation to keep it up with the pace of the industry. By this book, you will know 
 
  - Why different kind of systems/Architectures are present in the market
  - What problems they solve
@@ -49,21 +49,27 @@ https://stackedit.io/ for making awesome Markdown Editor and cool syncing featur
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIwNW9XenM5T3dSQ1hMU0poIjp7In
-N0YXJ0Ijo4MDQsImVuZCI6ODEwLCJ0ZXh0IjoiMy4gQ2hhcHRl
-ciAzIC0gV2ViIn19LCJjb21tZW50cyI6eyJ3WXRSSmNEUzcxMX
-l0dGpFIjp7ImRpc2N1c3Npb25JZCI6IjA1b1d6czlPd1JDWExT
-SmgiLCJzdWIiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiVGhpcyB3aW
-xsIGluY2x1ZGUgd2ViIHNlcnZlciBldm9sdXRpb24gYWxvbmcg
-d2l0aCBIVE1MLCBDU1MgYW5kIEphdmFzY3JpcHQiLCJjcmVhdG
-VkIjoxNTY0MTIxNjEwMzA1fSwiZldQY2dQRFZhbjFWNlNENSI6
-eyJkaXNjdXNzaW9uSWQiOiIwNW9XenM5T3dSQ1hMU0poIiwic3
-ViIjoiZ2g6MTczMTM3IiwidGV4dCI6Ikl0IGFsc28gZ2l2ZSB3
-aG9sZSB3ZWIgZXZvbHV0aW9uIGlkZWEgaW4gZ2lzdCwgYWxsIH
-RoZSBlbGVtZW50cyBvZiByZW1haW5pbmcgY2hhcHRlcnMuIFRo
-YXQgd2lsbCBiZSBleHBsYWluZWQgYnkgUFJJU00uIiwiY3JlYX
-RlZCI6MTU2NDE2NzU2MDcxNX19LCJoaXN0b3J5IjpbODk0MDcz
-NjUyLC0zNjAzOTA3MjcsLTE4MDk0NzY1MDEsLTE2MDM2NzU1Ny
-w3NDg4MjU2NDcsLTE1MzM2MzcxMzAsNzI4NzI3Mjc4LC0xNDI0
-ODM1MjgwLDEyNjUzMjU4NzAsLTEwMzcxOTY4MDQsLTEwNzcyMj
-YyMDAsMTQ4MjEzMzczMCwtMTQzOTU2MDQ0XX0=
+N0YXJ0Ijo4MjAsImVuZCI6ODI2LCJ0ZXh0IjoiMy4gQ2hhcHRl
+ciAzIC0gV2ViIn0sImVkbENJN3JaWlNpSEphM1MiOnsic3Rhcn
+QiOjEyNTAsImVuZCI6MTI1OCwidGV4dCI6IkVwaWxvZ3VlIn19
+LCJjb21tZW50cyI6eyJ3WXRSSmNEUzcxMXl0dGpFIjp7ImRpc2
+N1c3Npb25JZCI6IjA1b1d6czlPd1JDWExTSmgiLCJzdWIiOiJn
+aDoxNzMxMzciLCJ0ZXh0IjoiVGhpcyB3aWxsIGluY2x1ZGUgd2
+ViIHNlcnZlciBldm9sdXRpb24gYWxvbmcgd2l0aCBIVE1MLCBD
+U1MgYW5kIEphdmFzY3JpcHQiLCJjcmVhdGVkIjoxNTY0MTIxNj
+EwMzA1fSwiZldQY2dQRFZhbjFWNlNENSI6eyJkaXNjdXNzaW9u
+SWQiOiIwNW9XenM5T3dSQ1hMU0poIiwic3ViIjoiZ2g6MTczMT
+M3IiwidGV4dCI6Ikl0IGFsc28gZ2l2ZSB3aG9sZSB3ZWIgZXZv
+bHV0aW9uIGlkZWEgaW4gZ2lzdCwgYWxsIHRoZSBlbGVtZW50cy
+BvZiByZW1haW5pbmcgY2hhcHRlcnMuIFRoYXQgd2lsbCBiZSBl
+eHBsYWluZWQgYnkgUFJJU00uIiwiY3JlYXRlZCI6MTU2NDE2Nz
+U2MDcxNX0sImljRENOeTBnenNTdHJSYjgiOnsiZGlzY3Vzc2lv
+bklkIjoiZWRsQ0k3clpaU2lISmEzUyIsInN1YiI6ImdoOjE3Mz
+EzNyIsInRleHQiOiJGdXR1cmUgb2YgSW5kdXN0cnkgYW5kIHRo
+aXMgYm9vayIsImNyZWF0ZWQiOjE1NjQyMTEwOTU2MDV9fSwiaG
+lzdG9yeSI6Wy0xNjI4NDA3ODczLDg5NDA3MzY1MiwtMzYwMzkw
+NzI3LC0xODA5NDc2NTAxLC0xNjAzNjc1NTcsNzQ4ODI1NjQ3LC
+0xNTMzNjM3MTMwLDcyODcyNzI3OCwtMTQyNDgzNTI4MCwxMjY1
+MzI1ODcwLC0xMDM3MTk2ODA0LC0xMDc3MjI2MjAwLDE0ODIxMz
+M3MzAsLTE0Mzk1NjA0NF19
 -->
