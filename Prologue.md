@@ -154,9 +154,10 @@ If you like gist of the things but not whole story of why those things then this
 - Computer: [https://en.wikipedia.org/wiki/Computer](https://en.wikipedia.org/wiki/Computer)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls3NTU4MDYyNTQsLTE0MTAzODgx
-OTAsMTQ5NjczOTA5NiwtOTk3NTgxMzAyLC01MDM5OTgyOSw1OT
-UwNjg4MzYsLTE1NzczMzc2NzYsMjk0NDM3MTM5LC0xNzAxODIy
-MzA2LC0xMTI2NTQzNzMwLDExMzg1MTk3NTMsMTQ2MjcyMzY3MS
-wtMTMxMTk5MTY4MSwtMTU0OTU2ODk2MV19
+BnZm1cbmF1dGhvcjogR2FnYW5kZWVwIFNpbmdoXG4iLCJoaXN0
+b3J5IjpbLTMzMjI5NDc1OCw3NTU4MDYyNTQsLTE0MTAzODgxOT
+AsMTQ5NjczOTA5NiwtOTk3NTgxMzAyLC01MDM5OTgyOSw1OTUw
+Njg4MzYsLTE1NzczMzc2NzYsMjk0NDM3MTM5LC0xNzAxODIyMz
+A2LC0xMTI2NTQzNzMwLDExMzg1MTk3NTMsMTQ2MjcyMzY3MSwt
+MTMxMTk5MTY4MSwtMTU0OTU2ODk2MV19
 -->
