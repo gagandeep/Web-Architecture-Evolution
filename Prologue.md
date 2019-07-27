@@ -1,4 +1,5 @@
 
+
 # Introduction
 
 This book will explore Web Architecture from the ground up to the current level of Streaming Architectures and beyond. It means this book will explore how we reached these architectures from the Analytical Engine. There are different eras where a certain set of technologies, we used in current systems, got a major push. Each era gave us advancement in a certain direction to reach where we are right now. Some advancement becomes obsolete and some become core that we now consider as obvious. It is like Human Evolution stages/eras,
@@ -84,13 +85,14 @@ The Fourth Generation of Computers were made though Microprocessors that we are 
 After the introduction of Microprocessors, they more and more powerful every 2 years. **Moore's law** is the observation that the number of transistors in a dense Integrated circuit, doubles about every two years. Intel led this generation of Computers through its processors along with AMD.
 
 ### 4. Mobile Computers
-With Moore's law, heat and power utilization was also increased significantly. To make whole computer portable heat and power needs to be minimal since Mobile is what user carry around. ARM architecture was the solution to these problems and ARM holdings has Intellactual Property ownership of ARM architecture. 
+With Moore's law, heat and power utilization were also increased significantly. To make whole computer portable heat and power need to be minimal since Mobile is what user carry around. ARM architecture was the solution to these problems and ARM holdings have Intellectual Property ownership of ARM architecture. 
 
-Nokia with Symbian OS was first major commercial success. iPhone was another milestone in  commercial success of Mobile computers with touchscreen and Apps ecosystem. 
+Nokia with Symbian OS was the first major commercial success. iPhone was another milestone in the commercial success of Mobile computers with touchscreen and Apps ecosystem. 
 
 ### 5. IoT (Internet of Things) specialized hardware
-With advancement of computing power and ubiquity of Mobiles, next step for advancement in computing hardware is **Internet of Things or IoT**. If you observe closely computing hardware always there for assisting humans to do intelligence work whether its Abacus or Early Calculators or Computers or Mobile. The only thing that changes over time is their adoptibility by masses. From few abacus users to few million analog devices users to billions of Mobile users. According to a survey in starting of 2019, peneteration of Mobiles was 67% of the overall population of the world. 
-How computing devices/hardware getting increased? Answer is Smart devices or IoT (Internet of Things). Most of these devices don't have full microprocessor as Mobile phones. These devices contains specialized hardware for few things that device suppose to do. This approach bring down cost, complexity, power consumption, and size that is always required for smart devices like smart watches, smart thermostat, smart lights, smart referigrator, etc.
+With the advancement of computing power and ubiquity of Mobiles, next step for advancement in computing hardware is **Internet of Things or IoT**. If you observe closely computing hardware always there for assisting humans to do intelligence work whether its Abacus or Early Calculators or Computers or Mobile. The only thing that changes over time is their adaptability by masses. From a few abacus users to a few million analog devices users to billions of Mobile users. According to a survey in the starting of 2019, penetration of Mobiles was 67% of the overall population of the world. 
+How computing devices/hardware will get increased? The answer is Smart devices or IoT (Internet of Things). Most of these devices don't have full microprocessor as Mobile phones. These devices contain specialized hardware for few things that device suppose to do. This approach brings down cost, complexity, power consumption, and size that is always required for smart devices like smartwatches, smart thermostats, smart lights, smart refrigerators, etc.
+
 
 Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
 
@@ -104,7 +106,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTcwMTgyMjMwNiwtMTEyNjU0
-MzczMCwxMTM4NTE5NzUzLDE0NjI3MjM2NzEsLTEzMTE5OTE2OD
-EsLTE1NDk1Njg5NjFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTAwNzkzODAyNywtMTcwMTgy
+MjMwNiwtMTEyNjU0MzczMCwxMTM4NTE5NzUzLDE0NjI3MjM2Nz
+EsLTEzMTE5OTE2ODEsLTE1NDk1Njg5NjFdfQ==
 -->
