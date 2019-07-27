@@ -138,9 +138,8 @@ This book will try to cover evolution of individual technologies that are involv
 
 ## Why not this book?
 
-If you like gist of the things but not whole story of why those things then this book is not for you. If you don't ask why am I doing this or s
+If you like gist of the things but not whole story of why those things then this book is not for you. If you don't ask question about why am I doing this or Why am I suppose to do thing in certain way then this is not the book for you.
 
-Why web become so popular in such a short period of time? 
 
 
 ## References
@@ -153,7 +152,7 @@ Why web become so popular in such a short period of time?
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMDIzMDYwNjg1LDE0OTY3Mzkw
+BnZm1cbiIsImhpc3RvcnkiOlsxNzg3ODExMDEwLDE0OTY3Mzkw
 OTYsLTk5NzU4MTMwMiwtNTAzOTk4MjksNTk1MDY4ODM2LC0xNT
 c3MzM3Njc2LDI5NDQzNzEzOSwtMTcwMTgyMjMwNiwtMTEyNjU0
 MzczMCwxMTM4NTE5NzUzLDE0NjI3MjM2NzEsLTEzMTE5OTE2OD
