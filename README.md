@@ -11,14 +11,14 @@ In past 7-8 years, Web and its development become more and more complex with dif
 
 This book will be arranged in following Chapters,
 1. [Prologue](Prologue.md)
-2. [Protocols Evolution](Protocols.md)
+2. [Protocols](Protocols.md)
 3. Web
 4. PRISM of Evolution
-5. Computation
-6. Storage
-7. Database Evolution
-8. Cache Evolution
-9. Message Queue Evolution
+5. Computation 
+6. Storages
+7. Databases
+8. Cache 
+9. Message Queue 
 10. Aggregation/ETL
 11. Analytics
 12. Machine Learning
@@ -49,13 +49,13 @@ https://stackedit.io/ for making awesome Markdown Editor and cool syncing featur
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIwNW9XenM5T3dSQ1hMU0poIjp7In
-N0YXJ0Ijo4MzEsImVuZCI6ODM3LCJ0ZXh0IjoiMy4gQ2hhcHRl
+N0YXJ0Ijo4MjEsImVuZCI6ODI3LCJ0ZXh0IjoiMy4gQ2hhcHRl
 ciAzIC0gV2ViIn0sImVkbENJN3JaWlNpSEphM1MiOnsic3Rhcn
-QiOjEyNjEsImVuZCI6MTI2OSwidGV4dCI6IkVwaWxvZ3VlIn0s
-ImR5eDl3MnZ3YkF0djJEaWQiOnsic3RhcnQiOjEyMzIsImVuZC
-I6MTI1NiwidGV4dCI6IldlYiBBcmNoaXRlY3R1cmUgQ2F0YWxv
-ZyJ9LCJKWnpoZWtyYktGZlViZWZKIjp7InN0YXJ0IjoxMjAzLC
-JlbmQiOjEyMjcsInRleHQiOiJOb2RlSnMgJiBFcmEgb2YgZnJv
+QiOjEyMjYsImVuZCI6MTIzNCwidGV4dCI6IkVwaWxvZ3VlIn0s
+ImR5eDl3MnZ3YkF0djJEaWQiOnsic3RhcnQiOjExOTcsImVuZC
+I6MTIyMSwidGV4dCI6IldlYiBBcmNoaXRlY3R1cmUgQ2F0YWxv
+ZyJ9LCJKWnpoZWtyYktGZlViZWZKIjp7InN0YXJ0IjoxMTY4LC
+JlbmQiOjExOTIsInRleHQiOiJOb2RlSnMgJiBFcmEgb2YgZnJv
 bnRlbmQifX0sImNvbW1lbnRzIjp7IndZdFJKY0RTNzExeXR0ak
 UiOnsiZGlzY3Vzc2lvbklkIjoiMDVvV3pzOU93UkNYTFNKaCIs
 InN1YiI6ImdoOjE3MzEzNyIsInRleHQiOiJUaGlzIHdpbGwgaW
@@ -81,8 +81,8 @@ NTcwMjM0fSwieVFYd3pTRzA5WkVuNmp4UyI6eyJkaXNjdXNzaW
 MTM3IiwidGV4dCI6IlRoaXMgY2hhcHRlciBjb3VsZCBiZSBza2
 lwcGVkLlxuQXJjaGl0ZWN0dXJhbCBjaGFuZ2VzIGJyb3VnaCBi
 ZSBOb2RlSnMsIFJlYWN0IGFuZCBBbmd1bGFyLiIsImNyZWF0ZW
-QiOjE1NjQyMTE2NTgwMzV9fSwiaGlzdG9yeSI6Wy01MTQwMjE0
-NDYsLTE2Mjg0MDc4NzMsODk0MDczNjUyLC0zNjAzOTA3MjcsLT
+QiOjE1NjQyMTE2NTgwMzV9fSwiaGlzdG9yeSI6WzEyODUzMjk2
+NzgsLTE2Mjg0MDc4NzMsODk0MDczNjUyLC0zNjAzOTA3MjcsLT
 E4MDk0NzY1MDEsLTE2MDM2NzU1Nyw3NDg4MjU2NDcsLTE1MzM2
 MzcxMzAsNzI4NzI3Mjc4LC0xNDI0ODM1MjgwLDEyNjUzMjU4Nz
 AsLTEwMzcxOTY4MDQsLTEwNzcyMjYyMDAsMTQ4MjEzMzczMCwt
