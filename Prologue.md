@@ -1,4 +1,7 @@
-# Introduction
+# Prologue
+
+
+## Introduction
 
 This book will explore Web Architecture from the ground up to the current level of Streaming Architectures and beyond. It means this book will explore how we reached these architectures from the Analytical Engine. 
 
@@ -152,9 +155,9 @@ If you like gist of the things but not whole story of why those things then this
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMTQ2NzkyODQsLTE0MTAzODgx
-OTAsMTQ5NjczOTA5NiwtOTk3NTgxMzAyLC01MDM5OTgyOSw1OT
-UwNjg4MzYsLTE1NzczMzc2NzYsMjk0NDM3MTM5LC0xNzAxODIy
-MzA2LC0xMTI2NTQzNzMwLDExMzg1MTk3NTMsMTQ2MjcyMzY3MS
-wtMTMxMTk5MTY4MSwtMTU0OTU2ODk2MV19
+BnZm1cbiIsImhpc3RvcnkiOlsxNTI3MDAxNzY5LC0xNDEwMzg4
+MTkwLDE0OTY3MzkwOTYsLTk5NzU4MTMwMiwtNTAzOTk4MjksNT
+k1MDY4ODM2LC0xNTc3MzM3Njc2LDI5NDQzNzEzOSwtMTcwMTgy
+MjMwNiwtMTEyNjU0MzczMCwxMTM4NTE5NzUzLDE0NjI3MjM2Nz
+EsLTEzMTE5OTE2ODEsLTE1NDk1Njg5NjFdfQ==
 -->
