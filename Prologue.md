@@ -131,7 +131,7 @@ Web Architecture Evolution is small part of software evolution. Software evoluti
 
 ### What this book brings to the table?
 
-As you already see you need to ask *Why of everything* to get to *What of everything*. We are trying to solve very tiny piece of puzzle that is created by Universe for us.
+As you already see you need to ask *Why of everything* to get to *What of everything*. We are trying to solve very tiny piece of puzzle that is created by Universe for us. Author of this Book is no way Authority not knowlegable about everything.
 
 Why web become so popular in such a short period of time? 
 
@@ -146,7 +146,7 @@ Why web become so popular in such a short period of time?
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTYzMzU4NDc4MywxNDk2NzM5
+BnZm1cbiIsImhpc3RvcnkiOlstMjEyMDQ3OTk3NSwxNDk2NzM5
 MDk2LC05OTc1ODEzMDIsLTUwMzk5ODI5LDU5NTA2ODgzNiwtMT
 U3NzMzNzY3NiwyOTQ0MzcxMzksLTE3MDE4MjIzMDYsLTExMjY1
 NDM3MzAsMTEzODUxOTc1MywxNDYyNzIzNjcxLC0xMzExOTkxNj
