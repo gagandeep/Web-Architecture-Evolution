@@ -107,7 +107,7 @@ With the advancement of computing power and ubiquity of Mobiles, next step for a
  
 How computing devices/hardware will get increased? The answer is Smart devices or IoT (Internet of Things). Most of these devices don't have full microprocessor as Mobile phones. These devices contain specialized hardware for few things that device suppose to do. This approach brings down cost, complexity, power consumption, and size that is always required for smart devices like smartwatches, smart thermostats, smart lights, smart refrigerators, etc.
 
-By assumption, This will increase overall computing devices adoption by general public to around 80%. Then what will be the next? For answer to this question read till end of the book. 
+By assumption, This will increase overall computing devices adoption by general public to around 80% in next 3-5 years. Then what will be the next big change? For answer to this question read till end of the book. 
 
 ###
 Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
@@ -122,8 +122,8 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls1NjU1MzgzNTUsNTk1MDY4ODM2
-LC0xNTc3MzM3Njc2LDI5NDQzNzEzOSwtMTcwMTgyMjMwNiwtMT
-EyNjU0MzczMCwxMTM4NTE5NzUzLDE0NjI3MjM2NzEsLTEzMTE5
-OTE2ODEsLTE1NDk1Njg5NjFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTIzOTczNDEwOCw1OTUwNjg4
+MzYsLTE1NzczMzc2NzYsMjk0NDM3MTM5LC0xNzAxODIyMzA2LC
+0xMTI2NTQzNzMwLDExMzg1MTk3NTMsMTQ2MjcyMzY3MSwtMTMx
+MTk5MTY4MSwtMTU0OTU2ODk2MV19
 -->
