@@ -138,8 +138,7 @@ This book will try to cover evolution of individual technologies that are involv
 
 ## Why not this book?
 
-If you like gist of the things but not whole story of why those things then this book is not for you. If you don't ask question about why am I doing this or Why am I suppose to do thing in certain way then this is not the book for you. 
-
+If you like gist of the things but not whole story of why those things then this book is not for you. If you don't ask question about why am I doing this or Why am I suppose to do thing in certain way then this is not the book for you. There might be other authors or bloggers or other content creators that might suits you best.
 
 
 ## References
@@ -152,9 +151,9 @@ If you like gist of the things but not whole story of why those things then this
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTQxMDM4ODE5MCwxNDk2NzM5
-MDk2LC05OTc1ODEzMDIsLTUwMzk5ODI5LDU5NTA2ODgzNiwtMT
-U3NzMzNzY3NiwyOTQ0MzcxMzksLTE3MDE4MjIzMDYsLTExMjY1
-NDM3MzAsMTEzODUxOTc1MywxNDYyNzIzNjcxLC0xMzExOTkxNj
-gxLC0xNTQ5NTY4OTYxXX0=
+BnZm1cbiIsImhpc3RvcnkiOlszMjM1NDc2NDgsLTE0MTAzODgx
+OTAsMTQ5NjczOTA5NiwtOTk3NTgxMzAyLC01MDM5OTgyOSw1OT
+UwNjg4MzYsLTE1NzczMzc2NzYsMjk0NDM3MTM5LC0xNzAxODIy
+MzA2LC0xMTI2NTQzNzMwLDExMzg1MTk3NTMsMTQ2MjcyMzY3MS
+wtMTMxMTk5MTY4MSwtMTU0OTU2ODk2MV19
 -->
