@@ -112,7 +112,7 @@ By assumption, This will increase overall computing devices adoption by general 
 
 ## Why this book?
 
-Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architecture Evolution not about Human Evolution or Hardware Evolution. If you are not wondering about this then think before reading further.
+Do you wonder, why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architecture Evolution not about Human Evolution or Hardware Evolution. If you are not wondering about this then think before reading further.
 
 ### Why we learned about Human Evolution?
 
@@ -133,7 +133,7 @@ We discussed Hardware Evolution to make those thoughts more relevant to Web Arch
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxODk0OTU2MjI4LDU5NTA2ODgz
+BnZm1cbiIsImhpc3RvcnkiOlsyMTAwNzY4ODU2LDU5NTA2ODgz
 NiwtMTU3NzMzNzY3NiwyOTQ0MzcxMzksLTE3MDE4MjIzMDYsLT
 ExMjY1NDM3MzAsMTEzODUxOTc1MywxNDYyNzIzNjcxLC0xMzEx
 OTkxNjgxLC0xNTQ5NTY4OTYxXX0=
