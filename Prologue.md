@@ -138,7 +138,7 @@ As you already see you need to ask *Why of everything* to get to *What of everyt
 
 This book will try to cover evolution of individual technologies that are involved in current Web Architectures. Book will also cover combination of those technologies and what evolution they bring to the Web Architecture Domain. 
 
-This book will try to cover Architecture as well as perspective to how we reached to that Architecture itself. If you want to 
+This book will try to cover Web Architecture as well as perspective to how we reached to that Architecture itself. This book will help you to develop your own Web Architectures or components in Web Architectures rather than using 
 
 ## Why not this book?
 
@@ -155,9 +155,9 @@ If you like gist of the things but not whole story of why those things then this
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbmF1dGhvcjogR2FnYW5kZWVwIFNpbmdoXG4iLCJoaXN0
-b3J5IjpbOTU1NTI0MzA3LC0zMzIyOTQ3NTgsNzU1ODA2MjU0LC
-0xNDEwMzg4MTkwLDE0OTY3MzkwOTYsLTk5NzU4MTMwMiwtNTAz
-OTk4MjksNTk1MDY4ODM2LC0xNTc3MzM3Njc2LDI5NDQzNzEzOS
-wtMTcwMTgyMjMwNiwtMTEyNjU0MzczMCwxMTM4NTE5NzUzLDE0
-NjI3MjM2NzEsLTEzMTE5OTE2ODEsLTE1NDk1Njg5NjFdfQ==
+b3J5IjpbLTE5Mjg2MDc2ODcsLTMzMjI5NDc1OCw3NTU4MDYyNT
+QsLTE0MTAzODgxOTAsMTQ5NjczOTA5NiwtOTk3NTgxMzAyLC01
+MDM5OTgyOSw1OTUwNjg4MzYsLTE1NzczMzc2NzYsMjk0NDM3MT
+M5LC0xNzAxODIyMzA2LC0xMTI2NTQzNzMwLDExMzg1MTk3NTMs
+MTQ2MjcyMzY3MSwtMTMxMTk5MTY4MSwtMTU0OTU2ODk2MV19
 -->
