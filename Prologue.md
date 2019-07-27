@@ -90,7 +90,7 @@ Nokia with Symbian OS was first major commercial success. iPhone was another mil
 
 ### 5. IoT (Internet of Things) specialized hardware
 With advancement of computing power and ubiquity of Mobiles, next step for advancement in computing hardware is **Internet of Things or IoT**. If you observe closely computing hardware always there for assisting humans to do intelligence work whether its Abacus or Early Calculators or Computers or Mobile. The only thing that changes over time is their adoptibility by masses. From few abacus users to few million analog devices users to billions of Mobile users. According to a survey in starting of 2019, peneteration of Mobiles was 67% of the overall population of the world. 
-
+How computing devices getting increased 
 
 Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
 
@@ -104,6 +104,7 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMTM4NTE5NzUzLDE0NjI3MjM2
-NzEsLTEzMTE5OTE2ODEsLTE1NDk1Njg5NjFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxNTAzNDQ2OTQ2LDExMzg1MTk3
+NTMsMTQ2MjcyMzY3MSwtMTMxMTk5MTY4MSwtMTU0OTU2ODk2MV
+19
 -->
