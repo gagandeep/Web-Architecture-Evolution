@@ -116,7 +116,7 @@ Do you wonder, why are we discussing Human Evolution or Hardware Evolution? Sinc
 
 ### Why we learned about Human Evolution?
 
-Human Evolution is a well-known thing. And, Darwin theory of Evolution is tought at school level  so you could streamline those thoughts of evolution going forward.
+Human Evolution is a well-known thing. And, Darwin's theory of evolution by natural selection is tought at school level by many countries. So, possiblity is you know the concept of Human Evolution. so you could streamline those thoughts of evolution going forward.
 
 ### Why we learned about Hardware Evolution?
 
@@ -133,8 +133,8 @@ We discussed Hardware Evolution to make those thoughts more relevant to Web Arch
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTM2ODA0OTU3Nyw1OTUwNjg4
-MzYsLTE1NzczMzc2NzYsMjk0NDM3MTM5LC0xNzAxODIyMzA2LC
-0xMTI2NTQzNzMwLDExMzg1MTk3NTMsMTQ2MjcyMzY3MSwtMTMx
-MTk5MTY4MSwtMTU0OTU2ODk2MV19
+BnZm1cbiIsImhpc3RvcnkiOlsxNjg3NTA4Mzg1LDU5NTA2ODgz
+NiwtMTU3NzMzNzY3NiwyOTQ0MzcxMzksLTE3MDE4MjIzMDYsLT
+ExMjY1NDM3MzAsMTEzODUxOTc1MywxNDYyNzIzNjcxLC0xMzEx
+OTkxNjgxLC0xNTQ5NTY4OTYxXX0=
 -->
