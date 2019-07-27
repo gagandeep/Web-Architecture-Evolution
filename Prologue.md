@@ -114,9 +114,11 @@ By assumption, This will increase overall computing devices adoption by general 
 
 Do you wonder, why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architecture Evolution not about Human Evolution or Hardware Evolution. If you are not wondering about this then think before reading further.
 
-### Why we learned about Human Evolution?
+### Why starting with Human Evolution matter?
 
-Human Evolution is a well-known thing. And, Darwin's theory of evolution by natural selection is tought at school level by many countries. So, possiblity is you know the concept of Human Evolution. so you could streamline those thoughts of evolution going forward.
+Human Evolution is a well-known thing. And, Darwin's theory of evolution by natural selection is tought at school level by many countries. So, possiblity is you already know the concept of Human Evolution. 
+
+This will help to streamline those thoughts of evolution going forward.
 
 ### Why we learned about Hardware Evolution?
 
@@ -133,8 +135,8 @@ We discussed Hardware Evolution to make those thoughts more relevant to Web Arch
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNjg3NTA4Mzg1LDU5NTA2ODgz
-NiwtMTU3NzMzNzY3NiwyOTQ0MzcxMzksLTE3MDE4MjIzMDYsLT
-ExMjY1NDM3MzAsMTEzODUxOTc1MywxNDYyNzIzNjcxLC0xMzEx
-OTkxNjgxLC0xNTQ5NTY4OTYxXX0=
+BnZm1cbiIsImhpc3RvcnkiOls4Nzc3NDE5MCw1OTUwNjg4MzYs
+LTE1NzczMzc2NzYsMjk0NDM3MTM5LC0xNzAxODIyMzA2LC0xMT
+I2NTQzNzMwLDExMzg1MTk3NTMsMTQ2MjcyMzY3MSwtMTMxMTk5
+MTY4MSwtMTU0OTU2ODk2MV19
 -->
