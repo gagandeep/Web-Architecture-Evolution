@@ -24,16 +24,17 @@ This book will be arranged in following Chapters,
 12. Machine Learning
 13. 
 14. 
-15. Developer Tools Evolution
+15. 
 16. Uprising of Docker & Containerization
 17. Kubernetes, Mesos & Docker Swarm
 18. Cloud Computing    
        - IAAS
        - PAAS
        - SAAS
-19.  NodeJs & Era of frontend
-20.  The Future
-21.  Web Architecture Catalog
+19.  Developer Tools Evolution
+20. NodeJs & Era of frontend
+21.  The Future
+22.  Web Architecture Catalog
 
 ## Who is the Author?
 **Gagandeep Singh** is the Author of this unfinished book. He has more than 10 years of experience in the industry. He has done couple of startups of his own and also served as VP of Technology in Education startup. He is doing Architecting of web based systems for past 7 years. He worked in different domains from Publishing, Media, Auto-industry, Health, Education and Advertising.
@@ -60,8 +61,9 @@ ViIjoiZ2g6MTczMTM3IiwidGV4dCI6Ikl0IGFsc28gZ2l2ZSB3
 aG9sZSB3ZWIgZXZvbHV0aW9uIGlkZWEgaW4gZ2lzdCwgYWxsIH
 RoZSBlbGVtZW50cyBvZiByZW1haW5pbmcgY2hhcHRlcnMuIFRo
 YXQgd2lsbCBiZSBleHBsYWluZWQgYnkgUFJJU00uIiwiY3JlYX
-RlZCI6MTU2NDE2NzU2MDcxNX19LCJoaXN0b3J5IjpbLTE2MDM2
-NzU1Nyw3NDg4MjU2NDcsLTE1MzM2MzcxMzAsNzI4NzI3Mjc4LC
-0xNDI0ODM1MjgwLDEyNjUzMjU4NzAsLTEwMzcxOTY4MDQsLTEw
-NzcyMjYyMDAsMTQ4MjEzMzczMCwtMTQzOTU2MDQ0XX0=
+RlZCI6MTU2NDE2NzU2MDcxNX19LCJoaXN0b3J5IjpbLTE4MDk0
+NzY1MDEsLTE2MDM2NzU1Nyw3NDg4MjU2NDcsLTE1MzM2MzcxMz
+AsNzI4NzI3Mjc4LC0xNDI0ODM1MjgwLDEyNjUzMjU4NzAsLTEw
+MzcxOTY4MDQsLTEwNzcyMjYyMDAsMTQ4MjEzMzczMCwtMTQzOT
+U2MDQ0XX0=
 -->
