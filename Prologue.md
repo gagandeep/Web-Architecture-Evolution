@@ -112,7 +112,11 @@ By assumption, This will increase overall computing devices adoption by general 
 
 ## Why this book?
 
-Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architectures not about Human or Hardware. You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
+Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since this book is about Web Architecture Evolution not about Human Evolution or Hardware Evolution. If you are not wondering about this then think before reading further.
+
+Why we learned a
+You learned about those things because Human Evolution is a well-known thing so you could streamline those thoughts of evolution going forward and then we discussed Hardware Evolution to make those thoughts more relevant to Web Architecture. 
+
 
 ## References
 - History of computing hardware: [https://en.wikipedia.org/wiki/History_of_computing_hardware](https://en.wikipedia.org/wiki/History_of_computing_hardware)
@@ -124,8 +128,8 @@ Do you wonder why are we discussing Human Evolution or Hardware Evolution? Since
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstODE0MzczNjgzLDU5NTA2ODgz
-NiwtMTU3NzMzNzY3NiwyOTQ0MzcxMzksLTE3MDE4MjIzMDYsLT
-ExMjY1NDM3MzAsMTEzODUxOTc1MywxNDYyNzIzNjcxLC0xMzEx
-OTkxNjgxLC0xNTQ5NTY4OTYxXX0=
+BnZm1cbiIsImhpc3RvcnkiOlszNDA4OTgxNTgsNTk1MDY4ODM2
+LC0xNTc3MzM3Njc2LDI5NDQzNzEzOSwtMTcwMTgyMjMwNiwtMT
+EyNjU0MzczMCwxMTM4NTE5NzUzLDE0NjI3MjM2NzEsLTEzMTE5
+OTE2ODEsLTE1NDk1Njg5NjFdfQ==
 -->
