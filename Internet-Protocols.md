@@ -4,9 +4,9 @@ In today's world, we are searching on Google, making friends on Facebook, sharin
 
 This works when all are connected to some network, mobile data or WiFi. That's where networking and Internet Protocols works along with other layer of Protocols. It was not always that easy to see live stream or video on Internet. It got evolved over time to what it is today.
 
-With General-purpose computers came applications to solve various problems. 
+All of the communication in Digital Era of ours started with one 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTQwODg4MzMzMCwtMTEwNDMx
-NDEyMCwtMTE0MjkxMTgwNCwtNjY5NDEwNDQ4XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsxNTkxMTI1Njg4LC0xMTA0MzE0
+MTIwLC0xMTQyOTExODA0LC02Njk0MTA0NDhdfQ==
 -->
