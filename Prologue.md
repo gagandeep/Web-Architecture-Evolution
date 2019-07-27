@@ -122,7 +122,7 @@ This will help to streamline thoughts of evolution going forward in this book. Y
 
 ### Why we learned about Hardware Evolution?
 
-We discussed Hardware Evolution to make thoughts of evolution more relevant to Web Architecture. 
+We discussed Hardware Evolution to make thoughts of evolution more relevant to Web Architecture. Hardware and Software are related, Software came when hard 
 
 ### What this book brings to the table?
 
@@ -139,7 +139,7 @@ As you already see you need to ask *Why of everything* to get to *What of everyt
 - 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMzI1MTg5OTU5LC05OTc1ODEz
+BnZm1cbiIsImhpc3RvcnkiOlstOTYzMDYyODc0LC05OTc1ODEz
 MDIsLTUwMzk5ODI5LDU5NTA2ODgzNiwtMTU3NzMzNzY3NiwyOT
 Q0MzcxMzksLTE3MDE4MjIzMDYsLTExMjY1NDM3MzAsMTEzODUx
 OTc1MywxNDYyNzIzNjcxLC0xMzExOTkxNjgxLC0xNTQ5NTY4OT
