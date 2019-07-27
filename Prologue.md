@@ -152,12 +152,11 @@ If you like gist of the things but not whole story of why those things then this
 - Analytical Engine: [https://en.wikipedia.org/wiki/Analytical_Engine](https://en.wikipedia.org/wiki/Analytical_Engine)
 - Turing Completeness: [https://en.wikipedia.org/wiki/Turing_completeness](https://en.wikipedia.org/wiki/Turing_completeness)
 - Computer: [https://en.wikipedia.org/wiki/Computer](https://en.wikipedia.org/wiki/Computer)
-- 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNTI3MDAxNzY5LC0xNDEwMzg4
-MTkwLDE0OTY3MzkwOTYsLTk5NzU4MTMwMiwtNTAzOTk4MjksNT
-k1MDY4ODM2LC0xNTc3MzM3Njc2LDI5NDQzNzEzOSwtMTcwMTgy
-MjMwNiwtMTEyNjU0MzczMCwxMTM4NTE5NzUzLDE0NjI3MjM2Nz
-EsLTEzMTE5OTE2ODEsLTE1NDk1Njg5NjFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOls3NTU4MDYyNTQsLTE0MTAzODgx
+OTAsMTQ5NjczOTA5NiwtOTk3NTgxMzAyLC01MDM5OTgyOSw1OT
+UwNjg4MzYsLTE1NzczMzc2NzYsMjk0NDM3MTM5LC0xNzAxODIy
+MzA2LC0xMTI2NTQzNzMwLDExMzg1MTk3NTMsMTQ2MjcyMzY3MS
+wtMTMxMTk5MTY4MSwtMTU0OTU2ODk2MV19
 -->
