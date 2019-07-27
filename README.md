@@ -40,7 +40,7 @@ This book will be arranged in following Chapters,
 **Gagandeep Singh** is the Author of this unfinished book. He has more than 10 years of experience in the industry. He has done couple of startups of his own and also served as VP of Technology in Education startup. He is doing Architecting of web based systems for past 7 years. He worked in different domains from Publishing, Media, Auto-industry, Health, Education and Advertising.
 
 ## Thanks
-https://stackedit.io/ for making awesome Markdown Editor and cool syncing features that is getting used to write this book.
+https://stackedit.io/ for making awesome Markdown Editor and cool Github syncing features that is getting used to write this book.
 
 ## License
 
@@ -87,10 +87,10 @@ IiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiV2h5IHdlYiBiZWNvbWUg
 c28gcG9wdWxhciBpbiBzdWNoIGEgc2hvcnQgcGVyaW9kIG9mIH
 RpbWU/IFxuQ29tbXVuaWNhdGlvbiBtZWRpdW0gZm9yIEh1bWFu
 IEludGVsbGlnZW5jZSIsImNyZWF0ZWQiOjE1NjQyMzEwOTc2Mj
-J9fSwiaGlzdG9yeSI6Wy04OTQ0ODEzNTUsMTI4NTMyOTY3OCwt
-MTYyODQwNzg3Myw4OTQwNzM2NTIsLTM2MDM5MDcyNywtMTgwOT
-Q3NjUwMSwtMTYwMzY3NTU3LDc0ODgyNTY0NywtMTUzMzYzNzEz
-MCw3Mjg3MjcyNzgsLTE0MjQ4MzUyODAsMTI2NTMyNTg3MCwtMT
-AzNzE5NjgwNCwtMTA3NzIyNjIwMCwxNDgyMTMzNzMwLC0xNDM5
-NTYwNDRdfQ==
+J9fSwiaGlzdG9yeSI6Wy0xMTc0MDg2MzM4LC04OTQ0ODEzNTUs
+MTI4NTMyOTY3OCwtMTYyODQwNzg3Myw4OTQwNzM2NTIsLTM2MD
+M5MDcyNywtMTgwOTQ3NjUwMSwtMTYwMzY3NTU3LDc0ODgyNTY0
+NywtMTUzMzYzNzEzMCw3Mjg3MjcyNzgsLTE0MjQ4MzUyODAsMT
+I2NTMyNTg3MCwtMTAzNzE5NjgwNCwtMTA3NzIyNjIwMCwxNDgy
+MTMzNzMwLC0xNDM5NTYwNDRdfQ==
 -->
