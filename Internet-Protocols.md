@@ -5,9 +5,11 @@ In today's world, we are searching on Google, making friends on Facebook, sharin
 This works when all are connected to some network, mobile data or WiFi. That's where networking and Internet Protocols works along with other layer of Protocols. It was not always that easy to see live stream or video on Internet. It got evolved over time to what it is today.
 
 All of the communication on wire in Digital Era of ours started with one landmark research paper, ***A Mathematical Theory of Communication*** by **Claude Elwood Shannon** in 1948. This one paper started the field of *Information Theory*. 
+
+**Information theory** studies the [quantification](https://en.wikipedia.org/wiki/Quantification_(science) "Quantification (science)"), [storage](https://en.wikipedia.org/wiki/Computer_data_storage "Computer data storage"), and [communication](https://en.wikipedia.org/wiki/Telecommunication "Telecommunication") of [information](https://en.wikipedia.org/wiki/Information "Information").
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNzgxNjA5MjE5LDk1NTEwNTA2
-MCwxMDU4MjQ5NTYxLDE1OTExMjU2ODgsLTExMDQzMTQxMjAsLT
-ExNDI5MTE4MDQsLTY2OTQxMDQ0OF19
+BnZm1cbiIsImhpc3RvcnkiOlstMTg5MTUyMzQ3MSwxNzgxNjA5
+MjE5LDk1NTEwNTA2MCwxMDU4MjQ5NTYxLDE1OTExMjU2ODgsLT
+ExMDQzMTQxMjAsLTExNDI5MTE4MDQsLTY2OTQxMDQ0OF19
 -->
