@@ -6,11 +6,11 @@ This works when all are connected to some network, mobile data or WiFi. That's w
 
 All of the communication on wire in Digital Era of ours started with one landmark research paper, ***A Mathematical Theory of Communication*** by **Claude Elwood Shannon** in 1948. This one paper started the field of *Information Theory*. 
 
-**Information theory** studies the [quantification](https://en.wikipedia.org/wiki/Quantification_(science) "Quantification (science)"), [storage](https://en.wikipedia.org/wiki/Computer_data_storage "Computer data storage"), and [communication](https://en.wikipedia.org/wiki/Telecommunication "Telecommunication") of [information](https://en.wikipedia.org/wiki/Information "Information"). Information theory studies the transmission, processing, extraction, and utilization of information.
+**Information theory** studies the transmission, processing, extraction, and utilization of information. Information is what is transmitted over unreliable medium
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNzU4MTY1NDAwLC0xODkxNTIz
-NDcxLDE3ODE2MDkyMTksOTU1MTA1MDYwLDEwNTgyNDk1NjEsMT
-U5MTEyNTY4OCwtMTEwNDMxNDEyMCwtMTE0MjkxMTgwNCwtNjY5
-NDEwNDQ4XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsxMjM0OTkzODYxLC03NTgxNjU0
+MDAsLTE4OTE1MjM0NzEsMTc4MTYwOTIxOSw5NTUxMDUwNjAsMT
+A1ODI0OTU2MSwxNTkxMTI1Njg4LC0xMTA0MzE0MTIwLC0xMTQy
+OTExODA0LC02Njk0MTA0NDhdfQ==
 -->
