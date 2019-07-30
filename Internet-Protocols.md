@@ -8,13 +8,13 @@ All of the communication on wire in Digital Era of ours started with one landmar
 
 **Information theory** studies the transmission, processing, extraction, and utilization of information. Information is your text/photo/audio/video, Shannon defined Information in more generic nature that we will see later. One of the application of Information theory covers Information (e.g. text) that needs to be transmitted over unreliable medium, e.g. Wifi, Mobile Network, LAN, etc., then quanitified again to the same Information that was transmitted. One another application of Information theory covers Information storage on unreliable medium like Disk, Optical drive, etc. and retrieval of same Information in a reliable manner. 
 
-Shannon defined 
+Shannon defined information as a resolution of uncertainty, giving it a quantifiable value which represents a stochastic approach to language.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjk4NDg0ODMyLC0xODgwOTA2
-NTQ0LDEyNTk0MTMxMzcsMTA4NTIwNTUxNiwtMTI1MjY2NjYyNC
-wxMTI3OTkxMjUzLC03NTgxNjU0MDAsLTE4OTE1MjM0NzEsMTc4
-MTYwOTIxOSw5NTUxMDUwNjAsMTA1ODI0OTU2MSwxNTkxMTI1Nj
-g4LC0xMTA0MzE0MTIwLC0xMTQyOTExODA0LC02Njk0MTA0NDhd
-fQ==
+BnZm1cbiIsImhpc3RvcnkiOls2MzcyMzY0NjcsLTY5ODQ4NDgz
+MiwtMTg4MDkwNjU0NCwxMjU5NDEzMTM3LDEwODUyMDU1MTYsLT
+EyNTI2NjY2MjQsMTEyNzk5MTI1MywtNzU4MTY1NDAwLC0xODkx
+NTIzNDcxLDE3ODE2MDkyMTksOTU1MTA1MDYwLDEwNTgyNDk1Nj
+EsMTU5MTEyNTY4OCwtMTEwNDMxNDEyMCwtMTE0MjkxMTgwNCwt
+NjY5NDEwNDQ4XX0=
 -->
