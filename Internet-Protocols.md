@@ -6,12 +6,12 @@ This works when all are connected to some network, mobile data or WiFi. That's w
 
 All of the communication on wire in Digital Era of ours started with one landmark research paper, ***A Mathematical Theory of Communication*** by **Claude Elwood Shannon** in 1948. This one paper started the field of *Information Theory*. 
 
-**Information theory** studies the transmission, processing, extraction, and utilization of information. Information is your text/photo/audio/video, Shannon defined Information in more generic nature that we will see later. One of the application of Information theory covers Information (e.g. text) that needs to be transmitted over unreliable medium, e.g. Wifi, Mobile Network, LAN, etc., then quanitified again to the same Information that was transmitted. One another application of Information theory covers Information storage and retrieval in reliable manner. 
+**Information theory** studies the transmission, processing, extraction, and utilization of information. Information is your text/photo/audio/video, Shannon defined Information in more generic nature that we will see later. One of the application of Information theory covers Information (e.g. text) that needs to be transmitted over unreliable medium, e.g. Wifi, Mobile Network, LAN, etc., then quanitified again to the same Information that was transmitted. One another application of Information theory covers Information storage on unreliable medium like Disk, Optical drive, etc. and retrieval of same Information in a reliable manner. 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMjU5NDEzMTM3LDEwODUyMDU1
-MTYsLTEyNTI2NjY2MjQsMTEyNzk5MTI1MywtNzU4MTY1NDAwLC
-0xODkxNTIzNDcxLDE3ODE2MDkyMTksOTU1MTA1MDYwLDEwNTgy
-NDk1NjEsMTU5MTEyNTY4OCwtMTEwNDMxNDEyMCwtMTE0MjkxMT
-gwNCwtNjY5NDEwNDQ4XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMTg4MDkwNjU0NCwxMjU5NDEz
+MTM3LDEwODUyMDU1MTYsLTEyNTI2NjY2MjQsMTEyNzk5MTI1My
+wtNzU4MTY1NDAwLC0xODkxNTIzNDcxLDE3ODE2MDkyMTksOTU1
+MTA1MDYwLDEwNTgyNDk1NjEsMTU5MTEyNTY4OCwtMTEwNDMxND
+EyMCwtMTE0MjkxMTgwNCwtNjY5NDEwNDQ4XX0=
 -->
