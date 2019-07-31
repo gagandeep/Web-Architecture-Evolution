@@ -12,17 +12,17 @@ Shannon defined information as a resolution of uncertainty, giving it a quantifi
 
 ![Shannon Communication System](./images/internet-protocols/shannon-entropy.png)
 
-Shannon proposed mathematical theory of digital communication in his paper *A Mathematical Theory of Communication*. Shannon sometimes 
+Shannon proposed mathematical theory of digital communication in his paper *A Mathematical Theory of Communication*. Shannon mathematically proves  
 
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNjQyNzY4MjAxLDE1OTk5OTI0
-MDYsODg2MzQ0NTY5LDkzMTY4MzEwMywtOTU1MzY5MjY5LDcwOD
-QzNjg5Nyw2MzcyMzY0NjcsLTY5ODQ4NDgzMiwtMTg4MDkwNjU0
-NCwxMjU5NDEzMTM3LDEwODUyMDU1MTYsLTEyNTI2NjY2MjQsMT
-EyNzk5MTI1MywtNzU4MTY1NDAwLC0xODkxNTIzNDcxLDE3ODE2
-MDkyMTksOTU1MTA1MDYwLDEwNTgyNDk1NjEsMTU5MTEyNTY4OC
-wtMTEwNDMxNDEyMF19
+BnZm1cbiIsImhpc3RvcnkiOls4MDI4MjY1OTEsMTU5OTk5MjQw
+Niw4ODYzNDQ1NjksOTMxNjgzMTAzLC05NTUzNjkyNjksNzA4ND
+M2ODk3LDYzNzIzNjQ2NywtNjk4NDg0ODMyLC0xODgwOTA2NTQ0
+LDEyNTk0MTMxMzcsMTA4NTIwNTUxNiwtMTI1MjY2NjYyNCwxMT
+I3OTkxMjUzLC03NTgxNjU0MDAsLTE4OTE1MjM0NzEsMTc4MTYw
+OTIxOSw5NTUxMDUwNjAsMTA1ODI0OTU2MSwxNTkxMTI1Njg4LC
+0xMTA0MzE0MTIwXX0=
 -->
