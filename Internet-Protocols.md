@@ -18,18 +18,18 @@ There is criticism of Shannon
 - It consider continuous system as extention to discrete
 - It didn't consider semantics of Information passed
 - It mimics only one-to-one communication not group or mass communication
-- 
+- Reciever plays passive role in communication. Sender actively passing the information to passive reciever.
  
 
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTU3MzUxMDkyOSwtMTMxNTM2
-NTU4MSw4MTkwNzA2MTQsLTEwMTY0NTc3NTEsMTk3MDQ1OTE4LD
-g0MTE1NzA5NywxNTk5OTkyNDA2LDg4NjM0NDU2OSw5MzE2ODMx
-MDMsLTk1NTM2OTI2OSw3MDg0MzY4OTcsNjM3MjM2NDY3LC02OT
-g0ODQ4MzIsLTE4ODA5MDY1NDQsMTI1OTQxMzEzNywxMDg1MjA1
-NTE2LC0xMjUyNjY2NjI0LDExMjc5OTEyNTMsLTc1ODE2NTQwMC
-wtMTg5MTUyMzQ3MV19
+BnZm1cbiIsImhpc3RvcnkiOlsxODM0NTQzMTgyLC0xMzE1MzY1
+NTgxLDgxOTA3MDYxNCwtMTAxNjQ1Nzc1MSwxOTcwNDU5MTgsOD
+QxMTU3MDk3LDE1OTk5OTI0MDYsODg2MzQ0NTY5LDkzMTY4MzEw
+MywtOTU1MzY5MjY5LDcwODQzNjg5Nyw2MzcyMzY0NjcsLTY5OD
+Q4NDgzMiwtMTg4MDkwNjU0NCwxMjU5NDEzMTM3LDEwODUyMDU1
+MTYsLTEyNTI2NjY2MjQsMTEyNzk5MTI1MywtNzU4MTY1NDAwLC
+0xODkxNTIzNDcxXX0=
 -->
