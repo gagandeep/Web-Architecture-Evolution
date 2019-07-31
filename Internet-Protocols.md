@@ -32,15 +32,16 @@ There is some criticism of Shannon Model of Communication,
 Despite its criticism, Shannon paper along with Transistor invention in 1947 changed the course of history and brought Digital Era, that we are in.
 
 
+
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls4NzkyMjk5OTIsNzU3MjI3MDQy
-LC0xNzQ0OTQyMjI2LDUyMDI2NTQ1MywxODM0NTQzMTgyLC0xMz
-E1MzY1NTgxLDgxOTA3MDYxNCwtMTAxNjQ1Nzc1MSwxOTcwNDU5
-MTgsODQxMTU3MDk3LDE1OTk5OTI0MDYsODg2MzQ0NTY5LDkzMT
-Y4MzEwMywtOTU1MzY5MjY5LDcwODQzNjg5Nyw2MzcyMzY0Njcs
-LTY5ODQ4NDgzMiwtMTg4MDkwNjU0NCwxMjU5NDEzMTM3LDEwOD
-UyMDU1MTZdfQ==
+BnZm1cbiIsImhpc3RvcnkiOls0ODg2NDAzMTQsODc5MjI5OTky
+LDc1NzIyNzA0MiwtMTc0NDk0MjIyNiw1MjAyNjU0NTMsMTgzND
+U0MzE4MiwtMTMxNTM2NTU4MSw4MTkwNzA2MTQsLTEwMTY0NTc3
+NTEsMTk3MDQ1OTE4LDg0MTE1NzA5NywxNTk5OTkyNDA2LDg4Nj
+M0NDU2OSw5MzE2ODMxMDMsLTk1NTM2OTI2OSw3MDg0MzY4OTcs
+NjM3MjM2NDY3LC02OTg0ODQ4MzIsLTE4ODA5MDY1NDQsMTI1OT
+QxMzEzN119
 -->
