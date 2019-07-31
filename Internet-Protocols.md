@@ -21,7 +21,7 @@ Shannon's paper defined the following basic elements of communication:
 -   A receiver, which transforms the signal back into the message intended for delivery
 -   A destination, which can be a person or a machine, for whom or which the message is intended
 
-Shannon proposed a mathematical theory of digital communication in his paper *A Mathematical Theory of Communication*. Shannon mathematically proves the possibility of Digital systems in 1948. That's why he sometimes called as *The Father of The Information Age*. Because of Shannon, we have all the modern communication devices working on digital systems. Shannon work was not only applied to Computers but also to Cryptology, 
+Shannon proposed a mathematical theory of digital communication in his paper *A Mathematical Theory of Communication*. Shannon mathematically proves the possibility of Digital systems in 1948. That's why he sometimes called as *The Father of The Information Age*. Because of Shannon, we have all the modern communication devices working on digital systems. Shannon work was not only applied to Computers but also to Cryptology, Linguistics, Physiology, Physics, etc.
 
 There is some criticism of Shannon Model of Communication,
 - It didn't consider the semantics of Information passed
@@ -37,7 +37,7 @@ Despite its criticism, Shannon paper along with Transistor invention in 1947 cha
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxOTUyMjk5NzM5LDQ4ODY0MDMx
+BnZm1cbiIsImhpc3RvcnkiOlstMzg2MjcxNzY3LDQ4ODY0MDMx
 NCw4NzkyMjk5OTIsNzU3MjI3MDQyLC0xNzQ0OTQyMjI2LDUyMD
 I2NTQ1MywxODM0NTQzMTgyLC0xMzE1MzY1NTgxLDgxOTA3MDYx
 NCwtMTAxNjQ1Nzc1MSwxOTcwNDU5MTgsODQxMTU3MDk3LDE1OT
