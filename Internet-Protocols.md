@@ -8,7 +8,7 @@ All of the communication on wire in Digital Era of ours started with one landmar
 
 **Information theory** studies the transmission, processing, extraction, and utilization of information. Information is your text/photo/audio/video, Shannon defined Information in more generic nature that we will see later. One of the application of Information theory covers Information (e.g. text) that needs to be transmitted over unreliable medium, e.g. Wifi, Mobile Network, LAN, etc., then quanitified again to the same Information that was transmitted. One another application of Information theory covers Information storage on unreliable medium like Disk, Optical drive, etc. and retrieval of same Information in a reliable manner. 
 
-Shannon defined information as a resolution of uncertainty, giving it a quantifiable value which represents a stochastic approach to language. 
+Shannon defined information as a resolution of uncertainty, giving it a quantifiable value which represents a stochastic approach to language. In simple terms, sending and retrieving of Information over uncertain medium and getting same Information. 
 
 ![Shannon Communication Model](./images/internet-protocols/shannon-entropy.png)
 
@@ -17,7 +17,7 @@ Shannon defined information as a resolution of uncertainty, giving it a quantifi
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNjM5Mzc1Nzk3LC05NTUzNjky
+BnZm1cbiIsImhpc3RvcnkiOlstMTQ1Mjg0MTUxLC05NTUzNjky
 NjksNzA4NDM2ODk3LDYzNzIzNjQ2NywtNjk4NDg0ODMyLC0xOD
 gwOTA2NTQ0LDEyNTk0MTMxMzcsMTA4NTIwNTUxNiwtMTI1MjY2
 NjYyNCwxMTI3OTkxMjUzLC03NTgxNjU0MDAsLTE4OTE1MjM0Nz
