@@ -20,13 +20,13 @@ There is some criticism of Shannon Model of Communication,
 - Reciever plays a passive role in communication. Sender actively passing the information to the passive receiver. That don't happen in a real-world scenario.
 - It considers the continuous system as an extension to discrete and discrete on top of Binary data (dot and dash of telegraphy).
 
-Despite its criticism, Digital Era as we know it right now started with Shannon paper along with Transistor 
+Despite its criticism, Shannon paper along with Transistor invention in 1947 changed the course of history and brought Digital 
 
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMDY3NjkwMTY3LDc1NzIyNzA0
+BnZm1cbiIsImhpc3RvcnkiOlsxMjI0MTg0NDExLDc1NzIyNzA0
 MiwtMTc0NDk0MjIyNiw1MjAyNjU0NTMsMTgzNDU0MzE4MiwtMT
 MxNTM2NTU4MSw4MTkwNzA2MTQsLTEwMTY0NTc3NTEsMTk3MDQ1
 OTE4LDg0MTE1NzA5NywxNTk5OTkyNDA2LDg4NjM0NDU2OSw5Mz
