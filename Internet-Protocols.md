@@ -31,20 +31,23 @@ There is some criticism of Shannon Model of Communication,
 
 Despite its criticism, Shannon paper along with Transistor invention in 1947 changed the course of history and brought Digital Era that we are experiencing on daily basis. 
 
-Computer to Computer Communication was always key for Defense that's why one of the early Computer Network, ARPANET was build by Advanced Research Projects Agency (ARPA) of the United States Department of Defense. ARPA is now known as DARPA. ARPANET was early implementation of TCP/IP stack. TCP/IP is now standard for Internet Communication. 
+Computer to Computer Communication was always key for Defense that's why one of the early Computer Network, ARPANET was build by Advanced Research Projects Agency (ARPA) of the United States Department of Defense. ARPA is now known as DARPA. ARPANET was early implementation of **TCP/IP stack** also known as Internet protocol suite. TCP/IP is now standard for Internet Communication. 
 
-There were few other network stacks and Models came along and some tried to standardised the Networking stack like OSI Model. However, TCP/IP got actual implementation in US defense and universities that  
+There were few other network stacks and Models came along and some tried to standardised the Networking stack like OSI Model. However, TCP/IP got actual implementation in US defense institutes and universities that it never became obsolute. 
+
+## Internet protocol suite
+
 
 
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMDc4MjgxNDA2LC0xNTQ4MDU2
-NzY0LC0zODYyNzE3NjcsNDg4NjQwMzE0LDg3OTIyOTk5Miw3NT
-cyMjcwNDIsLTE3NDQ5NDIyMjYsNTIwMjY1NDUzLDE4MzQ1NDMx
-ODIsLTEzMTUzNjU1ODEsODE5MDcwNjE0LC0xMDE2NDU3NzUxLD
-E5NzA0NTkxOCw4NDExNTcwOTcsMTU5OTk5MjQwNiw4ODYzNDQ1
-NjksOTMxNjgzMTAzLC05NTUzNjkyNjksNzA4NDM2ODk3LDYzNz
-IzNjQ2N119
+BnZm1cbiIsImhpc3RvcnkiOls3NDE1MTU5NTMsLTE1NDgwNTY3
+NjQsLTM4NjI3MTc2Nyw0ODg2NDAzMTQsODc5MjI5OTkyLDc1Nz
+IyNzA0MiwtMTc0NDk0MjIyNiw1MjAyNjU0NTMsMTgzNDU0MzE4
+MiwtMTMxNTM2NTU4MSw4MTkwNzA2MTQsLTEwMTY0NTc3NTEsMT
+k3MDQ1OTE4LDg0MTE1NzA5NywxNTk5OTkyNDA2LDg4NjM0NDU2
+OSw5MzE2ODMxMDMsLTk1NTM2OTI2OSw3MDg0MzY4OTcsNjM3Mj
+M2NDY3XX0=
 -->
