@@ -31,18 +31,18 @@ There is some criticism of Shannon Model of Communication,
 
 Despite its criticism, Shannon paper along with Transistor invention in 1947 changed the course of history and brought Digital Era that we are experiencing on daily basis. 
 
-Computer to Computer Communication was always key for Defense that's why firs
+Computer to Computer Communication was always key for Defense that's why first Computer Network was build by Advanced Research Projects Agency (ARPA) of the United States Department of Defense. ARPA is now known as DARPA. 
 
 
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNTc3MDcyODQwLC0xNTQ4MDU2
-NzY0LC0zODYyNzE3NjcsNDg4NjQwMzE0LDg3OTIyOTk5Miw3NT
-cyMjcwNDIsLTE3NDQ5NDIyMjYsNTIwMjY1NDUzLDE4MzQ1NDMx
-ODIsLTEzMTUzNjU1ODEsODE5MDcwNjE0LC0xMDE2NDU3NzUxLD
-E5NzA0NTkxOCw4NDExNTcwOTcsMTU5OTk5MjQwNiw4ODYzNDQ1
-NjksOTMxNjgzMTAzLC05NTUzNjkyNjksNzA4NDM2ODk3LDYzNz
-IzNjQ2N119
+BnZm1cbiIsImhpc3RvcnkiOlstMTIwMDg5ODEzMywtMTU0ODA1
+Njc2NCwtMzg2MjcxNzY3LDQ4ODY0MDMxNCw4NzkyMjk5OTIsNz
+U3MjI3MDQyLC0xNzQ0OTQyMjI2LDUyMDI2NTQ1MywxODM0NTQz
+MTgyLC0xMzE1MzY1NTgxLDgxOTA3MDYxNCwtMTAxNjQ1Nzc1MS
+wxOTcwNDU5MTgsODQxMTU3MDk3LDE1OTk5OTI0MDYsODg2MzQ0
+NTY5LDkzMTY4MzEwMywtOTU1MzY5MjY5LDcwODQzNjg5Nyw2Mz
+cyMzY0NjddfQ==
 -->
