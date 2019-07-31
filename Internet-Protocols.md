@@ -20,17 +20,17 @@ There is some criticism of Shannon Model of Communication,
 - Reciever plays a passive role in communication. Sender actively passing the information to the passive receiver. That don't happen in a real-world scenario.
 - It considers the continuous system as an extension to discrete 
 
-Despite its criticism 
+Despite its criticism, 
 
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjE2MTY5MjE4LDUyMDI2NTQ1
-MywxODM0NTQzMTgyLC0xMzE1MzY1NTgxLDgxOTA3MDYxNCwtMT
-AxNjQ1Nzc1MSwxOTcwNDU5MTgsODQxMTU3MDk3LDE1OTk5OTI0
-MDYsODg2MzQ0NTY5LDkzMTY4MzEwMywtOTU1MzY5MjY5LDcwOD
-QzNjg5Nyw2MzcyMzY0NjcsLTY5ODQ4NDgzMiwtMTg4MDkwNjU0
-NCwxMjU5NDEzMTM3LDEwODUyMDU1MTYsLTEyNTI2NjY2MjQsMT
-EyNzk5MTI1M119
+BnZm1cbiIsImhpc3RvcnkiOlstMTc0NDk0MjIyNiw1MjAyNjU0
+NTMsMTgzNDU0MzE4MiwtMTMxNTM2NTU4MSw4MTkwNzA2MTQsLT
+EwMTY0NTc3NTEsMTk3MDQ1OTE4LDg0MTE1NzA5NywxNTk5OTky
+NDA2LDg4NjM0NDU2OSw5MzE2ODMxMDMsLTk1NTM2OTI2OSw3MD
+g0MzY4OTcsNjM3MjM2NDY3LC02OTg0ODQ4MzIsLTE4ODA5MDY1
+NDQsMTI1OTQxMzEzNywxMDg1MjA1NTE2LC0xMjUyNjY2NjI0LD
+ExMjc5OTEyNTNdfQ==
 -->
