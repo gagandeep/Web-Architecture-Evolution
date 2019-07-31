@@ -14,8 +14,8 @@ Shannon defined information as a resolution of uncertainty, giving it a quantifi
 
 ![Shannon Communication System](./images/internet-protocols/shannon-entropy.png)
 
-Shannon's article laid out the basic elements of communication:
--   An information source that produces a message
+Shannon's paper defined the following basic elements of communication:
+-   An information source/sender that produces a message
 -   A transmitter that operates on the message to create a signal,  which can be sent through a channel
 -   A channel, which is the medium over which the signal, carrying the information that composes the message, is sent
 -   A receiver, which transforms the signal back into the message intended for delivery
@@ -26,7 +26,7 @@ Shannon proposed a mathematical theory of digital communication in his paper *A 
 There is some criticism of Shannon Model of Communication,
 - It didn't consider the semantics of Information passed
 - It mimics only one-to-one communication not group or mass communication
-- Reciever plays a passive role in communication. S actively passing the information to the passive receiver. That don't happen in a real-world scenario.
+- Reciever plays a passive role in communication. Sender actively passing the information to the passive receiver. That don't happen in a real-world scenario.
 - It considers the continuous system as an extension to discrete and discrete on top of Binary data (dot and dash of telegraphy).
 
 Despite its criticism, Shannon paper along with Transistor invention in 1947 changed the course of history and brought Digital Era, that we are in.
@@ -36,11 +36,11 @@ Despite its criticism, Shannon paper along with Transistor invention in 1947 cha
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTk2MTU0NzgwNiw3NTcyMjcw
-NDIsLTE3NDQ5NDIyMjYsNTIwMjY1NDUzLDE4MzQ1NDMxODIsLT
-EzMTUzNjU1ODEsODE5MDcwNjE0LC0xMDE2NDU3NzUxLDE5NzA0
-NTkxOCw4NDExNTcwOTcsMTU5OTk5MjQwNiw4ODYzNDQ1NjksOT
-MxNjgzMTAzLC05NTUzNjkyNjksNzA4NDM2ODk3LDYzNzIzNjQ2
-NywtNjk4NDg0ODMyLC0xODgwOTA2NTQ0LDEyNTk0MTMxMzcsMT
-A4NTIwNTUxNl19
+BnZm1cbiIsImhpc3RvcnkiOls4NzkyMjk5OTIsNzU3MjI3MDQy
+LC0xNzQ0OTQyMjI2LDUyMDI2NTQ1MywxODM0NTQzMTgyLC0xMz
+E1MzY1NTgxLDgxOTA3MDYxNCwtMTAxNjQ1Nzc1MSwxOTcwNDU5
+MTgsODQxMTU3MDk3LDE1OTk5OTI0MDYsODg2MzQ0NTY5LDkzMT
+Y4MzEwMywtOTU1MzY5MjY5LDcwODQzNjg5Nyw2MzcyMzY0Njcs
+LTY5ODQ4NDgzMiwtMTg4MDkwNjU0NCwxMjU5NDEzMTM3LDEwOD
+UyMDU1MTZdfQ==
 -->
