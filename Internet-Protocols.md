@@ -33,14 +33,14 @@ Despite its criticism, Shannon paper along with Transistor invention in 1947 cha
 
 Computer to Computer Communication was always key for Defense that's why one of the early Computer Network, ARPANET was build by Advanced Research Projects Agency (ARPA) of the United States Department of Defense. ARPA is now known as DARPA. ARPANET was early implementation of TCP/IP stack. TCP/IP is now standard for Internet Communication. 
 
-There  
+There were few other network stacks and Models came along and some tried to standardised the Networking stack like OSI Model. However, TCP/IP got actual implementation in US defense and universities that  
 
 
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNjkxNTQ3NTc0LC0xNTQ4MDU2
+BnZm1cbiIsImhpc3RvcnkiOlsxMDc4MjgxNDA2LC0xNTQ4MDU2
 NzY0LC0zODYyNzE3NjcsNDg4NjQwMzE0LDg3OTIyOTk5Miw3NT
 cyMjcwNDIsLTE3NDQ5NDIyMjYsNTIwMjY1NDUzLDE4MzQ1NDMx
 ODIsLTEzMTUzNjU1ODEsODE5MDcwNjE0LC0xMDE2NDU3NzUxLD
