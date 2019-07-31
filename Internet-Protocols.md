@@ -39,15 +39,16 @@ There were few other network stacks and Models came along and some tried to stan
 
 
 
+
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls3NDE1MTU5NTMsLTE1NDgwNTY3
-NjQsLTM4NjI3MTc2Nyw0ODg2NDAzMTQsODc5MjI5OTkyLDc1Nz
-IyNzA0MiwtMTc0NDk0MjIyNiw1MjAyNjU0NTMsMTgzNDU0MzE4
-MiwtMTMxNTM2NTU4MSw4MTkwNzA2MTQsLTEwMTY0NTc3NTEsMT
-k3MDQ1OTE4LDg0MTE1NzA5NywxNTk5OTkyNDA2LDg4NjM0NDU2
-OSw5MzE2ODMxMDMsLTk1NTM2OTI2OSw3MDg0MzY4OTcsNjM3Mj
-M2NDY3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsxMjg5NDM1MDExLDc0MTUxNTk1
+MywtMTU0ODA1Njc2NCwtMzg2MjcxNzY3LDQ4ODY0MDMxNCw4Nz
+kyMjk5OTIsNzU3MjI3MDQyLC0xNzQ0OTQyMjI2LDUyMDI2NTQ1
+MywxODM0NTQzMTgyLC0xMzE1MzY1NTgxLDgxOTA3MDYxNCwtMT
+AxNjQ1Nzc1MSwxOTcwNDU5MTgsODQxMTU3MDk3LDE1OTk5OTI0
+MDYsODg2MzQ0NTY5LDkzMTY4MzEwMywtOTU1MzY5MjY5LDcwOD
+QzNjg5N119
 -->
