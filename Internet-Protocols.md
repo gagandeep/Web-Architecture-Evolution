@@ -4,6 +4,8 @@ In today's world, we are searching on Google, making friends on Facebook, sharin
 
 This works when all are connected to some network, mobile data or WiFi. That's where networking and Internet Protocols work along with other layers of Protocols. It was not always that easy to see live stream or video on the Internet. It got evolved to what it is today.
 
+## History
+
 All of the communication in Digital Era of ours started with one landmark research paper, ***A Mathematical Theory of Communication*** by **Claude Elwood Shannon** in 1948. This one paper started the field of *Information Theory*. 
 
 **Information theory** studies the transmission, processing, extraction, and utilization of information. Information is your text/photo/audio/video, Shannon defined Information in more generic nature that we will see later. One of the applications of Information theory covers Information (e.g. text) that needs to be transmitted over an unreliable medium, e.g. Wifi, Mobile Network, LAN, etc., then quantified again to the same information that was transmitted. One another application of Information theory covers Information storage on an unreliable medium like Disk, Optical drive, etc. and retrieval of the same information in a reliable manner. 
@@ -20,13 +22,14 @@ There is some criticism of Shannon Model of Communication,
 - Reciever plays a passive role in communication. Sender actively passing the information to the passive receiver. That don't happen in a real-world scenario.
 - It considers the continuous system as an extension to discrete and discrete on top of Binary data (dot and dash of telegraphy).
 
-Despite its criticism, Shannon paper along with Transistor invention in 1947 changed the course of history and brought Digital 
+Despite its criticism, Shannon paper along with Transistor invention in 1947 changed the course of history and brought Digital Era, that we are in.
+
 
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMjI0MTg0NDExLDc1NzIyNzA0
+BnZm1cbiIsImhpc3RvcnkiOlstNTQ1Mjg4NDMxLDc1NzIyNzA0
 MiwtMTc0NDk0MjIyNiw1MjAyNjU0NTMsMTgzNDU0MzE4MiwtMT
 MxNTM2NTU4MSw4MTkwNzA2MTQsLTEwMTY0NTc3NTEsMTk3MDQ1
 OTE4LDg0MTE1NzA5NywxNTk5OTkyNDA2LDg4NjM0NDU2OSw5Mz
