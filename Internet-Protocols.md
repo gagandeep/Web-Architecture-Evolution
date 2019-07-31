@@ -14,18 +14,18 @@ Shannon defined information as a resolution of uncertainty, giving it a quantifi
 
 Shannon proposed mathematical theory of digital communication in his paper *A Mathematical Theory of Communication*. Shannon mathematically proves possibility of Digital systems in 1948. That's why he sometimes called as *The Father of The Information Age*. Because of Shannon we have all the modern communication devices working on digital systems.
 
-There is some criticism 
+There is criticism of Shannon to consider continuous system as extention to discrete and didn't considering semantics of Information 
  
 
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMzYyNDE4MTgyLC0xMDE2NDU3
-NzUxLDE5NzA0NTkxOCw4NDExNTcwOTcsMTU5OTk5MjQwNiw4OD
-YzNDQ1NjksOTMxNjgzMTAzLC05NTUzNjkyNjksNzA4NDM2ODk3
-LDYzNzIzNjQ2NywtNjk4NDg0ODMyLC0xODgwOTA2NTQ0LDEyNT
-k0MTMxMzcsMTA4NTIwNTUxNiwtMTI1MjY2NjYyNCwxMTI3OTkx
-MjUzLC03NTgxNjU0MDAsLTE4OTE1MjM0NzEsMTc4MTYwOTIxOS
-w5NTUxMDUwNjBdfQ==
+BnZm1cbiIsImhpc3RvcnkiOls4MTkwNzA2MTQsLTEwMTY0NTc3
+NTEsMTk3MDQ1OTE4LDg0MTE1NzA5NywxNTk5OTkyNDA2LDg4Nj
+M0NDU2OSw5MzE2ODMxMDMsLTk1NTM2OTI2OSw3MDg0MzY4OTcs
+NjM3MjM2NDY3LC02OTg0ODQ4MzIsLTE4ODA5MDY1NDQsMTI1OT
+QxMzEzNywxMDg1MjA1NTE2LC0xMjUyNjY2NjI0LDExMjc5OTEy
+NTMsLTc1ODE2NTQwMCwtMTg5MTUyMzQ3MSwxNzgxNjA5MjE5LD
+k1NTEwNTA2MF19
 -->
