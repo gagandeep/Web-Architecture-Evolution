@@ -10,17 +10,18 @@ All of the communication on wire in Digital Era of ours started with one landmar
 
 Shannon defined information as a resolution of uncertainty, giving it a quantifiable value which represents a stochastic approach to language. 
 
-
+![Shannon Communication Model](./images/internet-protocols/shannon-entropy.png)
 
 
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstOTU1MzY5MjY5LDcwODQzNjg5
-Nyw2MzcyMzY0NjcsLTY5ODQ4NDgzMiwtMTg4MDkwNjU0NCwxMj
-U5NDEzMTM3LDEwODUyMDU1MTYsLTEyNTI2NjY2MjQsMTEyNzk5
-MTI1MywtNzU4MTY1NDAwLC0xODkxNTIzNDcxLDE3ODE2MDkyMT
-ksOTU1MTA1MDYwLDEwNTgyNDk1NjEsMTU5MTEyNTY4OCwtMTEw
-NDMxNDEyMCwtMTE0MjkxMTgwNCwtNjY5NDEwNDQ4XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsxNjM5Mzc1Nzk3LC05NTUzNjky
+NjksNzA4NDM2ODk3LDYzNzIzNjQ2NywtNjk4NDg0ODMyLC0xOD
+gwOTA2NTQ0LDEyNTk0MTMxMzcsMTA4NTIwNTUxNiwtMTI1MjY2
+NjYyNCwxMTI3OTkxMjUzLC03NTgxNjU0MDAsLTE4OTE1MjM0Nz
+EsMTc4MTYwOTIxOSw5NTUxMDUwNjAsMTA1ODI0OTU2MSwxNTkx
+MTI1Njg4LC0xMTA0MzE0MTIwLC0xMTQyOTExODA0LC02Njk0MT
+A0NDhdfQ==
 -->
