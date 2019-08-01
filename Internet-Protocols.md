@@ -35,7 +35,7 @@ Transistors introduced second generation computer. If you remember from our [Pro
 
 Computer to Computer Communication was always key for Defense that's why it was the next step with increasing power of ICs. One of the early Computer Network, ARPANET was build by Advanced Research Projects Agency (ARPA) of the United States Department of Defense. ARPA is now known as DARPA. ARPANET was early implementation of **TCP/IP protocol suite** also known as Internet protocol suite. TCP/IP is now standard for Internet Communication. 
 
-There were few other network stacks and Models came along and some tried to standardised the Networking stack like OSI Model. However, TCP/IP got practical implementation in US defense institutes and universities. This led to widespread of TCP/IP in early era of networking, because of that TCP/IP never became obsolute 
+There were few other network stacks and Models came along and some tried to standardised the Networking stack like OSI Model. However, TCP/IP got practical implementation in US defense institutes and universities. This led to widespread of TCP/IP in early era of networking, because of that TCP/IP never became obsolute.
 
 ## Internet protocol suite
 
@@ -50,11 +50,11 @@ A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTExMjA5MTM5OCw3NDE1MTU5
-NTMsLTE1NDgwNTY3NjQsLTM4NjI3MTc2Nyw0ODg2NDAzMTQsOD
-c5MjI5OTkyLDc1NzIyNzA0MiwtMTc0NDk0MjIyNiw1MjAyNjU0
-NTMsMTgzNDU0MzE4MiwtMTMxNTM2NTU4MSw4MTkwNzA2MTQsLT
-EwMTY0NTc3NTEsMTk3MDQ1OTE4LDg0MTE1NzA5NywxNTk5OTky
-NDA2LDg4NjM0NDU2OSw5MzE2ODMxMDMsLTk1NTM2OTI2OSw3MD
-g0MzY4OTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxNzI0NjA4MTM2LC0xMTEyMDkx
+Mzk4LDc0MTUxNTk1MywtMTU0ODA1Njc2NCwtMzg2MjcxNzY3LD
+Q4ODY0MDMxNCw4NzkyMjk5OTIsNzU3MjI3MDQyLC0xNzQ0OTQy
+MjI2LDUyMDI2NTQ1MywxODM0NTQzMTgyLC0xMzE1MzY1NTgxLD
+gxOTA3MDYxNCwtMTAxNjQ1Nzc1MSwxOTcwNDU5MTgsODQxMTU3
+MDk3LDE1OTk5OTI0MDYsODg2MzQ0NTY5LDkzMTY4MzEwMywtOT
+U1MzY5MjY5XX0=
 -->
