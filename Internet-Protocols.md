@@ -35,11 +35,11 @@ Transistors introduced second generation computer. If you remember from our [Pro
 
 Computer to Computer Communication was always key for Defense that's why it was the next step with increasing power of ICs. One of the early Computer Network, ARPANET was build by Advanced Research Projects Agency (ARPA) of the United States Department of Defense. ARPA is now known as DARPA. ARPANET was early implementation of **TCP/IP protocol suite** also known as Internet protocol suite. TCP/IP is now standard for Internet Communication. 
 
-There were few other network stacks and Models came along and some tried to standardised the Networking stack like OSI Model. However, TCP/IP got practica implementation in US defense institutes and universities that it never became obsolute. This 
+There were few other network stacks and Models came along and some tried to standardised the Networking stack like OSI Model. However, TCP/IP got practical implementation in US defense institutes and universities. This led to widespread of TCP/IP in early era of networking, because of that TCP/IP never became obsolute 
 
 ## Internet protocol suite
 
-Internet protocol suite also commonly known as TCP/IP protocol suite
+Internet protocol suite also commonly known as TCP/IP protocol suite because of two main 
 
 ### Why there are 4 layers?
 
@@ -49,7 +49,7 @@ Internet protocol suite also commonly known as TCP/IP protocol suite
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTg2OTI2NDIzMCw3NDE1MTU5
+BnZm1cbiIsImhpc3RvcnkiOlstMTA5ODMyNDM3OCw3NDE1MTU5
 NTMsLTE1NDgwNTY3NjQsLTM4NjI3MTc2Nyw0ODg2NDAzMTQsOD
 c5MjI5OTkyLDc1NzIyNzA0MiwtMTc0NDk0MjIyNiw1MjAyNjU0
 NTMsMTgzNDU0MzE4MiwtMTMxNTM2NTU4MSw4MTkwNzA2MTQsLT
