@@ -39,6 +39,8 @@ There were few other network stacks and Models came along and some tried to stan
 
 ## Internet protocol suite
 
+Internet protocol suite a;commonly known as TCP/IP protocol suite 
+
 ### Why there are 4 layers?
 
 
@@ -47,11 +49,11 @@ There were few other network stacks and Models came along and some tried to stan
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNDExODIzODY1LDc0MTUxNTk1
-MywtMTU0ODA1Njc2NCwtMzg2MjcxNzY3LDQ4ODY0MDMxNCw4Nz
-kyMjk5OTIsNzU3MjI3MDQyLC0xNzQ0OTQyMjI2LDUyMDI2NTQ1
-MywxODM0NTQzMTgyLC0xMzE1MzY1NTgxLDgxOTA3MDYxNCwtMT
-AxNjQ1Nzc1MSwxOTcwNDU5MTgsODQxMTU3MDk3LDE1OTk5OTI0
-MDYsODg2MzQ0NTY5LDkzMTY4MzEwMywtOTU1MzY5MjY5LDcwOD
-QzNjg5N119
+BnZm1cbiIsImhpc3RvcnkiOls0MzUyODEwNiw3NDE1MTU5NTMs
+LTE1NDgwNTY3NjQsLTM4NjI3MTc2Nyw0ODg2NDAzMTQsODc5Mj
+I5OTkyLDc1NzIyNzA0MiwtMTc0NDk0MjIyNiw1MjAyNjU0NTMs
+MTgzNDU0MzE4MiwtMTMxNTM2NTU4MSw4MTkwNzA2MTQsLTEwMT
+Y0NTc3NTEsMTk3MDQ1OTE4LDg0MTE1NzA5NywxNTk5OTkyNDA2
+LDg4NjM0NDU2OSw5MzE2ODMxMDMsLTk1NTM2OTI2OSw3MDg0Mz
+Y4OTddfQ==
 -->
