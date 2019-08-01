@@ -37,6 +37,7 @@ There were few other network stacks and Models came along and some tried to stan
 
 ## Internet protocol suite
 
+### Why there are 4 layers?
 
 
 
@@ -44,7 +45,7 @@ There were few other network stacks and Models came along and some tried to stan
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMjg5NDM1MDExLDc0MTUxNTk1
+BnZm1cbiIsImhpc3RvcnkiOlsyMDEyODg1MjE1LDc0MTUxNTk1
 MywtMTU0ODA1Njc2NCwtMzg2MjcxNzY3LDQ4ODY0MDMxNCw4Nz
 kyMjk5OTIsNzU3MjI3MDQyLC0xNzQ0OTQyMjI2LDUyMDI2NTQ1
 MywxODM0NTQzMTgyLC0xMzE1MzY1NTgxLDgxOTA3MDYxNCwtMT
