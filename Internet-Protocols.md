@@ -21,7 +21,7 @@ Shannon's paper defined the following basic elements of communication:
 -   A receiver, which transforms the signal back into the message intended for delivery
 -   A destination, which can be a person or a machine, for whom or which the message is intended
 
-Shannon proposed a mathematical theory of digital communication in his paper *A Mathematical Theory of Communication*. Shannon mathematically proves the possibility of Digital systems in 1948. That's why he sometimes called as *The Father of The Information Age*. Because of Shannon, we have all the modern communication devices working on digital systems. Shannon work was not only applied to Computer Science but also to Cryptology, Linguistics, Physiology, Physics, etc.
+Shannon proposed a mathematical theory of digital communication in his paper *A Mathematical Theory of Communication*. Shannon mathematically proves the possibility of Digital systems in 1948. That's why he sometimes called as *The Father of The Information Age*. Because of Shannon, we have all the modern communication devices working on digital systems. Shannon work was not only applied to Computer Science but also Cryptology, Linguistics, Physiology, Physics, etc.
 
 There is some criticism of Shannon Model of Communication,
 - It didn't consider the semantics of Information passed
@@ -29,13 +29,13 @@ There is some criticism of Shannon Model of Communication,
 - Reciever plays a passive role in communication. Sender actively passing the information to the passive receiver. That don't happen in a real-world scenario.
 - It considers the continuous system as an extension to discrete and discrete on top of Binary data (dot and dash of telegraphy).
 
-Despite its criticism, Shannon paper along with Transistors invention in 1947 changed the course of history and brought Digital Era that we are experiencing on daily basis. 
+Despite its criticism, Shannon paper along with Transistors invention in 1947 changed the course of history and brought the Digital Era that we are experiencing daily. 
 
-Transistors introduced second generation computer. If you remember from our [Prologue](Prologue.md), computing devices were primarily used for computations at central location. With **Integrated Circuit** (IC) breakthrough in late 1950's and adancement of IC technology with increasing computing power through 1960's, It was advent of other possibilities.
+Transistors introduced a second-generation computer. If you remember from our [Prologue](Prologue.md), computing devices were primarily used for computations at a central location. With **Integrated Circuit** (IC) breakthrough in the late 1950s and advancement of IC technology with increasing computing power through the 1960s, It was the advent of other possibilities.
 
-Computer to Computer Communication was always key for Defense that's why it was the next step with increasing power of ICs. One of the early Computer Network, ARPANET was build by Advanced Research Projects Agency (ARPA) of the United States Department of Defense. ARPA is now known as DARPA. ARPANET was early implementation of **TCP/IP protocol suite** also known as Internet protocol suite. TCP/IP is now standard for Internet Communication. 
+Computer to Computer Communication was always key for Defense that's why it was the next step with the increasing power of ICs. One of the early Computer Network, ARPANET was built by Advanced Research Projects Agency (ARPA) of the United States Department of Defense. ARPA is now known as DARPA. ARPANET was an early implementation of **TCP/IP protocol suite** also known as Internet protocol suite. TCP/IP is now standard for Internet Communication. 
 
-There were few other network stacks and Models came along and some tried to standardised the Networking stack like OSI Model. However, TCP/IP got practical implementation in US defense institutes and universities. This led to widespread of TCP/IP in early era of networking, because of that TCP/IP never became obsolute.
+There were few other network stacks and Models came along and some tried to standardized the Networking stack like OSI Model. However, TCP/IP got practical implementation in US defense institutes and universities. This led to widespread TCP/IP in the early era of networking, because of that TCP/IP never became obsolete.
 
 ## Internet protocol suite
 
@@ -50,11 +50,11 @@ A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNzI0NjA4MTM2LC0xMTEyMDkx
-Mzk4LDc0MTUxNTk1MywtMTU0ODA1Njc2NCwtMzg2MjcxNzY3LD
-Q4ODY0MDMxNCw4NzkyMjk5OTIsNzU3MjI3MDQyLC0xNzQ0OTQy
-MjI2LDUyMDI2NTQ1MywxODM0NTQzMTgyLC0xMzE1MzY1NTgxLD
-gxOTA3MDYxNCwtMTAxNjQ1Nzc1MSwxOTcwNDU5MTgsODQxMTU3
-MDk3LDE1OTk5OTI0MDYsODg2MzQ0NTY5LDkzMTY4MzEwMywtOT
-U1MzY5MjY5XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMTQzNzQ3OTI3MiwxNzI0NjA4
+MTM2LC0xMTEyMDkxMzk4LDc0MTUxNTk1MywtMTU0ODA1Njc2NC
+wtMzg2MjcxNzY3LDQ4ODY0MDMxNCw4NzkyMjk5OTIsNzU3MjI3
+MDQyLC0xNzQ0OTQyMjI2LDUyMDI2NTQ1MywxODM0NTQzMTgyLC
+0xMzE1MzY1NTgxLDgxOTA3MDYxNCwtMTAxNjQ1Nzc1MSwxOTcw
+NDU5MTgsODQxMTU3MDk3LDE1OTk5OTI0MDYsODg2MzQ0NTY5LD
+kzMTY4MzEwM119
 -->
