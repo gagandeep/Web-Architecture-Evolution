@@ -39,7 +39,7 @@ There were few other network stacks and Models came along and some tried to stan
 
 ## Internet protocol suite
 
-Internet protocol suite also commonly known as TCP/IP protocol suite because of its two foundational protocols namely Transmission Control Protocol (TCP) and the Internet Protocol (IP).
+Internet protocol suite also commonly known as TCP/IP protocol suite because of its two foundational protocols namely Transmission Control Protocol (TCP) and the Internet Protocol (IP). There are four layers of 
 
 ### Why there are 4 layers?
 
@@ -50,11 +50,11 @@ A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTQzNzQ3OTI3MiwxNzI0NjA4
-MTM2LC0xMTEyMDkxMzk4LDc0MTUxNTk1MywtMTU0ODA1Njc2NC
-wtMzg2MjcxNzY3LDQ4ODY0MDMxNCw4NzkyMjk5OTIsNzU3MjI3
-MDQyLC0xNzQ0OTQyMjI2LDUyMDI2NTQ1MywxODM0NTQzMTgyLC
-0xMzE1MzY1NTgxLDgxOTA3MDYxNCwtMTAxNjQ1Nzc1MSwxOTcw
-NDU5MTgsODQxMTU3MDk3LDE1OTk5OTI0MDYsODg2MzQ0NTY5LD
-kzMTY4MzEwM119
+BnZm1cbiIsImhpc3RvcnkiOlstMTE1NzkxODQwNSwtMTQzNzQ3
+OTI3MiwxNzI0NjA4MTM2LC0xMTEyMDkxMzk4LDc0MTUxNTk1My
+wtMTU0ODA1Njc2NCwtMzg2MjcxNzY3LDQ4ODY0MDMxNCw4Nzky
+Mjk5OTIsNzU3MjI3MDQyLC0xNzQ0OTQyMjI2LDUyMDI2NTQ1My
+wxODM0NTQzMTgyLC0xMzE1MzY1NTgxLDgxOTA3MDYxNCwtMTAx
+NjQ1Nzc1MSwxOTcwNDU5MTgsODQxMTU3MDk3LDE1OTk5OTI0MD
+YsODg2MzQ0NTY5XX0=
 -->
