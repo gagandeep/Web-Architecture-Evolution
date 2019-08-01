@@ -31,7 +31,7 @@ There is some criticism of Shannon Model of Communication,
 
 Despite its criticism, Shannon paper along with Transistors invention in 1947 changed the course of history and brought Digital Era that we are experiencing on daily basis. 
 
-Transistors introduced second generation computer. If you remember from our [Prologue](Prologue.md), computing devices were primarily used for computations at central location. With 
+Transistors introduced second generation computer. If you remember from our [Prologue](Prologue.md), computing devices were primarily used for computations at central location. With Integraed Circuit invention in late 1950's
 
 Computer to Computer Communication was always key for Defense that's why one of the early Computer Network, ARPANET was build by Advanced Research Projects Agency (ARPA) of the United States Department of Defense. ARPA is now known as DARPA. ARPANET was early implementation of **TCP/IP stack** also known as Internet protocol suite. TCP/IP is now standard for Internet Communication. 
 
@@ -47,11 +47,11 @@ There were few other network stacks and Models came along and some tried to stan
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls5NjEzMzgzNzksNzQxNTE1OTUz
-LC0xNTQ4MDU2NzY0LC0zODYyNzE3NjcsNDg4NjQwMzE0LDg3OT
-IyOTk5Miw3NTcyMjcwNDIsLTE3NDQ5NDIyMjYsNTIwMjY1NDUz
-LDE4MzQ1NDMxODIsLTEzMTUzNjU1ODEsODE5MDcwNjE0LC0xMD
-E2NDU3NzUxLDE5NzA0NTkxOCw4NDExNTcwOTcsMTU5OTk5MjQw
-Niw4ODYzNDQ1NjksOTMxNjgzMTAzLC05NTUzNjkyNjksNzA4ND
-M2ODk3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsxMjc0MDk0OTYzLDc0MTUxNTk1
+MywtMTU0ODA1Njc2NCwtMzg2MjcxNzY3LDQ4ODY0MDMxNCw4Nz
+kyMjk5OTIsNzU3MjI3MDQyLC0xNzQ0OTQyMjI2LDUyMDI2NTQ1
+MywxODM0NTQzMTgyLC0xMzE1MzY1NTgxLDgxOTA3MDYxNCwtMT
+AxNjQ1Nzc1MSwxOTcwNDU5MTgsODQxMTU3MDk3LDE1OTk5OTI0
+MDYsODg2MzQ0NTY5LDkzMTY4MzEwMywtOTU1MzY5MjY5LDcwOD
+QzNjg5N119
 -->
