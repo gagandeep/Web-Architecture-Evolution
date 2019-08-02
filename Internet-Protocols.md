@@ -43,7 +43,7 @@ Internet protocol suite also commonly known as TCP/IP protocol suite because of 
 
 ### What are four layers of Internet Protocol Suite?
 
-There are four layers of Internet Protocol Suite that define most of the Internet. 
+The four layers of Internet Protocol Suite are, 
 
 #### Link Layer
 
@@ -56,11 +56,11 @@ A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMDgzNDM4ODMsLTExNTc5MTg0
-MDUsLTE0Mzc0NzkyNzIsMTcyNDYwODEzNiwtMTExMjA5MTM5OC
-w3NDE1MTU5NTMsLTE1NDgwNTY3NjQsLTM4NjI3MTc2Nyw0ODg2
-NDAzMTQsODc5MjI5OTkyLDc1NzIyNzA0MiwtMTc0NDk0MjIyNi
-w1MjAyNjU0NTMsMTgzNDU0MzE4MiwtMTMxNTM2NTU4MSw4MTkw
-NzA2MTQsLTEwMTY0NTc3NTEsMTk3MDQ1OTE4LDg0MTE1NzA5Ny
-wxNTk5OTkyNDA2XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsxMDEyODc4OTQyLC0xMTU3OTE4
+NDA1LC0xNDM3NDc5MjcyLDE3MjQ2MDgxMzYsLTExMTIwOTEzOT
+gsNzQxNTE1OTUzLC0xNTQ4MDU2NzY0LC0zODYyNzE3NjcsNDg4
+NjQwMzE0LDg3OTIyOTk5Miw3NTcyMjcwNDIsLTE3NDQ5NDIyMj
+YsNTIwMjY1NDUzLDE4MzQ1NDMxODIsLTEzMTUzNjU1ODEsODE5
+MDcwNjE0LC0xMDE2NDU3NzUxLDE5NzA0NTkxOCw4NDExNTcwOT
+csMTU5OTk5MjQwNl19
 -->
