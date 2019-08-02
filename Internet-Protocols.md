@@ -60,17 +60,34 @@ The four layers of Internet Protocol Suite are,
 ### Why are there four layers?
 
 
+## Different Protocols of TCP/IP stack
+
+
+
+#### Link Layer
+##### PPP
+
+#### Internet Layer
+
+
+#### Transport Layer
+
+
+#### Application Layer
+
+
+
 
 ## References
 A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls5MjMyNjk5MTIsMTAxMjg3ODk0
-MiwtMTE1NzkxODQwNSwtMTQzNzQ3OTI3MiwxNzI0NjA4MTM2LC
-0xMTEyMDkxMzk4LDc0MTUxNTk1MywtMTU0ODA1Njc2NCwtMzg2
-MjcxNzY3LDQ4ODY0MDMxNCw4NzkyMjk5OTIsNzU3MjI3MDQyLC
-0xNzQ0OTQyMjI2LDUyMDI2NTQ1MywxODM0NTQzMTgyLC0xMzE1
-MzY1NTgxLDgxOTA3MDYxNCwtMTAxNjQ1Nzc1MSwxOTcwNDU5MT
-gsODQxMTU3MDk3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMTI1MTE4NTMxLDEwMTI4Nzg5
+NDIsLTExNTc5MTg0MDUsLTE0Mzc0NzkyNzIsMTcyNDYwODEzNi
+wtMTExMjA5MTM5OCw3NDE1MTU5NTMsLTE1NDgwNTY3NjQsLTM4
+NjI3MTc2Nyw0ODg2NDAzMTQsODc5MjI5OTkyLDc1NzIyNzA0Mi
+wtMTc0NDk0MjIyNiw1MjAyNjU0NTMsMTgzNDU0MzE4MiwtMTMx
+NTM2NTU4MSw4MTkwNzA2MTQsLTEwMTY0NTc3NTEsMTk3MDQ1OT
+E4LDg0MTE1NzA5N119
 -->
