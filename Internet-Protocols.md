@@ -64,16 +64,17 @@ The four layers of Internet Protocol Suite are,
 
 
 
-#### Link Layer
-##### PPP
+### Link Layer Protocols
 
-#### Internet Layer
+#### PPP
 
-
-#### Transport Layer
+### Internet Layer Protocols
 
 
-#### Application Layer
+### Transport Layer Protocols
+
+
+### Application Layer Protocols
 
 
 
@@ -83,7 +84,7 @@ A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTI1MTE4NTMxLDEwMTI4Nzg5
+BnZm1cbiIsImhpc3RvcnkiOlstMTc3MjM0MDY2LDEwMTI4Nzg5
 NDIsLTExNTc5MTg0MDUsLTE0Mzc0NzkyNzIsMTcyNDYwODEzNi
 wtMTExMjA5MTM5OCw3NDE1MTU5NTMsLTE1NDgwNTY3NjQsLTM4
 NjI3MTc2Nyw0ODg2NDAzMTQsODc5MjI5OTkyLDc1NzIyNzA0Mi
