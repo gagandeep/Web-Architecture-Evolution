@@ -41,7 +41,13 @@ There were few other network stacks and Models came along and some tried to stan
 
 Internet protocol suite also commonly known as TCP/IP protocol suite because of its two foundational protocols namely Transmission Control Protocol (TCP) and the Internet Protocol (IP). There are four layers of Protocols in TCP/IP suite that work at different layers for different purpose. Layers are kind of grouping that define what group protocols do in generic sense. There are no true layer definition that TCP/IP suite enforce, there are protocols that spill over to different layers.
 
-### Why there are 4 layers?
+### What are 4 layers of Internet Protocol Suite?
+
+There are 
+
+#### Link Layer
+
+### Why are there 4 layers?
 
 
 
@@ -50,7 +56,7 @@ A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMjAyNDYxNjU0LC0xMTU3OTE4
+BnZm1cbiIsImhpc3RvcnkiOlsxMzY2OTQ5NjA5LC0xMTU3OTE4
 NDA1LC0xNDM3NDc5MjcyLDE3MjQ2MDgxMzYsLTExMTIwOTEzOT
 gsNzQxNTE1OTUzLC0xNTQ4MDU2NzY0LC0zODYyNzE3NjcsNDg4
 NjQwMzE0LDg3OTIyOTk5Miw3NTcyMjcwNDIsLTE3NDQ5NDIyMj
