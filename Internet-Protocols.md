@@ -35,7 +35,7 @@ Transistors introduced a second-generation computer. If you remember from our [P
 
 Computer to Computer Communication was always key for Defense that's why it was the next step with the increasing power of ICs. One of the early Computer Network, ARPANET was built by Advanced Research Projects Agency (ARPA) of the United States Department of Defense. ARPA is now known as DARPA. ARPANET was an early implementation of **TCP/IP protocol suite** also known as Internet protocol suite. TCP/IP is now standard for Internet Communication. 
 
-There were few other network stacks and Models came along and some tried to standardized the Networking stack like OSI Model. However, TCP/IP got practical implementation in US defense institutes and universities. This led to widespread TCP/IP in the early era of networking, because of that TCP/IP never became obsolete.
+There were few other Network Stacks and Models came along and some tried to standardized the Networking stack like OSI Model. However, TCP/IP got practical implementation in US defense institutes and universities. This led to widespread TCP/IP in the early era of networking, because of that TCP/IP never became obsolete.
 
 ## Internet protocol suite
 
@@ -84,11 +84,11 @@ A Mathematical Theory of Communication By C. E. SHANNON [http://math.harvard.edu
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTI5NzM2NTA5OCwtMTc3MjM0
-MDY2LDEwMTI4Nzg5NDIsLTExNTc5MTg0MDUsLTE0Mzc0NzkyNz
-IsMTcyNDYwODEzNiwtMTExMjA5MTM5OCw3NDE1MTU5NTMsLTE1
-NDgwNTY3NjQsLTM4NjI3MTc2Nyw0ODg2NDAzMTQsODc5MjI5OT
-kyLDc1NzIyNzA0MiwtMTc0NDk0MjIyNiw1MjAyNjU0NTMsMTgz
-NDU0MzE4MiwtMTMxNTM2NTU4MSw4MTkwNzA2MTQsLTEwMTY0NT
-c3NTEsMTk3MDQ1OTE4XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstNDExODAxNzcwLC0xMjk3MzY1
+MDk4LC0xNzcyMzQwNjYsMTAxMjg3ODk0MiwtMTE1NzkxODQwNS
+wtMTQzNzQ3OTI3MiwxNzI0NjA4MTM2LC0xMTEyMDkxMzk4LDc0
+MTUxNTk1MywtMTU0ODA1Njc2NCwtMzg2MjcxNzY3LDQ4ODY0MD
+MxNCw4NzkyMjk5OTIsNzU3MjI3MDQyLC0xNzQ0OTQyMjI2LDUy
+MDI2NTQ1MywxODM0NTQzMTgyLC0xMzE1MzY1NTgxLDgxOTA3MD
+YxNCwtMTAxNjQ1Nzc1MV19
 -->
