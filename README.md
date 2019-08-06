@@ -37,6 +37,8 @@ This book will be arranged in following Chapters,
 22. Epilogue
 	- IoTs
 	- Edge Computing
+	- Assistive Technologies for Physical Disabilities
+	- Assistive Technologies for Humans
 	- Human-embedded Computing
 
 ## Who is the Author?
@@ -90,11 +92,11 @@ IiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiV2h5IHdlYiBiZWNvbWUg
 c28gcG9wdWxhciBpbiBzdWNoIGEgc2hvcnQgcGVyaW9kIG9mIH
 RpbWU/IFxuQ29tbXVuaWNhdGlvbiBtZWRpdW0gZm9yIEh1bWFu
 IEludGVsbGlnZW5jZSIsImNyZWF0ZWQiOjE1NjQyMzEwOTc2Mj
-J9fSwiaGlzdG9yeSI6Wzc1Mzk1NDMwLDI4NzYzOTg1NywtMTE3
-NDA4NjMzOCwtODk0NDgxMzU1LDEyODUzMjk2NzgsLTE2Mjg0MD
-c4NzMsODk0MDczNjUyLC0zNjAzOTA3MjcsLTE4MDk0NzY1MDEs
-LTE2MDM2NzU1Nyw3NDg4MjU2NDcsLTE1MzM2MzcxMzAsNzI4Nz
-I3Mjc4LC0xNDI0ODM1MjgwLDEyNjUzMjU4NzAsLTEwMzcxOTY4
-MDQsLTEwNzcyMjYyMDAsMTQ4MjEzMzczMCwtMTQzOTU2MDQ0XX
-0=
+J9fSwiaGlzdG9yeSI6Wy0xMDMxODM5NTIxLDc1Mzk1NDMwLDI4
+NzYzOTg1NywtMTE3NDA4NjMzOCwtODk0NDgxMzU1LDEyODUzMj
+k2NzgsLTE2Mjg0MDc4NzMsODk0MDczNjUyLC0zNjAzOTA3Mjcs
+LTE4MDk0NzY1MDEsLTE2MDM2NzU1Nyw3NDg4MjU2NDcsLTE1Mz
+M2MzcxMzAsNzI4NzI3Mjc4LC0xNDI0ODM1MjgwLDEyNjUzMjU4
+NzAsLTEwMzcxOTY4MDQsLTEwNzcyMjYyMDAsMTQ4MjEzMzczMC
+wtMTQzOTU2MDQ0XX0=
 -->
