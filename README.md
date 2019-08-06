@@ -37,7 +37,7 @@ This book will be arranged in following Chapters,
 22. Epilogue
 	- IoTs
 	- Edge Computing
-	- Age of H
+	- Human-embedded Computing
 
 ## Who is the Author?
 **Gagandeep Singh** is the Author of this unfinished book. He has more than 10 years of experience in the industry. He has done couple of startups of his own and also served as VP of Technology in Education startup. He is doing Architecting of web based systems for past 7 years. He worked in different domains from Publishing, Media, Auto-industry, Health, Education and Advertising.
@@ -90,11 +90,11 @@ IiOiJnaDoxNzMxMzciLCJ0ZXh0IjoiV2h5IHdlYiBiZWNvbWUg
 c28gcG9wdWxhciBpbiBzdWNoIGEgc2hvcnQgcGVyaW9kIG9mIH
 RpbWU/IFxuQ29tbXVuaWNhdGlvbiBtZWRpdW0gZm9yIEh1bWFu
 IEludGVsbGlnZW5jZSIsImNyZWF0ZWQiOjE1NjQyMzEwOTc2Mj
-J9fSwiaGlzdG9yeSI6Wy0yMDY0OTcxNjQ0LDI4NzYzOTg1Nywt
-MTE3NDA4NjMzOCwtODk0NDgxMzU1LDEyODUzMjk2NzgsLTE2Mj
-g0MDc4NzMsODk0MDczNjUyLC0zNjAzOTA3MjcsLTE4MDk0NzY1
-MDEsLTE2MDM2NzU1Nyw3NDg4MjU2NDcsLTE1MzM2MzcxMzAsNz
-I4NzI3Mjc4LC0xNDI0ODM1MjgwLDEyNjUzMjU4NzAsLTEwMzcx
-OTY4MDQsLTEwNzcyMjYyMDAsMTQ4MjEzMzczMCwtMTQzOTU2MD
-Q0XX0=
+J9fSwiaGlzdG9yeSI6Wzc1Mzk1NDMwLDI4NzYzOTg1NywtMTE3
+NDA4NjMzOCwtODk0NDgxMzU1LDEyODUzMjk2NzgsLTE2Mjg0MD
+c4NzMsODk0MDczNjUyLC0zNjAzOTA3MjcsLTE4MDk0NzY1MDEs
+LTE2MDM2NzU1Nyw3NDg4MjU2NDcsLTE1MzM2MzcxMzAsNzI4Nz
+I3Mjc4LC0xNDI0ODM1MjgwLDEyNjUzMjU4NzAsLTEwMzcxOTY4
+MDQsLTEwNzcyMjYyMDAsMTQ4MjEzMzczMCwtMTQzOTU2MDQ0XX
+0=
 -->
